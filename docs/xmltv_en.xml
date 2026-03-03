@@ -1,0 +1,2230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="xmltv-epg-generator">
+  <channel id="radio-santec.webtv.en">
+    <display-name>Radio Santec WebTV EN</display-name>
+  </channel>
+  <programme start="20260224150000 +0000" stop="20260224154100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">I See God's Love in All Things</title>
+    <desc lang="en">Original Christian Meditation I (12): I See God's Love in All Things</desc>
+  </programme>
+  <programme start="20260224154400 +0000" stop="20260224155900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 10 - Friday</title>
+    <desc lang="en">Thoughts for the Day - Week 10 - Friday</desc>
+  </programme>
+  <programme start="20260224160200 +0000" stop="20260224163030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Meditation for Learning by Gabriele</title>
+    <desc lang="en">A Meditation for Learning by Gabriele</desc>
+  </programme>
+  <programme start="20260224163400 +0000" stop="20260224170230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Free Communities Under the Sign of the Lily 06: God's Love for Humankind and For Every Creature</title>
+    <desc lang="en">The Free Communities Under the Sign of the Lily 06: God's Love for Humankind and For Every Creature</desc>
+  </programme>
+  <programme start="20260224170730 +0000" stop="20260224171930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: Don't Be a Know-It-All.</title>
+    <desc lang="en">Liobani: Don't Be a Know-It-All. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260224172230 +0000" stop="20260224173600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: Games of Insight - The good Core.</title>
+    <desc lang="en">Liobani: Games of Insight - The good Core. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260224173800 +0000" stop="20260224180000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Youth and the Prophet. Part 3</title>
+    <desc lang="en">The Youth and the Prophet. Part 3</desc>
+  </programme>
+  <programme start="20260224180000 +0000" stop="20260224182200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Youth and the Prophet. Part 3</title>
+    <desc lang="en">The Youth and the Prophet. Part 3</desc>
+  </programme>
+  <programme start="20260224182300 +0000" stop="20260224183630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: The Free Will.</title>
+    <desc lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260224184030 +0000" stop="20260224185200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Children's Stories - Cuckoo Calls You</title>
+    <desc lang="en">Children's Stories - Cuckoo Calls You</desc>
+  </programme>
+  <programme start="20260224185730 +0000" stop="20260224191500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro from Symphony No. 6 in C major D589 by Franz Schubert (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260224191500 +0000" stop="20260224204000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260224204500 +0000" stop="20260224211930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation. Praying in Unity - For Unity</title>
+    <desc lang="en">Meditation. Praying in Unity - For Unity</desc>
+  </programme>
+  <programme start="20260224212530 +0000" stop="20260224214200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Christ in Us, the Physician of the Soul</title>
+    <desc lang="en">Meditation Prayer. Christ in Us, the Physician of the Soul</desc>
+  </programme>
+  <programme start="20260224214900 +0000" stop="20260224230230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Age of the Lily, Sophia, The Wisdom of God, the Spirit of Truth, the Spirit of Fusion: Spirit of His Spirit, Love of His Love, by Gabriele</title>
+    <desc lang="en">The Age of the Lily, Sophia, The Wisdom of God, the Spirit of Truth, the Spirit of Fusion: Spirit of His Spirit, Love of His Love, by Gabriele</desc>
+  </programme>
+  <programme start="20260224230500 +0000" stop="20260224231000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Self-Examined and Experienced. From Gabriele. 4th part - with Arabic Subtitles</title>
+    <desc lang="en">Self-Examined and Experienced. From Gabriele. 4th part - with Arabic Subtitles</desc>
+  </programme>
+  <programme start="20260224231000 +0000" stop="20260224232430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are at Home Here - Animals on the Land of Peace</title>
+    <desc lang="en">We Are at Home Here - Animals on the Land of Peace</desc>
+  </programme>
+  <programme start="20260224232430 +0000" stop="20260224233130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (8)</title>
+    <desc lang="en">You, the Animal, You, the Human Being. Which Has Higher Values?</desc>
+  </programme>
+  <programme start="20260224233330 +0000" stop="20260224234030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (13)</title>
+    <desc lang="en">Live the Moment—And You Will See and Recognize Yourself</desc>
+  </programme>
+  <programme start="20260224234030 +0000" stop="20260225000000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Liebestraum (Dreams of Love) Nr. 3 in A flat major by Franz Liszt, &quot;&quot;Letzte Rose&quot; (The Last Rose) from the opera Martha by Friedrich von Flotow, Prelude from Partita No. 3 BWV 1006 by Johann Sebastian Bach and others (Sep. 2014)</desc>
+  </programme>
+  <programme start="20260225000000 +0000" stop="20260225012500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260225012930 +0000" stop="20260225015000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Everyone is the Architect of Their Own Happiness	The True School Is Life. Teaching Hours from the Divine Wisdom	MITTWOCH - J	False	False	False	False	False	False	False	DieWahreSchule.jpg225	43006	FGE Rückm GeschHeiltum	FGE	00:11:30	25.02.2026 01:52:00	The Gift from the Sanctum of God - Feedback	The Gift from the Sanctum of God - Feedback	MITTWOCH - J	False	False	False	False	False	False	False	EN_RueckmGeschHeiligum.jpg227	25729	InnererWeg 00	GR-IW	00:39:30	25.02.2026 02:08:00	The Call of Gabriele, the Prophetess and Emissary of God in the Messianic, Sophianic Age of the Lily, of the Love for God and Neighbor	The Call of Gabriele, the Prophetess and Emissary of God in the Messianic, Sophianic Age of the Lily, of the Love for God and Neighbor	MITTWOCH - J	False	False	False	False	False	False	False	InnererWeg.jpg233	42832	Großinquisitor 1	LES	00:18:30	25.02.2026 03:00:30	A Reading from: The Grand Inquisitor&quot;. Part 1</title>
+    <desc lang="en">A Reading from: &quot;The Grand Inquisitor&quot;. Part 1</desc>
+  </programme>
+  <programme start="20260225032500 +0000" stop="20260225035500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Word Has Risen and Has Been Disseminated Worldwide.</title>
+    <desc lang="en">Part 1: Recognize and Heal Yourself through the Power of the Spirit.</desc>
+  </programme>
+  <programme start="20260225035600 +0000" stop="20260225041330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom: &quot;We Live Dangerously in the Causal Law, in the Law of Sowing and Reaping&quot;</title>
+    <desc lang="en">We Live Dangerously in the Causal Law, in the Law of Sowing and Reaping</desc>
+  </programme>
+  <programme start="20260225041330 +0000" stop="20260225043100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro from Symphony No. 6 in C major D589 by Franz Schubert (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260225043100 +0000" stop="20260225053000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Inner Devotional 12 - Rest in You - You Are.</title>
+    <desc lang="en">Inner Devotional 12 - Rest in You - You Are.</desc>
+  </programme>
+  <programme start="20260225053430 +0000" stop="20260225055900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Living and Dying, Reading - Part 1</title>
+    <desc lang="en">Living and Dying, Reading - Part 1</desc>
+  </programme>
+  <programme start="20260225060000 +0000" stop="20260225064000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">I Live in Christ, in His Presence</title>
+    <desc lang="en">Original Christian Meditation I (10): I Live in Christ, in His Presence</desc>
+  </programme>
+  <programme start="20260225064200 +0000" stop="20260225073600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - J. S. Bach: Allegro from Violin Concerto in E major (BWV 1042), L. Boccherini: Andantino gracioso from Cello Concerto No. 9 in B flat major, A. Vivaldi: Flute Concerto in a minor (RV 108), W.A. Mozart: Largo and Allegro from Divertimento in F major (KV 138), G. Ph. Telemann: Largo and Allegro from Viola Concerto in G major, Op. 29, C. Stamitz: Andante and Allegro from Flute Concerto in G major, F. Schubert:  Ellen’s Third Song, J. S. Bach : Sheep Can Graze Safely from Cantata (BWV 208)</desc>
+  </programme>
+  <programme start="20260225074030 +0000" stop="20260225075930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Free Communities Under the Sign of the Lily 05: We are Beings of the Law of the Cosmos</title>
+    <desc lang="en">The Free Communities Under the Sign of the Lily 05: We are Beings of the Law of the Cosmos</desc>
+  </programme>
+  <programme start="20260225080200 +0000" stop="20260225081330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: The Love of Our Father.</title>
+    <desc lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260225081500 +0000" stop="20260225082530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani - Report from Africa</title>
+    <desc lang="en">Liobani - The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor: Report from Africa</desc>
+  </programme>
+  <programme start="20260225083030 +0000" stop="20260225085230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Youth and the Prophet. Part 2</title>
+    <desc lang="en">The Youth and the Prophet. Part 2</desc>
+  </programme>
+  <programme start="20260225090000 +0000" stop="20260225093200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Christ of God gave a revelation in the Core Community of the Lord for the building of the Kingdom of Peace Of the Christ of God</title>
+    <desc lang="en">October 3, 2025, in Year 2 of the Messianic, Sophianic Age</desc>
+  </programme>
+  <programme start="20260225093630 +0000" stop="20260225100300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">My Thoughts - the Settlers</title>
+    <desc lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom</desc>
+  </programme>
+  <programme start="20260225100500 +0000" stop="20260225103430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Inner Path Is the Path to the Heart of God in Us</title>
+    <desc lang="en">The Inner Path to the Cosmic Consciousness.Level of Order - Part 1 &quot;The Inner Path Is the Path to the Heart of God in Us&quot;</desc>
+  </programme>
+  <programme start="20260225104930 +0000" stop="20260225113930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The All-Encompassing Cosmic Library. The All-Ocean of God. part 1</title>
+    <desc lang="en">The All-Encompassing Cosmic Library. The All-Ocean of God. part 1</desc>
+  </programme>
+  <programme start="20260225114730 +0000" stop="20260225123230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The All-Encompassing Cosmic Library. The All-Ocean of God. part 2</title>
+    <desc lang="en">The All-Encompassing Cosmic Library. The All-Ocean of God. part 2</desc>
+  </programme>
+  <programme start="20260225124600 +0000" stop="20260225131930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Reading from: &quot;The Grand Inquisitor&quot;. Part 3</title>
+    <desc lang="en">A Reading from: &quot;The Grand Inquisitor&quot;. Part 3</desc>
+  </programme>
+  <programme start="20260225132600 +0000" stop="20260225142200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Inner Devotional 13 - Be Quiet and Entrust Yourself to God in Every Moment</title>
+    <desc lang="en">Inner Devotional 13 - Be Quiet and Entrust Yourself to God in Every Moment</desc>
+  </programme>
+  <programme start="20260225143000 +0000" stop="20260225145000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Living and Dying, Reading - Part 2</title>
+    <desc lang="en">Living and Dying, Reading - Part 2</desc>
+  </programme>
+  <programme start="20260225150000 +0000" stop="20260225153600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">I Affirm the Light in the Center of Divine Love</title>
+    <desc lang="en">Original Christian Meditation - &quot;I Affirm the Light in the Center of Divine Love&quot;</desc>
+  </programme>
+  <programme start="20260225154200 +0000" stop="20260225160600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation - Father-Words for You, Too</title>
+    <desc lang="en">Meditation - Father-Words for You, Too</desc>
+  </programme>
+  <programme start="20260225160800 +0000" stop="20260225162300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 10 - Saturday</title>
+    <desc lang="en">Thoughts for the Day - Week 10 - Saturday</desc>
+  </programme>
+  <programme start="20260225162300 +0000" stop="20260225164230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Liebestraum (Dreams of Love) Nr. 3 in A flat major by Franz Liszt, &quot;&quot;Letzte Rose&quot; (The Last Rose) from the opera Martha by Friedrich von Flotow, Prelude from Partita No. 3 BWV 1006 by Johann Sebastian Bach and others (Sep. 2014)</desc>
+  </programme>
+  <programme start="20260225164230 +0000" stop="20260225171100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Prayer Meditation. Life Is Cosmic All-Love</title>
+    <desc lang="en">Prayer Meditation. Life Is Cosmic All-Love</desc>
+  </programme>
+  <programme start="20260225171630 +0000" stop="20260225173900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Christ of God gave a revelation in the Core Community of the Lord for the building of the Kingdom of Peace Of the Christ of God.</title>
+    <desc lang="en">On October 3, 2025, in Year 2 of the Messianic, Sophianic Age</desc>
+  </programme>
+  <programme start="20260225174330 +0000" stop="20260225175800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</title>
+    <desc lang="en">Liobani: Recognize yourself.</desc>
+  </programme>
+  <programme start="20260225180000 +0000" stop="20260225183830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Either For Me or Against Me</title>
+    <desc lang="en">The Eternal Kingdom. A reading from the revelation of the Christ of God, given through Gabriele, the prophetess and emissary of the Eternal Kingdom on June 14, 1980 in Augsburg, Germany</desc>
+  </programme>
+  <programme start="20260225185030 +0000" stop="20260225192230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation Prayer. Just As You Give, So Will It Be Given To You</title>
+    <desc lang="en">Meditation Prayer. Just As You Give, So Will It Be Given To You</desc>
+  </programme>
+  <programme start="20260225192730 +0000" stop="20260225195800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Freedom, Love and Unity</title>
+    <desc lang="en">Highlight Hour 02: Freedom, Love and Unity</desc>
+  </programme>
+  <programme start="20260225200530 +0000" stop="20260225202530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">In Conversation: Prof. Dr. Mojib Latif Climate Reseracher</title>
+    <desc lang="en">In Conversation: Prof. Dr. Mojib Latif Climate Reseracher</desc>
+  </programme>
+  <programme start="20260225202700 +0000" stop="20260225204400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A New Agriculture for the New Era</title>
+    <desc lang="en">Blossoming Fields Full of Life!</desc>
+  </programme>
+  <programme start="20260225204930 +0000" stop="20260225211630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 3</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 3</desc>
+  </programme>
+  <programme start="20260225211930 +0000" stop="20260225214400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 4</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 4</desc>
+  </programme>
+  <programme start="20260225215000 +0000" stop="20260225221000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (06)</title>
+    <desc lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (06)</desc>
+  </programme>
+  <programme start="20260225221330 +0000" stop="20260225233830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260226000000 +0000" stop="20260226002200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Youth and the Prophet. Part 2</title>
+    <desc lang="en">The Youth and the Prophet. Part 2</desc>
+  </programme>
+  <programme start="20260226002300 +0000" stop="20260226003800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: Understanding, Good Will and Tolerance.</title>
+    <desc lang="en">Liobani: Understanding, Good Will and Tolerance. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260226004030 +0000" stop="20260226005200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Children's Stories - Cuckoo Calls You</title>
+    <desc lang="en">Children's Stories - Cuckoo Calls You</desc>
+  </programme>
+  <programme start="20260226005200 +0000" stop="20260226020900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">I Come Soon! I Am the Christ of God</title>
+    <desc lang="en">The Messianic, sophianic Age. I Come Soon! I Am the Christ of God. Revealed from the Kingdom of God through the Prophetess of God Gabriele in the Spring of 2019</desc>
+  </programme>
+  <programme start="20260226021200 +0000" stop="20260226030830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Primordial Light for All People. Develop the Self-Healing Forces. Heal Yourself with the Power of the Christ of God. Part 1: Activate the Primordial Light, the Power of the Christ of God, in Your Soul and in Your Body</title>
+    <desc lang="en">The Primordial Light for All People. Develop the Self-Healing Forces. Heal Yourself with the Power of the Christ of God. Part 1: Activate the Primordial Light, the Power of the Christ of God, in Your Soul and in Your Body</desc>
+  </programme>
+  <programme start="20260226031030 +0000" stop="20260226033630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation. The Cell State</title>
+    <desc lang="en">Meditation. The Cell State</desc>
+  </programme>
+  <programme start="20260226034300 +0000" stop="20260226040530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Christ of God gave a revelation in the Core Community of the Lord for the building of the Kingdom of Peace Of the Christ of God.</title>
+    <desc lang="en">On October 3, 2025, in Year 2 of the Messianic, Sophianic Age</desc>
+  </programme>
+  <programme start="20260226040530 +0000" stop="20260226042830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro and Adagio from the Sinfonia Concertante for flute, clarinet, horn, bassoon and orchestra in ES major KV 297b by Wolfgang Amadeus Mozart (Sept.2014)</desc>
+  </programme>
+  <programme start="20260226042830 +0000" stop="20260226053930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Four Planes of Developmente, the Cradle of Evoluiton to the Filiation of God. Program 2</title>
+    <desc lang="en">The Age of the Lily, Sophia, the Wisdom of God. The Four Planes of Developmente, the Cradle of Evoluiton to the Filiation of God. Program 2</desc>
+  </programme>
+  <programme start="20260226053930 +0000" stop="20260226055100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Adagio and Allegro from the Concerto for Cello and Orchestra No. 2 in D major by Josef Haydn (Sep. 2014)</desc>
+  </programme>
+  <programme start="20260226055300 +0000" stop="20260226060000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (11)</title>
+    <desc lang="en">Father Words for You, too</desc>
+  </programme>
+  <programme start="20260226060000 +0000" stop="20260226063500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Am the architect of my fate</title>
+    <desc lang="en">Original Christian Meditation I (11) A Am the architect of my fate</desc>
+  </programme>
+  <programme start="20260226063830 +0000" stop="20260226065330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 10 - Thursday</title>
+    <desc lang="en">Thoughts for the Day - Week 10 - Thursday</desc>
+  </programme>
+  <programme start="20260226065630 +0000" stop="20260226072300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Find and Affirm the Positive in your Neighbor</title>
+    <desc lang="en">Find and Affirm the Positive in your Neighbor</desc>
+  </programme>
+  <programme start="20260226073030 +0000" stop="20260226075700 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Soul as a &quot;Loom&quot; - You Weave into It Your Feelings, Thoughts, Words and Actions</title>
+    <desc lang="en">The Eternal Kingdom. A reading from the revelation of the Christ of God, given through Gabriele, the prohetesess and emissary of the Eternal Kingdom, on August 5, 1988 in Würzburg, Germany</desc>
+  </programme>
+  <programme start="20260226080130 +0000" stop="20260226080800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (15)</title>
+    <desc lang="en">Pearls of Life for You</desc>
+  </programme>
+  <programme start="20260226081030 +0000" stop="20260226081700 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (16)</title>
+    <desc lang="en">Don't Let Go!</desc>
+  </programme>
+  <programme start="20260226081700 +0000" stop="20260226083230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: True Friendship.</title>
+    <desc lang="en">Liobani: True Friendship. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260226083530 +0000" stop="20260226085400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: Choosing an Occupation.</title>
+    <desc lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260226090000 +0000" stop="20260226092200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Youth and the Prophet. Part 3</title>
+    <desc lang="en">The Youth and the Prophet. Part 3</desc>
+  </programme>
+  <programme start="20260226092300 +0000" stop="20260226093630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: The Free Will.</title>
+    <desc lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260226094030 +0000" stop="20260226095200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Children's Stories - Cuckoo Calls You</title>
+    <desc lang="en">Children's Stories - Cuckoo Calls You</desc>
+  </programme>
+  <programme start="20260226095730 +0000" stop="20260226101500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro from Symphony No. 6 in C major D589 by Franz Schubert (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260226101500 +0000" stop="20260226114000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260226114500 +0000" stop="20260226121930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation. Praying in Unity - For Unity</title>
+    <desc lang="en">Meditation. Praying in Unity - For Unity</desc>
+  </programme>
+  <programme start="20260226122530 +0000" stop="20260226124200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Christ in Us, the Physician of the Soul</title>
+    <desc lang="en">Meditation Prayer. Christ in Us, the Physician of the Soul</desc>
+  </programme>
+  <programme start="20260226124900 +0000" stop="20260226140230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Age of the Lily, Sophia, The Wisdom of God, the Spirit of Truth, the Spirit of Fusion: Spirit of His Spirit, Love of His Love, by Gabriele</title>
+    <desc lang="en">The Age of the Lily, Sophia, The Wisdom of God, the Spirit of Truth, the Spirit of Fusion: Spirit of His Spirit, Love of His Love, by Gabriele</desc>
+  </programme>
+  <programme start="20260226140500 +0000" stop="20260226141000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Self-Examined and Experienced. From Gabriele. 4th part - with Arabic Subtitles</title>
+    <desc lang="en">Self-Examined and Experienced. From Gabriele. 4th part - with Arabic Subtitles</desc>
+  </programme>
+  <programme start="20260226141000 +0000" stop="20260226142430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are at Home Here - Animals on the Land of Peace</title>
+    <desc lang="en">We Are at Home Here - Animals on the Land of Peace</desc>
+  </programme>
+  <programme start="20260226142430 +0000" stop="20260226143130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (8)</title>
+    <desc lang="en">You, the Animal, You, the Human Being. Which Has Higher Values?</desc>
+  </programme>
+  <programme start="20260226143330 +0000" stop="20260226144030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (13)</title>
+    <desc lang="en">Live the Moment—And You Will See and Recognize Yourself</desc>
+  </programme>
+  <programme start="20260226144030 +0000" stop="20260226150000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Liebestraum (Dreams of Love) Nr. 3 in A flat major by Franz Liszt, &quot;&quot;Letzte Rose&quot; (The Last Rose) from the opera Martha by Friedrich von Flotow, Prelude from Partita No. 3 BWV 1006 by Johann Sebastian Bach and others (Sep. 2014)</desc>
+  </programme>
+  <programme start="20260226150000 +0000" stop="20260226153000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The  Divien Power Flows from the Center of Love</title>
+    <desc lang="en">Original Christian Meditation - &quot;The  Divien Power Flows from the Center of Love&quot;</desc>
+  </programme>
+  <programme start="20260226153530 +0000" stop="20260226155830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The One Who Has a Conscience Feels the Life</title>
+    <desc lang="en">The One Who Has a Conscience Feels the Life</desc>
+  </programme>
+  <programme start="20260226160130 +0000" stop="20260226161630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 10 - Sunday</title>
+    <desc lang="en">Thoughts for the Day - Week 10 - Sunday</desc>
+  </programme>
+  <programme start="20260226162200 +0000" stop="20260226171800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">As We Are the Temple of God, God Is The Health in Us (6)</title>
+    <desc lang="en">Meditation-The Inner Physician and Healer - As We Are the Temple of God, God Is The Health in Us (6)</desc>
+  </programme>
+  <programme start="20260226172300 +0000" stop="20260226173130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Concerto for Flute, Bassoon and Orchestra in G minor RV 106 by Antonio Vivaldi (Sep.2014)</desc>
+  </programme>
+  <programme start="20260226173130 +0000" stop="20260226174630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: The Inuisible Thought-Beings.</title>
+    <desc lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260226174630 +0000" stop="20260226175730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Children's Stories - The Sad Snowman</title>
+    <desc lang="en">Children's Stories - The Sad Snowman</desc>
+  </programme>
+  <programme start="20260226180000 +0000" stop="20260226183800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Where Your Treasure Is, There Will Your Heart Also Be. And There Will Your Soul Be One Day</title>
+    <desc lang="en">Where Your Treasure Is, There Will Your Heart Also Be. And There Will Your Soul Be One Day</desc>
+  </programme>
+  <programme start="20260226184300 +0000" stop="20260226191330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Lord's Prayer</title>
+    <desc lang="en">The Lord's Prayer</desc>
+  </programme>
+  <programme start="20260226191330 +0000" stop="20260226193630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro and Adagio from the Sinfonia Concertante for flute, clarinet, horn, bassoon and orchestra in ES major KV 297b by Wolfgang Amadeus Mozart (Sept.2014)</desc>
+  </programme>
+  <programme start="20260226193700 +0000" stop="20260226204630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">For the present or for the time after the time: You Are Somebody? Who Are You?</title>
+    <desc lang="en">For the present or for the time after the time: You Are Somebody? Who Are You?</desc>
+  </programme>
+  <programme start="20260226205030 +0000" stop="20260226211330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Where Does Our Fear Come From? Given by Gabriele, The Prophetess and Emissary of the Eternal Kingdom</title>
+    <desc lang="en">Where Does Our Fear Come From? Given by Gabriele, The Prophetess and Emissary of the Eternal Kingdom</desc>
+  </programme>
+  <programme start="20260226211930 +0000" stop="20260226213230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation Prayer. Heart-Prayers Are Nourishment for the Soul</title>
+    <desc lang="en">Meditation Prayer. Heart-Prayers Are Nourishment for the Soul</desc>
+  </programme>
+  <programme start="20260226213630 +0000" stop="20260226215330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 3</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 3</desc>
+  </programme>
+  <programme start="20260226215430 +0000" stop="20260226221000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 4</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 4</desc>
+  </programme>
+  <programme start="20260226221630 +0000" stop="20260226234130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260226234400 +0000" stop="20260226235130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (20)</title>
+    <desc lang="en">A Fulfilled Life Into Old Age 2</desc>
+  </programme>
+  <programme start="20260226235230 +0000" stop="20260227000000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (21)</title>
+    <desc lang="en">Words of Life 1</desc>
+  </programme>
+  <programme start="20260227000000 +0000" stop="20260227004200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">I Make All Things New</title>
+    <desc lang="en">From the Eternal Kingdom. Given in 1991 and revealed through the Emissary of the Eternal Kingdom, Gabriele.</desc>
+  </programme>
+  <programme start="20260227004300 +0000" stop="20260227011530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Security and Safety in Christ . Given by Gabriele, the Prophetess an Emissary of the Eternal Kingdom</title>
+    <desc lang="en">Security and Safety in Christ . Given by Gabriele, the Prophetess an Emissary of the Eternal Kingdom</desc>
+  </programme>
+  <programme start="20260227012130 +0000" stop="20260227015630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Highlight Hours with Gabriele: The First and Fifth Commandment of God in the Light of Christ</title>
+    <desc lang="en">Highlight Hours with Gabriele: The First and Fifth Commandment of God in the Light of Christ</desc>
+  </programme>
+  <programme start="20260227020400 +0000" stop="20260227023630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The New Agriculture under the Sign of the Messianic, Sophianic Isaiah-Land in the Work of the Deed of Love for God and Neighbor</title>
+    <desc lang="en">The New Agriculture under the Sign of the Messianic, Sophianic Isaiah-Land in the Work of the Deed of Love for God and Neighbor</desc>
+  </programme>
+  <programme start="20260227023800 +0000" stop="20260227025600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A New Agriculture for the New Era</title>
+    <desc lang="en">Fallow Fields - Healthy Soil, Healthy Harvest</desc>
+  </programme>
+  <programme start="20260227025900 +0000" stop="20260227034900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">In Conversation with Prof. Peter Berthold, Ornithologist</title>
+    <desc lang="en">In Conversation with Prof. Peter Berthold, Ornithologist</desc>
+  </programme>
+  <programme start="20260227035030 +0000" stop="20260227041230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 1</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 1</desc>
+  </programme>
+  <programme start="20260227041630 +0000" stop="20260227044000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 2</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 2</desc>
+  </programme>
+  <programme start="20260227044600 +0000" stop="20260227050330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (05)</title>
+    <desc lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (05)</desc>
+  </programme>
+  <programme start="20260227050700 +0000" stop="20260227054600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">God-Father Revealed Himself at the Original Christian Community Gathering on Pentecost June 7, 2025, in the Community of the Lord for the Building the Kingdom of Peace of the Christ of God</title>
+    <desc lang="en">God-Father Revealed Himself at the Original Christian Community Gathering on Pentecost June 7, 2025, in the Community of the Lord for the Building the Kingdom of Peace of the Christ of God</desc>
+  </programme>
+  <programme start="20260227060000 +0000" stop="20260227064100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">I See God's Love in All Things</title>
+    <desc lang="en">Original Christian Meditation I (12): I See God's Love in All Things</desc>
+  </programme>
+  <programme start="20260227064400 +0000" stop="20260227065900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 10 - Friday</title>
+    <desc lang="en">Thoughts for the Day - Week 10 - Friday</desc>
+  </programme>
+  <programme start="20260227070200 +0000" stop="20260227073030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Meditation for Learning by Gabriele</title>
+    <desc lang="en">A Meditation for Learning by Gabriele</desc>
+  </programme>
+  <programme start="20260227073400 +0000" stop="20260227080230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Free Communities Under the Sign of the Lily 06: God's Love for Humankind and For Every Creature</title>
+    <desc lang="en">The Free Communities Under the Sign of the Lily 06: God's Love for Humankind and For Every Creature</desc>
+  </programme>
+  <programme start="20260227080730 +0000" stop="20260227081930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: Don't Be a Know-It-All.</title>
+    <desc lang="en">Liobani: Don't Be a Know-It-All. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260227082230 +0000" stop="20260227083600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: Games of Insight - The good Core.</title>
+    <desc lang="en">Liobani: Games of Insight - The good Core. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260227083800 +0000" stop="20260227090000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Youth and the Prophet. Part 3</title>
+    <desc lang="en">The Youth and the Prophet. Part 3</desc>
+  </programme>
+  <programme start="20260227090000 +0000" stop="20260227093830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Either For Me or Against Me</title>
+    <desc lang="en">The Eternal Kingdom. A reading from the revelation of the Christ of God, given through Gabriele, the prophetess and emissary of the Eternal Kingdom on June 14, 1980 in Augsburg, Germany</desc>
+  </programme>
+  <programme start="20260227095030 +0000" stop="20260227102230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation Prayer. Just As You Give, So Will It Be Given To You</title>
+    <desc lang="en">Meditation Prayer. Just As You Give, So Will It Be Given To You</desc>
+  </programme>
+  <programme start="20260227102730 +0000" stop="20260227105800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Freedom, Love and Unity</title>
+    <desc lang="en">Highlight Hour 02: Freedom, Love and Unity</desc>
+  </programme>
+  <programme start="20260227110530 +0000" stop="20260227112530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">In Conversation: Prof. Dr. Mojib Latif Climate Reseracher</title>
+    <desc lang="en">In Conversation: Prof. Dr. Mojib Latif Climate Reseracher</desc>
+  </programme>
+  <programme start="20260227112700 +0000" stop="20260227114400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A New Agriculture for the New Era</title>
+    <desc lang="en">Blossoming Fields Full of Life!</desc>
+  </programme>
+  <programme start="20260227114930 +0000" stop="20260227121630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 3</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 3</desc>
+  </programme>
+  <programme start="20260227121930 +0000" stop="20260227124400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 4</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 4</desc>
+  </programme>
+  <programme start="20260227125000 +0000" stop="20260227131000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (06)</title>
+    <desc lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (06)</desc>
+  </programme>
+  <programme start="20260227131330 +0000" stop="20260227143830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227153300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Divine Powers of Light in Me Transform Everything</title>
+    <desc lang="en">Original Christian Meditation I (8): The Divine Powers of Light in Me Transform Everything</desc>
+  </programme>
+  <programme start="20260227153900 +0000" stop="20260227155400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 10 - Monday</title>
+    <desc lang="en">Thoughts for the Day - Week 10 - Monday</desc>
+  </programme>
+  <programme start="20260227155800 +0000" stop="20260227163100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Where Do We Pray? What Do We pray? How Do We pray?</title>
+    <desc lang="en">Meditation - Prayer: Where Do We Pray? What Do We pray? How Do We pray?</desc>
+  </programme>
+  <programme start="20260227163600 +0000" stop="20260227170630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Inner Safety and Security</title>
+    <desc lang="en">Highlight Hours with Gabriele. Inner Safety and Security</desc>
+  </programme>
+  <programme start="20260227170900 +0000" stop="20260227171730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Concerto for Flute, Bassoon and Orchestra in G minor RV 106 by Antonio Vivaldi (Sep.2014)</desc>
+  </programme>
+  <programme start="20260227172000 +0000" stop="20260227173030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: Everything Feels - Animals, Plants and Stones.</title>
+    <desc lang="en">Liobani: Everything Feels - Animals, Plants and Stones. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260227173200 +0000" stop="20260227174330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Children's Stories - Cuckoo Calls You</title>
+    <desc lang="en">Children's Stories - Cuckoo Calls You</desc>
+  </programme>
+  <programme start="20260227174830 +0000" stop="20260227180000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Adagio and Allegro from the Concerto for Cello and Orchestra No. 2 in D major by Josef Haydn (Sep. 2014)</desc>
+  </programme>
+  <programme start="20260227180000 +0000" stop="20260227182630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Eternal Kingdom: &quot;The Law of Sowing and Reaping - and the Grace of God&quot;</title>
+    <desc lang="en">A reading of a revelation of the Christ of God &quot;The Law of Sowing and Reaping — and the Grace of God,&quot; given through Gabriele, the prophetess and emissary of the Eternal Kingdom, on May 6, 1988 in Würzburg, Germany</desc>
+  </programme>
+  <programme start="20260227182930 +0000" stop="20260227185200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation Prayer. Christ Is the Redemption in Us.</title>
+    <desc lang="en">Meditation Prayer. Christ Is the Redemption in Us.</desc>
+  </programme>
+  <programme start="20260227185830 +0000" stop="20260227192630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">What Is Freedom? How Did We Deprive Ourselves of It? And How Do We Regain It?</title>
+    <desc lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom: &quot;What Is Freedom? How Did We Deprive Ourselves of It? And How Do We Regain It?&quot;</desc>
+  </programme>
+  <programme start="20260227193100 +0000" stop="20260227195730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 7</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 7</desc>
+  </programme>
+  <programme start="20260227195930 +0000" stop="20260227202530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 8</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 8</desc>
+  </programme>
+  <programme start="20260227202630 +0000" stop="20260227211930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Part 3. The Preparations for the Dissolution of All Condensed Forms and the Return of the Christ of God.</title>
+    <desc lang="en">Part 3: The homebringing of the children of God – back to the unity of all life and the eternal love</desc>
+  </programme>
+  <programme start="20260227212730 +0000" stop="20260227215430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Washing the Feet</title>
+    <desc lang="en">This is My Word - Reading Chap. 76 A &quot;Washing the Feet&quot;</desc>
+  </programme>
+  <programme start="20260227215930 +0000" stop="20260227232430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260227233330 +0000" stop="20260227233830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Self-Examined and Experienced. From Gabriele. 1st part - with Arabic Subtitles</title>
+    <desc lang="en">Self-Examined and Experienced. From Gabriele. 1st part - with Arabic Subtitles</desc>
+  </programme>
+  <programme start="20260227234030 +0000" stop="20260227235900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom: &quot;How Is Our Life - Are we headed heavenward or toward reincarnation?&quot;</title>
+    <desc lang="en">How Is Our Life - Are we headed heavenward or toward reincarnation?</desc>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260228010430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Eternal Kingdom. The Deep Significance of the Sacrifice on Golgotha</title>
+    <desc lang="en">The Eternal Kingdom. The Deep Significance of the Sacrifice on Golgotha</desc>
+  </programme>
+  <programme start="20260228010930 +0000" stop="20260228023430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260228023730 +0000" stop="20260228030130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation - Father-Words for You, Too</title>
+    <desc lang="en">Meditation - Father-Words for You, Too</desc>
+  </programme>
+  <programme start="20260228030300 +0000" stop="20260228032600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The One Who Has a Conscience Feels the Life</title>
+    <desc lang="en">The One Who Has a Conscience Feels the Life</desc>
+  </programme>
+  <programme start="20260228032700 +0000" stop="20260228035130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Reading from: &quot;Posthumous Fame&quot; by Manfred Kyber</title>
+    <desc lang="en">A Reading from: &quot;Posthumous Fame&quot; by Manfred Kyber</desc>
+  </programme>
+  <programme start="20260228035130 +0000" stop="20260228040600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are at Home Here - Animals on the Land of Peace</title>
+    <desc lang="en">We Are at Home Here - Animals on the Land of Peace</desc>
+  </programme>
+  <programme start="20260228040600 +0000" stop="20260228050000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - J. S. Bach: Allegro from Violin Concerto in E major (BWV 1042), L. Boccherini: Andantino gracioso from Cello Concerto No. 9 in B flat major, A. Vivaldi: Flute Concerto in a minor (RV 108), W.A. Mozart: Largo and Allegro from Divertimento in F major (KV 138), G. Ph. Telemann: Largo and Allegro from Viola Concerto in G major, Op. 29, C. Stamitz: Andante and Allegro from Flute Concerto in G major, F. Schubert:  Ellen’s Third Song, J. S. Bach : Sheep Can Graze Safely from Cantata (BWV 208)</desc>
+  </programme>
+  <programme start="20260228050000 +0000" stop="20260228051630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 1</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 1</desc>
+  </programme>
+  <programme start="20260228051730 +0000" stop="20260228054030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 2</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 2</desc>
+  </programme>
+  <programme start="20260228054200 +0000" stop="20260228055000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (18)</title>
+    <desc lang="en">The Great Cosmic Teachings of Jesus of Nazareth</desc>
+  </programme>
+  <programme start="20260228055100 +0000" stop="20260228055730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (19)</title>
+    <desc lang="en">The True School Is Life</desc>
+  </programme>
+  <programme start="20260228060000 +0000" stop="20260228063600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">I Affirm the Light in the Center of Divine Love</title>
+    <desc lang="en">Original Christian Meditation - &quot;I Affirm the Light in the Center of Divine Love&quot;</desc>
+  </programme>
+  <programme start="20260228064200 +0000" stop="20260228070600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation - Father-Words for You, Too</title>
+    <desc lang="en">Meditation - Father-Words for You, Too</desc>
+  </programme>
+  <programme start="20260228070800 +0000" stop="20260228072300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 10 - Saturday</title>
+    <desc lang="en">Thoughts for the Day - Week 10 - Saturday</desc>
+  </programme>
+  <programme start="20260228072300 +0000" stop="20260228074230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Liebestraum (Dreams of Love) Nr. 3 in A flat major by Franz Liszt, &quot;&quot;Letzte Rose&quot; (The Last Rose) from the opera Martha by Friedrich von Flotow, Prelude from Partita No. 3 BWV 1006 by Johann Sebastian Bach and others (Sep. 2014)</desc>
+  </programme>
+  <programme start="20260228074230 +0000" stop="20260228081100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Prayer Meditation. Life Is Cosmic All-Love</title>
+    <desc lang="en">Prayer Meditation. Life Is Cosmic All-Love</desc>
+  </programme>
+  <programme start="20260228081630 +0000" stop="20260228083900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Christ of God gave a revelation in the Core Community of the Lord for the building of the Kingdom of Peace Of the Christ of God.</title>
+    <desc lang="en">On October 3, 2025, in Year 2 of the Messianic, Sophianic Age</desc>
+  </programme>
+  <programme start="20260228084330 +0000" stop="20260228085800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</title>
+    <desc lang="en">Liobani: Recognize yourself.</desc>
+  </programme>
+  <programme start="20260228090000 +0000" stop="20260228093800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Where Your Treasure Is, There Will Your Heart Also Be. And There Will Your Soul Be One Day</title>
+    <desc lang="en">Where Your Treasure Is, There Will Your Heart Also Be. And There Will Your Soul Be One Day</desc>
+  </programme>
+  <programme start="20260228094300 +0000" stop="20260228101330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Lord's Prayer</title>
+    <desc lang="en">The Lord's Prayer</desc>
+  </programme>
+  <programme start="20260228101330 +0000" stop="20260228103630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro and Adagio from the Sinfonia Concertante for flute, clarinet, horn, bassoon and orchestra in ES major KV 297b by Wolfgang Amadeus Mozart (Sept.2014)</desc>
+  </programme>
+  <programme start="20260228103700 +0000" stop="20260228114630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">For the present or for the time after the time: You Are Somebody? Who Are You?</title>
+    <desc lang="en">For the present or for the time after the time: You Are Somebody? Who Are You?</desc>
+  </programme>
+  <programme start="20260228115030 +0000" stop="20260228121330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Where Does Our Fear Come From? Given by Gabriele, The Prophetess and Emissary of the Eternal Kingdom</title>
+    <desc lang="en">Where Does Our Fear Come From? Given by Gabriele, The Prophetess and Emissary of the Eternal Kingdom</desc>
+  </programme>
+  <programme start="20260228121930 +0000" stop="20260228123230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation Prayer. Heart-Prayers Are Nourishment for the Soul</title>
+    <desc lang="en">Meditation Prayer. Heart-Prayers Are Nourishment for the Soul</desc>
+  </programme>
+  <programme start="20260228123630 +0000" stop="20260228125330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 3</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 3</desc>
+  </programme>
+  <programme start="20260228125430 +0000" stop="20260228131000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 4</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 4</desc>
+  </programme>
+  <programme start="20260228131630 +0000" stop="20260228144130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260228144400 +0000" stop="20260228145130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (20)</title>
+    <desc lang="en">A Fulfilled Life Into Old Age 2</desc>
+  </programme>
+  <programme start="20260228145230 +0000" stop="20260228150000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (21)</title>
+    <desc lang="en">Words of Life 1</desc>
+  </programme>
+  <programme start="20260228150000 +0000" stop="20260228153530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The More I Devote Myself to the Divine Power of Life, the More Beautifully and Purely I Will Blossom</title>
+    <desc lang="en">Original Christian Meditation I (9): The More I Devote Myself to the Divine Power of Life, the More Beautifully and Purely I Will Blossom</desc>
+  </programme>
+  <programme start="20260228153730 +0000" stop="20260228155230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 10 - Tuesday</title>
+    <desc lang="en">Thoughts for the Day - Week 10 - Tuesday</desc>
+  </programme>
+  <programme start="20260228155230 +0000" stop="20260228162930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation. The Good Shepherd, the Spirit of the Christ of God, in Every Soul</title>
+    <desc lang="en">Meditation. The Good Shepherd, the Spirit of the Christ of God, in Every Soul</desc>
+  </programme>
+  <programme start="20260228163900 +0000" stop="20260228170030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - W.A. Mozart, Symphony No. 36 in C major KV 425 &quot;Linz Symphony&quot; (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260228170430 +0000" stop="20260228172630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: The Mountain Spirit.</title>
+    <desc lang="en">Liobani: The Mountain Spirit. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260228173130 +0000" stop="20260228175330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Youth and the Prophet. Part 4</title>
+    <desc lang="en">The Youth and the Prophet. Part 4</desc>
+  </programme>
+  <programme start="20260228180000 +0000" stop="20260228183100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation - Build The Bridge to Christ</title>
+    <desc lang="en">Meditation - Build The Bridge to Christ</desc>
+  </programme>
+  <programme start="20260228183830 +0000" stop="20260228191000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Spirit of Christ Is Effective in Your Breathing (2)</title>
+    <desc lang="en">Meditation - The Inner Physician and Healer - The Spirit of Christ Is Effective in Your Breathing (2)</desc>
+  </programme>
+  <programme start="20260228191800 +0000" stop="20260228201300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Preparations for the Dissolution of All Condensed Forms and the Return of the Christ of God. Part 1</title>
+    <desc lang="en">Part 1: Cosmic upheavals of unimaginable proportions that will overcome humankind</desc>
+  </programme>
+  <programme start="20260228201530 +0000" stop="20260228202930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - G.F. Händel, from the Water Music Suites 1-3 (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260228203100 +0000" stop="20260228211230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Picture of Health, of Peace and of Inner Well-Being for the Person</title>
+    <desc lang="en">Highlight Hour 03: A Picture of Health, of Peace and of Inner Well-Being for the Person</desc>
+  </programme>
+  <programme start="20260228211230 +0000" stop="20260228211730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Self-Examined and Experienced. From Gabriele. 1st part - with Arabic Subtitles</title>
+    <desc lang="en">Self-Examined and Experienced. From Gabriele. 1st part - with Arabic Subtitles</desc>
+  </programme>
+  <programme start="20260228212100 +0000" stop="20260228215330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The New Agriculture under the Sign of the Messianic, Sophianic Isaiah-Land in the Work of the Deed of Love for God and Neighbor</title>
+    <desc lang="en">The New Agriculture under the Sign of the Messianic, Sophianic Isaiah-Land in the Work of the Deed of Love for God and Neighbor</desc>
+  </programme>
+  <programme start="20260228215530 +0000" stop="20260228221900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A New Agriculture for the New Era</title>
+    <desc lang="en">Bread Drink - Naturally Fortifying the Soil</desc>
+  </programme>
+  <programme start="20260228222500 +0000" stop="20260228223900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro maestoso from the Sinfonia Concertante for violin and viola in E flat major KV 364 by Wolfgang Amadeus Mozart (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260228223900 +0000" stop="20260228235100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">I Pray to the Power of Love</title>
+    <desc lang="en">I Pray to the Power of Love, the reading of a Christ-Revelation from the Eternal Kingdom through the prophetess and emissary of the Eternal Kingdom, Gabriele, in September 2021</desc>
+  </programme>
+  <programme start="20260301000000 +0000" stop="20260301002430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Eternal Kingdom: &quot;Use the Precious Time!&quot;</title>
+    <desc lang="en">A reading of a revelation of the Christ of God &quot;Use the Precious Time,&quot;</desc>
+  </programme>
+  <programme start="20260301002730 +0000" stop="20260301005330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Experience Christ</title>
+    <desc lang="en">Meditation - Experience Christ</desc>
+  </programme>
+  <programme start="20260301010000 +0000" stop="20260301012430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Harmony is the Life of the Enterprise</title>
+    <desc lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom</desc>
+  </programme>
+  <programme start="20260301012900 +0000" stop="20260301014930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 5</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 5</desc>
+  </programme>
+  <programme start="20260301015130 +0000" stop="20260301021430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 6</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 6</desc>
+  </programme>
+  <programme start="20260301021530 +0000" stop="20260301034030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260301034500 +0000" stop="20260301041200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Crucifixion of Jesus and &quot;The Resurrection of Jesus&quot;</title>
+    <desc lang="en">This is My Word - Reading Chap. 82+84 &quot;The Crucifixion of Jesus&quot; and &quot;The Resurrection of Jesus&quot;</desc>
+  </programme>
+  <programme start="20260301041700 +0000" stop="20260301051630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Inner Devotional 17 - The Great All-Unity Is Color, Form and Sound. Experience Yourself as a Body of Sound</title>
+    <desc lang="en">Inner Devotional 17 - The Great All-Unity Is Color, Form and Sound. Experience Yourself as a Body of Sound</desc>
+  </programme>
+  <programme start="20260301051930 +0000" stop="20260301054700 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom: &quot;The Divine Psychology&quot;</title>
+    <desc lang="en">The Divine Psychology</desc>
+  </programme>
+  <programme start="20260301055300 +0000" stop="20260301055800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Self-Examined and Experienced. From Gabriele. 1st part - with Arabic Subtitles</title>
+    <desc lang="en">Self-Examined and Experienced. From Gabriele. 1st part - with Arabic Subtitles</desc>
+  </programme>
+  <programme start="20260301060000 +0000" stop="20260301063000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The  Divien Power Flows from the Center of Love</title>
+    <desc lang="en">Original Christian Meditation - &quot;The  Divien Power Flows from the Center of Love&quot;</desc>
+  </programme>
+  <programme start="20260301063530 +0000" stop="20260301065830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The One Who Has a Conscience Feels the Life</title>
+    <desc lang="en">The One Who Has a Conscience Feels the Life</desc>
+  </programme>
+  <programme start="20260301070130 +0000" stop="20260301071630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 10 - Sunday</title>
+    <desc lang="en">Thoughts for the Day - Week 10 - Sunday</desc>
+  </programme>
+  <programme start="20260301072200 +0000" stop="20260301081800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">As We Are the Temple of God, God Is The Health in Us (6)</title>
+    <desc lang="en">Meditation-The Inner Physician and Healer - As We Are the Temple of God, God Is The Health in Us (6)</desc>
+  </programme>
+  <programme start="20260301082300 +0000" stop="20260301083130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Concerto for Flute, Bassoon and Orchestra in G minor RV 106 by Antonio Vivaldi (Sep.2014)</desc>
+  </programme>
+  <programme start="20260301083130 +0000" stop="20260301084630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: The Inuisible Thought-Beings.</title>
+    <desc lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260301084630 +0000" stop="20260301085730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Children's Stories - The Sad Snowman</title>
+    <desc lang="en">Children's Stories - The Sad Snowman</desc>
+  </programme>
+  <programme start="20260301090000 +0000" stop="20260301092630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Eternal Kingdom: &quot;The Law of Sowing and Reaping - and the Grace of God&quot;</title>
+    <desc lang="en">A reading of a revelation of the Christ of God &quot;The Law of Sowing and Reaping — and the Grace of God,&quot; given through Gabriele, the prophetess and emissary of the Eternal Kingdom, on May 6, 1988 in Würzburg, Germany</desc>
+  </programme>
+  <programme start="20260301092930 +0000" stop="20260301095200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation Prayer. Christ Is the Redemption in Us.</title>
+    <desc lang="en">Meditation Prayer. Christ Is the Redemption in Us.</desc>
+  </programme>
+  <programme start="20260301095830 +0000" stop="20260301102630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">What Is Freedom? How Did We Deprive Ourselves of It? And How Do We Regain It?</title>
+    <desc lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom: &quot;What Is Freedom? How Did We Deprive Ourselves of It? And How Do We Regain It?&quot;</desc>
+  </programme>
+  <programme start="20260301103100 +0000" stop="20260301105730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 7</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 7</desc>
+  </programme>
+  <programme start="20260301105930 +0000" stop="20260301112530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 8</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 8</desc>
+  </programme>
+  <programme start="20260301112630 +0000" stop="20260301121930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Part 3. The Preparations for the Dissolution of All Condensed Forms and the Return of the Christ of God.</title>
+    <desc lang="en">Part 3: The homebringing of the children of God – back to the unity of all life and the eternal love</desc>
+  </programme>
+  <programme start="20260301122730 +0000" stop="20260301125430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Washing the Feet</title>
+    <desc lang="en">This is My Word - Reading Chap. 76 A &quot;Washing the Feet&quot;</desc>
+  </programme>
+  <programme start="20260301125930 +0000" stop="20260301142430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260301143330 +0000" stop="20260301143830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Self-Examined and Experienced. From Gabriele. 1st part - with Arabic Subtitles</title>
+    <desc lang="en">Self-Examined and Experienced. From Gabriele. 1st part - with Arabic Subtitles</desc>
+  </programme>
+  <programme start="20260301144030 +0000" stop="20260301145900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom: &quot;How Is Our Life - Are we headed heavenward or toward reincarnation?&quot;</title>
+    <desc lang="en">How Is Our Life - Are we headed heavenward or toward reincarnation?</desc>
+  </programme>
+  <programme start="20260301150000 +0000" stop="20260301154000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">I Live in Christ, in His Presence</title>
+    <desc lang="en">Original Christian Meditation I (10): I Live in Christ, in His Presence</desc>
+  </programme>
+  <programme start="20260301154200 +0000" stop="20260301163600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - J. S. Bach: Allegro from Violin Concerto in E major (BWV 1042), L. Boccherini: Andantino gracioso from Cello Concerto No. 9 in B flat major, A. Vivaldi: Flute Concerto in a minor (RV 108), W.A. Mozart: Largo and Allegro from Divertimento in F major (KV 138), G. Ph. Telemann: Largo and Allegro from Viola Concerto in G major, Op. 29, C. Stamitz: Andante and Allegro from Flute Concerto in G major, F. Schubert:  Ellen’s Third Song, J. S. Bach : Sheep Can Graze Safely from Cantata (BWV 208)</desc>
+  </programme>
+  <programme start="20260301164030 +0000" stop="20260301165930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Free Communities Under the Sign of the Lily 05: We are Beings of the Law of the Cosmos</title>
+    <desc lang="en">The Free Communities Under the Sign of the Lily 05: We are Beings of the Law of the Cosmos</desc>
+  </programme>
+  <programme start="20260301170200 +0000" stop="20260301171330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: The Love of Our Father.</title>
+    <desc lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260301171500 +0000" stop="20260301172530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani - Report from Africa</title>
+    <desc lang="en">Liobani - The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor: Report from Africa</desc>
+  </programme>
+  <programme start="20260301173030 +0000" stop="20260301175230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Youth and the Prophet. Part 2</title>
+    <desc lang="en">The Youth and the Prophet. Part 2</desc>
+  </programme>
+  <programme start="20260301180000 +0000" stop="20260301182030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Ten Commandments of God - Interpreted with words of the present time. Part 2</title>
+    <desc lang="en">The Ten Commandments of God - Interpreted with words of the present time. Part 2</desc>
+  </programme>
+  <programme start="20260301182930 +0000" stop="20260301184600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">About the Little Children. The Parable of the Fishes</title>
+    <desc lang="en">This Is My Word - Reading Chap. 57 &quot;About the Little Children. The Parable of the Fishes&quot;</desc>
+  </programme>
+  <programme start="20260301185030 +0000" stop="20260301192400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation. Our Homeland in the Pure Being</title>
+    <desc lang="en">Meditation. Our Homeland in the Pure Being</desc>
+  </programme>
+  <programme start="20260301193030 +0000" stop="20260301202800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Develop Our Spiritual Heritage, And Thus Find  Our Way to the Kingdom of God</title>
+    <desc lang="en">Inner Devotional 2 - We Develop Our Spiritual Heritage, And Thus Find  Our Way to the Kingdom of God</desc>
+  </programme>
+  <programme start="20260301203330 +0000" stop="20260301210630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Inner Prayer, Reading - Part 2</title>
+    <desc lang="en">Inner Prayer, Reading - Part 2</desc>
+  </programme>
+  <programme start="20260301211230 +0000" stop="20260301211830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (3)</title>
+    <desc lang="en">Original Christianity Worldwide. Free Communities Under the Sign of the Lily</desc>
+  </programme>
+  <programme start="20260301212700 +0000" stop="20260301214100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro maestoso from the Sinfonia Concertante for violin and viola in E flat major KV 364 by Wolfgang Amadeus Mozart (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260301214330 +0000" stop="20260301222230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Jesus of Nazareth Came for the Animals, too</title>
+    <desc lang="en">Jesus of Nazareth Came for the Animals, too</desc>
+  </programme>
+  <programme start="20260301222530 +0000" stop="20260301235030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260302000000 +0000" stop="20260302003100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation - Build The Bridge to Christ</title>
+    <desc lang="en">Meditation - Build The Bridge to Christ</desc>
+  </programme>
+  <programme start="20260302003830 +0000" stop="20260302011000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Spirit of Christ Is Effective in Your Breathing (2)</title>
+    <desc lang="en">Meditation - The Inner Physician and Healer - The Spirit of Christ Is Effective in Your Breathing (2)</desc>
+  </programme>
+  <programme start="20260302011800 +0000" stop="20260302021300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Preparations for the Dissolution of All Condensed Forms and the Return of the Christ of God. Part 1</title>
+    <desc lang="en">Part 1: Cosmic upheavals of unimaginable proportions that will overcome humankind</desc>
+  </programme>
+  <programme start="20260302021530 +0000" stop="20260302022930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - G.F. Händel, from the Water Music Suites 1-3 (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260302023100 +0000" stop="20260302031230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Picture of Health, of Peace and of Inner Well-Being for the Person</title>
+    <desc lang="en">Highlight Hour 03: A Picture of Health, of Peace and of Inner Well-Being for the Person</desc>
+  </programme>
+  <programme start="20260302032100 +0000" stop="20260302035330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The New Agriculture under the Sign of the Messianic, Sophianic Isaiah-Land in the Work of the Deed of Love for God and Neighbor</title>
+    <desc lang="en">The New Agriculture under the Sign of the Messianic, Sophianic Isaiah-Land in the Work of the Deed of Love for God and Neighbor</desc>
+  </programme>
+  <programme start="20260302035530 +0000" stop="20260302041900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A New Agriculture for the New Era</title>
+    <desc lang="en">Bread Drink - Naturally Fortifying the Soil</desc>
+  </programme>
+  <programme start="20260302042500 +0000" stop="20260302043900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro maestoso from the Sinfonia Concertante for violin and viola in E flat major KV 364 by Wolfgang Amadeus Mozart (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260302043900 +0000" stop="20260302055100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">I Pray to the Power of Love</title>
+    <desc lang="en">I Pray to the Power of Love, the reading of a Christ-Revelation from the Eternal Kingdom through the prophetess and emissary of the Eternal Kingdom, Gabriele, in September 2021</desc>
+  </programme>
+  <programme start="20260302060000 +0000" stop="20260302062130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Meditation -  &quot;The Power of Love Streams toward the Cells of My Body&quot;</title>
+    <desc lang="en">Original Christian Meditation -  &quot;The Power of Love Streams toward the Cells of My Body&quot;</desc>
+  </programme>
+  <programme start="20260302062730 +0000" stop="20260302064230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 16 - Monday</title>
+    <desc lang="en">Thoughts for the Day - Week 16 - Monday</desc>
+  </programme>
+  <programme start="20260302064630 +0000" stop="20260302065900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Allegro maestoso aus dem Gitarrenkonzert op. 30 A-Dur von Mauro Giuliani (Aug. 2016)</title>
+    <desc lang="en">Allegro maestoso aus dem Gitarrenkonzert op. 30 A-Dur von Mauro Giuliani (Aug. 2016)</desc>
+  </programme>
+  <programme start="20260302065900 +0000" stop="20260302071830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation. Attain the Experience of God</title>
+    <desc lang="en">Meditation. Attain the Experience of God</desc>
+  </programme>
+  <programme start="20260302072330 +0000" stop="20260302075830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Highlight Hours with Gabriele: The First and Fifth Commandment of God in the Light of Christ</title>
+    <desc lang="en">Highlight Hours with Gabriele: The First and Fifth Commandment of God in the Light of Christ</desc>
+  </programme>
+  <programme start="20260302080130 +0000" stop="20260302081730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Gran Vals in A-Dur von Francisco Tarrega, Rondo russo aus dem FlÃ¶tenkonzert e-moll von Saverio Mercadante, Cantabile op. 17 D-Dur ovn Niccolo Paganini (Aug. 2016)</title>
+    <desc lang="en">Gran Vals in A-Dur von Francisco Tarrega, Rondo russo aus dem FlÃ¶tenkonzert e-moll von Saverio Mercadante, Cantabile op. 17 D-Dur ovn Niccolo Paganini (Aug. 2016)</desc>
+  </programme>
+  <programme start="20260302082000 +0000" stop="20260302084200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: The Water Spirits.</title>
+    <desc lang="en">Liobani: The Water Spirits. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260302084330 +0000" stop="20260302085500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Children's Stories - Cuckoo Calls You</title>
+    <desc lang="en">Children's Stories - Cuckoo Calls You</desc>
+  </programme>
+  <programme start="20260302090000 +0000" stop="20260302093300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Where Do We Pray? What Do We pray? How Do We pray?</title>
+    <desc lang="en">Meditation - Prayer: Where Do We Pray? What Do We pray? How Do We pray?</desc>
+  </programme>
+  <programme start="20260302094030 +0000" stop="20260302102500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Inner Light Radiates Through Your Soul Into Your Body (3)</title>
+    <desc lang="en">Meditation -The Inner Physician and Healer - The Inner Light Radiates Through Your Soul Into Your Body (3)</desc>
+  </programme>
+  <programme start="20260302103300 +0000" stop="20260302112530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Part 2. The Preparations for the Dissolution of All Condensed Forms and the Return of the Christ of God.</title>
+    <desc lang="en">Part 2: The Meaning of the Redeemer-Deed of the Christ of God and the end of the Fall</desc>
+  </programme>
+  <programme start="20260302112800 +0000" stop="20260302113930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Adagio and Allegro from the Concerto for Cello and Orchestra No. 2 in D major by Josef Haydn (Sep. 2014)</desc>
+  </programme>
+  <programme start="20260302114100 +0000" stop="20260302121100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Be Still - God Dwells in You. The Renewal of Life that Comes from Within</title>
+    <desc lang="en">Highlight Hour 06: Be Still - God Dwells in You. The Renewal of Life that Comes from Within</desc>
+  </programme>
+  <programme start="20260302121730 +0000" stop="20260302123800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A New Agriculture for the New Era</title>
+    <desc lang="en">Plant Brews - Fortifying Liquid for the Field</desc>
+  </programme>
+  <programme start="20260302124000 +0000" stop="20260302140500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260302141100 +0000" stop="20260302143400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Gift for Self-Help</title>
+    <desc lang="en">Meditation - A Gift for Self-Help</desc>
+  </programme>
+  <programme start="20260302144230 +0000" stop="20260302150000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro from Symphony No. 6 in C major D589 by Franz Schubert (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260302150000 +0000" stop="20260302155100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Meditation: The Christ-Redeemer Light Burns in the Fourth Power of Becoming Awareness</title>
+    <desc lang="en">Original Christian Meditation: The Christ-Redeemer Light Burns in the Fourth Power of Becoming Awareness</desc>
+  </programme>
+  <programme start="20260302155300 +0000" stop="20260302160500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 16 - Thursday</title>
+    <desc lang="en">Thoughts for the Day - Week 16 - Thursday</desc>
+  </programme>
+  <programme start="20260302160630 +0000" stop="20260302163630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Every Breath is the Presence of God</title>
+    <desc lang="en">Meditation - Every Breath is the Presence of God</desc>
+  </programme>
+  <programme start="20260302164730 +0000" stop="20260302170900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">To Feel in the Heart What Unity Signifies</title>
+    <desc lang="en">Highligth Hours with Gabriele: To Feel in the Heart What Unity Signifies</desc>
+  </programme>
+  <programme start="20260302171130 +0000" stop="20260302171900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Prayer For Matters Close to Our Heart by Gabriele</title>
+    <desc lang="en">The Call of Gabriele 04 - A Prayer For Matters Close to Our Heart by Gabriele</desc>
+  </programme>
+  <programme start="20260302171900 +0000" stop="20260302173500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Andantino grazioso und Rondo Allegro aus dem Cellokonzert Nr. 9 von Luigi Boccherini, Nachtigall-Serenade von Enrico Toselli (Mai 2015)</title>
+    <desc lang="en">Andantino grazioso und Rondo Allegro aus dem Cellokonzert Nr. 9 von Luigi Boccherini, Nachtigall-Serenade von Enrico Toselli (Mai 2015)</desc>
+  </programme>
+  <programme start="20260302173530 +0000" stop="20260302175630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</title>
+    <desc lang="en">Liobani: The Incarnations of the Soul.</desc>
+  </programme>
+  <programme start="20260302180000 +0000" stop="20260302182230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Christ of God gave a revelation in the Core Community of the Lord for the building of the Kingdom of Peace Of the Christ of God.</title>
+    <desc lang="en">On October 3, 2025, in Year 2 of the Messianic, Sophianic Age</desc>
+  </programme>
+  <programme start="20260302182700 +0000" stop="20260302191330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Learn to Live with Nature and the Animals, then You Will Learn to Understand Yourself Better and Your Neighbor, as well</title>
+    <desc lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom</desc>
+  </programme>
+  <programme start="20260302191530 +0000" stop="20260302194500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Inner Path Is the Path to the Heart of God in Us</title>
+    <desc lang="en">The Inner Path to the Cosmic Consciousness.Level of Order - Part 1 &quot;The Inner Path Is the Path to the Heart of God in Us&quot;</desc>
+  </programme>
+  <programme start="20260302195900 +0000" stop="20260302201530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 1</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 1</desc>
+  </programme>
+  <programme start="20260302202330 +0000" stop="20260302204630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 2</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 2</desc>
+  </programme>
+  <programme start="20260302205830 +0000" stop="20260302222330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260302222330 +0000" stop="20260302223730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - G.F. Händel, from the Water Music Suites 1-3 (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260302224330 +0000" stop="20260302231700 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation. Our Homeland in the Pure Being</title>
+    <desc lang="en">Meditation. Our Homeland in the Pure Being</desc>
+  </programme>
+  <programme start="20260302232400 +0000" stop="20260302235630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The New Agriculture under the Sign of the Messianic, Sophianic Isaiah-Land in the Work of the Deed of Love for God and Neighbor</title>
+    <desc lang="en">The New Agriculture under the Sign of the Messianic, Sophianic Isaiah-Land in the Work of the Deed of Love for God and Neighbor</desc>
+  </programme>
+  <programme start="20260303000000 +0000" stop="20260303002030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Ten Commandments of God - Interpreted with words of the present time. Part 2</title>
+    <desc lang="en">The Ten Commandments of God - Interpreted with words of the present time. Part 2</desc>
+  </programme>
+  <programme start="20260303002930 +0000" stop="20260303004600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">About the Little Children. The Parable of the Fishes</title>
+    <desc lang="en">This Is My Word - Reading Chap. 57 &quot;About the Little Children. The Parable of the Fishes&quot;</desc>
+  </programme>
+  <programme start="20260303005030 +0000" stop="20260303012400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation. Our Homeland in the Pure Being</title>
+    <desc lang="en">Meditation. Our Homeland in the Pure Being</desc>
+  </programme>
+  <programme start="20260303013030 +0000" stop="20260303022800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Develop Our Spiritual Heritage, And Thus Find  Our Way to the Kingdom of God</title>
+    <desc lang="en">Inner Devotional 2 - We Develop Our Spiritual Heritage, And Thus Find  Our Way to the Kingdom of God</desc>
+  </programme>
+  <programme start="20260303023330 +0000" stop="20260303030630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Inner Prayer, Reading - Part 2</title>
+    <desc lang="en">Inner Prayer, Reading - Part 2</desc>
+  </programme>
+  <programme start="20260303031230 +0000" stop="20260303031830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (3)</title>
+    <desc lang="en">Original Christianity Worldwide. Free Communities Under the Sign of the Lily</desc>
+  </programme>
+  <programme start="20260303032700 +0000" stop="20260303034100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro maestoso from the Sinfonia Concertante for violin and viola in E flat major KV 364 by Wolfgang Amadeus Mozart (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260303034330 +0000" stop="20260303042230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Jesus of Nazareth Came for the Animals, too</title>
+    <desc lang="en">Jesus of Nazareth Came for the Animals, too</desc>
+  </programme>
+  <programme start="20260303042530 +0000" stop="20260303055030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260303060000 +0000" stop="20260303063200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Meditation: The Power of the Father Flows toward Me from the Consciousness Center of Patience</title>
+    <desc lang="en">Original Christian Meditation: The Power of the Father Flows toward Me from the Consciousness Center of Patience</desc>
+  </programme>
+  <programme start="20260303063800 +0000" stop="20260303065300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 15 - Tuesday</title>
+    <desc lang="en">Thoughts for the Day - Week 15 - Tuesday</desc>
+  </programme>
+  <programme start="20260303065600 +0000" stop="20260303071230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Larghetto aus Frühlingssinfonie in A-Dur von J. Raff, Allegro vivace aus Sinfonie Nr. 1 in D-Dur von F. Schubert (Apr. 2017)</title>
+    <desc lang="en">Larghetto aus Frühlingssinfonie in A-Dur von J. Raff, Allegro vivace aus Sinfonie Nr. 1 in D-Dur von F. Schubert (Apr. 2017)</desc>
+  </programme>
+  <programme start="20260303071230 +0000" stop="20260303073530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Gift for Self-Help</title>
+    <desc lang="en">Meditation - A Gift for Self-Help</desc>
+  </programme>
+  <programme start="20260303074030 +0000" stop="20260303082000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Highlight Hour 04: A New Man in the Stream of Unending Love</title>
+    <desc lang="en">Highlight Hour 04: A New Man in the Stream of Unending Love</desc>
+  </programme>
+  <programme start="20260303082300 +0000" stop="20260303083730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Allegro aus Sinfonia concertante für Oboe, Klarinette, Fagott, Horn und Orchester in Es-Dur KV 297b von W.A. Mozart (Apr. 2017)</title>
+    <desc lang="en">Allegro aus Sinfonia concertante für Oboe, Klarinette, Fagott, Horn und Orchester in Es-Dur KV 297b von W.A. Mozart (Apr. 2017)</desc>
+  </programme>
+  <programme start="20260303084000 +0000" stop="20260303085700 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</title>
+    <desc lang="en">Liobani: Raise Your Children to Be Free People!</desc>
+  </programme>
+  <programme start="20260303090000 +0000" stop="20260303091800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Ten Commandments of God - Interpreted with words of the present time. Part 3</title>
+    <desc lang="en">The Ten Commandments of God - Interpreted with words of the present time. Part 3</desc>
+  </programme>
+  <programme start="20260303092730 +0000" stop="20260303095400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Jesus Sends Out the Twelve</title>
+    <desc lang="en">This Is My Word - Reading Chap.17 &quot;Jesus Sends Out the Twelve&quot;</desc>
+  </programme>
+  <programme start="20260303095830 +0000" stop="20260303102200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Prayer Meditation for Self-Reflection. Every Human Being Is Involved in Contributing to the State of this World</title>
+    <desc lang="en">A Prayer Meditation for Self-Reflection. Every Human Being Is Involved in Contributing to the State of this World</desc>
+  </programme>
+  <programme start="20260303102900 +0000" stop="20260303112530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Inner Devotional 4 - Each Day Brings the Next Step Toward the Divine</title>
+    <desc lang="en">Inner Devotional 4 - Each Day Brings the Next Step Toward the Divine</desc>
+  </programme>
+  <programme start="20260303113100 +0000" stop="20260303115730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Reincarnation. Life's Gift of Grace.</title>
+    <desc lang="en">Reincarnation. Life's Gift of Grace. Part 1</desc>
+  </programme>
+  <programme start="20260303120300 +0000" stop="20260303122130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (04)</title>
+    <desc lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (04)</desc>
+  </programme>
+  <programme start="20260303122300 +0000" stop="20260303124300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (06)</title>
+    <desc lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (06)</desc>
+  </programme>
+  <programme start="20260303124300 +0000" stop="20260303125130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Concerto for Flute, Bassoon and Orchestra in G minor RV 106 by Antonio Vivaldi (Sep.2014)</desc>
+  </programme>
+  <programme start="20260303125400 +0000" stop="20260303131830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Reading from: &quot;Posthumous Fame&quot; by Manfred Kyber</title>
+    <desc lang="en">A Reading from: &quot;Posthumous Fame&quot; by Manfred Kyber</desc>
+  </programme>
+  <programme start="20260303132200 +0000" stop="20260303142100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Gift from the Sanctum of God</title>
+    <desc lang="en">The Gift from the Sanctum of God</desc>
+  </programme>
+  <programme start="20260303142930 +0000" stop="20260303145230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The One Who Has a Conscience Feels the Life</title>
+    <desc lang="en">The One Who Has a Conscience Feels the Life</desc>
+  </programme>
+  <programme start="20260303150000 +0000" stop="20260303153300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Meditation: I Affirm the Divine Wisdom in Me</title>
+    <desc lang="en">Original Christian Meditation: I Affirm the Divine Wisdom in Me</desc>
+  </programme>
+  <programme start="20260303154100 +0000" stop="20260303155400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 16 - Friday</title>
+    <desc lang="en">Thoughts for the Day - Week 16 - Friday</desc>
+  </programme>
+  <programme start="20260303155430 +0000" stop="20260303162300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Prayer Meditation. Life Is Cosmic All-Love</title>
+    <desc lang="en">Prayer Meditation. Life Is Cosmic All-Love</desc>
+  </programme>
+  <programme start="20260303163400 +0000" stop="20260303170130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation from the divine consciousness. Our True Being</title>
+    <desc lang="en">Meditation from the divine consciousness. Our True Being</desc>
+  </programme>
+  <programme start="20260303170400 +0000" stop="20260303171130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Prayer For Matters Close to Our Heart by Gabriele</title>
+    <desc lang="en">The Call of Gabriele 04 - A Prayer For Matters Close to Our Heart by Gabriele</desc>
+  </programme>
+  <programme start="20260303171130 +0000" stop="20260303173730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Konzert für 2 Trompeten in D-Dur von F. Manfredini, Allegro aus Sinfonia concertante fÃ¼r Oboe, Klarinette, Fagott, Horn und Orchester in Es-Dur KV 297b und Laudate Dominum von W.A. Mozart (Apr. 2017)</title>
+    <desc lang="en">Konzert für 2 Trompeten in D-Dur von F. Manfredini, Allegro aus Sinfonia concertante fÃ¼r Oboe, Klarinette, Fagott, Horn und Orchester in Es-Dur KV 297b und Laudate Dominum von W.A. Mozart (Apr. 2017)</desc>
+  </programme>
+  <programme start="20260303173800 +0000" stop="20260303175430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</title>
+    <desc lang="en">Liobani: Everyone has a different state of consciousness.</desc>
+  </programme>
+  <programme start="20260303180000 +0000" stop="20260303182200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Youth and the Prophet. Part 4</title>
+    <desc lang="en">The Youth and the Prophet. Part 4</desc>
+  </programme>
+  <programme start="20260303182300 +0000" stop="20260303184300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: Oral or Written Tests.</title>
+    <desc lang="en">Liobani: Oral or Written Tests. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260303184700 +0000" stop="20260303185800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Children's Stories - The Sad Snowman</title>
+    <desc lang="en">Children's Stories - The Sad Snowman</desc>
+  </programme>
+  <programme start="20260303190330 +0000" stop="20260303191730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro maestoso from the Sinfonia Concertante for violin and viola in E flat major KV 364 by Wolfgang Amadeus Mozart (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260303191730 +0000" stop="20260303201430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Military Treasure Hunt</title>
+    <desc lang="en">What the War in Ukraine Is Really About</desc>
+  </programme>
+  <programme start="20260303201930 +0000" stop="20260303205030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Deep Breathing</title>
+    <desc lang="en">Meditation - Deep Breathing</desc>
+  </programme>
+  <programme start="20260303205700 +0000" stop="20260303211330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Christ in Us, the Physician of the Soul</title>
+    <desc lang="en">Meditation Prayer. Christ in Us, the Physician of the Soul</desc>
+  </programme>
+  <programme start="20260303211330 +0000" stop="20260303213500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Keep the Inner Calm in Every Situation</title>
+    <desc lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom</desc>
+  </programme>
+  <programme start="20260303214200 +0000" stop="20260303222030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Either For Me or Against Me</title>
+    <desc lang="en">The Eternal Kingdom. A reading from the revelation of the Christ of God, given through Gabriele, the prophetess and emissary of the Eternal Kingdom on June 14, 1980 in Augsburg, Germany</desc>
+  </programme>
+  <programme start="20260303222730 +0000" stop="20260303230630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Jesus of Nazareth Came for the Animals, too</title>
+    <desc lang="en">Jesus of Nazareth Came for the Animals, too</desc>
+  </programme>
+  <programme start="20260303231100 +0000" stop="20260303231800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (9)</title>
+    <desc lang="en">The Message from the All</desc>
+  </programme>
+  <programme start="20260303232000 +0000" stop="20260303232700 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (14)</title>
+    <desc lang="en">Reincarnation—Life's Gift of Grace</desc>
+  </programme>
+  <programme start="20260303232900 +0000" stop="20260303234030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Spirit of the Christ of God gives a revelation by way of His prophetess Gabriele on December 22, 1996: &quot;Strive to live more and more with nature. The more often you practice to become still, the closer you come to the Inner Gateway&quot;</title>
+    <desc lang="en">The Spirit of the Christ of God gives a revelation by way of His prophetess Gabriele on December 22, 1996: &quot;Strive to live more and more with nature. The more often you practice to become still, the closer you come to the Inner Gateway&quot;</desc>
+  </programme>
+  <programme start="20260303234030 +0000" stop="20260304000000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Liebestraum (Dreams of Love) Nr. 3 in A flat major by Franz Liszt, &quot;&quot;Letzte Rose&quot; (The Last Rose) from the opera Martha by Friedrich von Flotow, Prelude from Partita No. 3 BWV 1006 by Johann Sebastian Bach and others (Sep. 2014)</desc>
+  </programme>
+  <programme start="20260304000000 +0000" stop="20260304003200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Christ of God gave a revelation in the Core Community of the Lord for the building of the Kingdom of Peace Of the Christ of God</title>
+    <desc lang="en">October 3, 2025, in Year 2 of the Messianic, Sophianic Age</desc>
+  </programme>
+  <programme start="20260304003630 +0000" stop="20260304010300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">My Thoughts - the Settlers</title>
+    <desc lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom</desc>
+  </programme>
+  <programme start="20260304010500 +0000" stop="20260304013430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Inner Path Is the Path to the Heart of God in Us</title>
+    <desc lang="en">The Inner Path to the Cosmic Consciousness.Level of Order - Part 1 &quot;The Inner Path Is the Path to the Heart of God in Us&quot;</desc>
+  </programme>
+  <programme start="20260304014930 +0000" stop="20260304023930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The All-Encompassing Cosmic Library. The All-Ocean of God. part 1</title>
+    <desc lang="en">The All-Encompassing Cosmic Library. The All-Ocean of God. part 1</desc>
+  </programme>
+  <programme start="20260304024730 +0000" stop="20260304033230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The All-Encompassing Cosmic Library. The All-Ocean of God. part 2</title>
+    <desc lang="en">The All-Encompassing Cosmic Library. The All-Ocean of God. part 2</desc>
+  </programme>
+  <programme start="20260304034600 +0000" stop="20260304041930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Reading from: &quot;The Grand Inquisitor&quot;. Part 3</title>
+    <desc lang="en">A Reading from: &quot;The Grand Inquisitor&quot;. Part 3</desc>
+  </programme>
+  <programme start="20260304042600 +0000" stop="20260304052200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Inner Devotional 13 - Be Quiet and Entrust Yourself to God in Every Moment</title>
+    <desc lang="en">Inner Devotional 13 - Be Quiet and Entrust Yourself to God in Every Moment</desc>
+  </programme>
+  <programme start="20260304053000 +0000" stop="20260304055000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Living and Dying, Reading - Part 2</title>
+    <desc lang="en">Living and Dying, Reading - Part 2</desc>
+  </programme>
+  <programme start="20260304060000 +0000" stop="20260304063530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Meditation: I Affirm the Powers of the Almighty in His Attribute of Patience</title>
+    <desc lang="en">Original Christian Meditation: I Affirm the Powers of the Almighty in His Attribute of Patience</desc>
+  </programme>
+  <programme start="20260304064200 +0000" stop="20260304065500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 16 - Wednesday</title>
+    <desc lang="en">Thoughts for the Day - Week 16 - Wednesday</desc>
+  </programme>
+  <programme start="20260304065800 +0000" stop="20260304071100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Molto Allegro aus der Sinfonie Nr. 40 von W.A. Mozart, Thema aus Polowetzer TÃ¤nze von A. Borodin  (Jun. 2016)</title>
+    <desc lang="en">Molto Allegro aus der Sinfonie Nr. 40 von W.A. Mozart, Thema aus Polowetzer TÃ¤nze von A. Borodin  (Jun. 2016)</desc>
+  </programme>
+  <programme start="20260304071200 +0000" stop="20260304072500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation Prayer. Heart-Prayers Are Nourishment for the Soul</title>
+    <desc lang="en">Meditation Prayer. Heart-Prayers Are Nourishment for the Soul</desc>
+  </programme>
+  <programme start="20260304073600 +0000" stop="20260304081500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Light-Filled Soul in the Light of the Christ of God</title>
+    <desc lang="en">Highlight Hour 05: The Light-Filled Soul in the Light of the Christ of God</desc>
+  </programme>
+  <programme start="20260304081800 +0000" stop="20260304083230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Allegro aus Sinfonia concertante für Oboe, Klarinette, Fagott, Horn und Orchester in Es-Dur KV 297b von W.A. Mozart (Apr. 2017)</title>
+    <desc lang="en">Allegro aus Sinfonia concertante für Oboe, Klarinette, Fagott, Horn und Orchester in Es-Dur KV 297b von W.A. Mozart (Apr. 2017)</desc>
+  </programme>
+  <programme start="20260304083230 +0000" stop="20260304084300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani - Report from Africa</title>
+    <desc lang="en">Liobani - The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor: Report from Africa</desc>
+  </programme>
+  <programme start="20260304084430 +0000" stop="20260304085530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Children's Stories - The Sad Snowman</title>
+    <desc lang="en">Children's Stories - The Sad Snowman</desc>
+  </programme>
+  <programme start="20260304090000 +0000" stop="20260304092230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Christ of God gave a revelation in the Core Community of the Lord for the building of the Kingdom of Peace Of the Christ of God.</title>
+    <desc lang="en">On October 3, 2025, in Year 2 of the Messianic, Sophianic Age</desc>
+  </programme>
+  <programme start="20260304092700 +0000" stop="20260304101330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Learn to Live with Nature and the Animals, then You Will Learn to Understand Yourself Better and Your Neighbor, as well</title>
+    <desc lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom</desc>
+  </programme>
+  <programme start="20260304101530 +0000" stop="20260304104500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Inner Path Is the Path to the Heart of God in Us</title>
+    <desc lang="en">The Inner Path to the Cosmic Consciousness.Level of Order - Part 1 &quot;The Inner Path Is the Path to the Heart of God in Us&quot;</desc>
+  </programme>
+  <programme start="20260304105900 +0000" stop="20260304111530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 1</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 1</desc>
+  </programme>
+  <programme start="20260304112330 +0000" stop="20260304114630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 2</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 2</desc>
+  </programme>
+  <programme start="20260304115830 +0000" stop="20260304132330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260304132330 +0000" stop="20260304133730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - G.F. Händel, from the Water Music Suites 1-3 (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260304134330 +0000" stop="20260304141700 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation. Our Homeland in the Pure Being</title>
+    <desc lang="en">Meditation. Our Homeland in the Pure Being</desc>
+  </programme>
+  <programme start="20260304142400 +0000" stop="20260304145630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The New Agriculture under the Sign of the Messianic, Sophianic Isaiah-Land in the Work of the Deed of Love for God and Neighbor</title>
+    <desc lang="en">The New Agriculture under the Sign of the Messianic, Sophianic Isaiah-Land in the Work of the Deed of Love for God and Neighbor</desc>
+  </programme>
+  <programme start="20260304150000 +0000" stop="20260304152600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Meditation: Love, Warmth and Harmony Stream Toward Me From the Consciousness of Will</title>
+    <desc lang="en">Original Christian Meditation: Love, Warmth and Harmony Stream Toward Me From the Consciousness of Will</desc>
+  </programme>
+  <programme start="20260304153130 +0000" stop="20260304154430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 16 - Saturday</title>
+    <desc lang="en">Thoughts for the Day - Week 16 - Saturday</desc>
+  </programme>
+  <programme start="20260304154500 +0000" stop="20260304161730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Security and Safety in Christ . Given by Gabriele, the Prophetess an Emissary of the Eternal Kingdom</title>
+    <desc lang="en">Security and Safety in Christ . Given by Gabriele, the Prophetess an Emissary of the Eternal Kingdom</desc>
+  </programme>
+  <programme start="20260304162800 +0000" stop="20260304165400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Experience Christ</title>
+    <desc lang="en">Meditation - Experience Christ</desc>
+  </programme>
+  <programme start="20260304165630 +0000" stop="20260304171230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Life Knows No Standstill</title>
+    <desc lang="en">The Call of Gabriele 03 - Life Knows No Standstill</desc>
+  </programme>
+  <programme start="20260304171230 +0000" stop="20260304173130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Andante für Flöte und Orchester KV 315 und Allegro aperto aus Violinkonzert Nr. 5 von W.A. Mozart (Febr. 2017)</title>
+  </programme>
+  <programme start="20260304173130 +0000" stop="20260304173830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (11)</title>
+    <desc lang="en">Father Words for You, too</desc>
+  </programme>
+  <programme start="20260304173930 +0000" stop="20260304175430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: The Earth - As the School of Life.</title>
+    <desc lang="en">Liobani: The Earth - As the School of Life. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260304180000 +0000" stop="20260304190430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Eternal Kingdom. The Deep Significance of the Sacrifice on Golgotha</title>
+    <desc lang="en">The Eternal Kingdom. The Deep Significance of the Sacrifice on Golgotha</desc>
+  </programme>
+  <programme start="20260304191030 +0000" stop="20260304195200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Picture of Health, of Peace and of Inner Well-Being for the Person</title>
+    <desc lang="en">Highlight Hour 03: A Picture of Health, of Peace and of Inner Well-Being for the Person</desc>
+  </programme>
+  <programme start="20260304195900 +0000" stop="20260304202230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A New Agriculture for the New Era</title>
+    <desc lang="en">Bread Drink - Naturally Fortifying the Soil</desc>
+  </programme>
+  <programme start="20260304202400 +0000" stop="20260304204200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A New Agriculture for the New Era</title>
+    <desc lang="en">Fallow Fields - Healthy Soil, Healthy Harvest</desc>
+  </programme>
+  <programme start="20260304204730 +0000" stop="20260304211200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 4</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 4</desc>
+  </programme>
+  <programme start="20260304211500 +0000" stop="20260304213530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 5</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 5</desc>
+  </programme>
+  <programme start="20260304213900 +0000" stop="20260304230400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260304230700 +0000" stop="20260304233330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Find and Affirm the Positive in your Neighbor</title>
+    <desc lang="en">Find and Affirm the Positive in your Neighbor</desc>
+  </programme>
+  <programme start="20260304233830 +0000" stop="20260305000000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - W.A. Mozart, Symphony No. 36 in C major KV 425 &quot;Linz Symphony&quot; (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260305000000 +0000" stop="20260305002200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Youth and the Prophet. Part 3</title>
+    <desc lang="en">The Youth and the Prophet. Part 3</desc>
+  </programme>
+  <programme start="20260305002300 +0000" stop="20260305003630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: The Free Will.</title>
+    <desc lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260305004030 +0000" stop="20260305005200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Children's Stories - Cuckoo Calls You</title>
+    <desc lang="en">Children's Stories - Cuckoo Calls You</desc>
+  </programme>
+  <programme start="20260305005730 +0000" stop="20260305011500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro from Symphony No. 6 in C major D589 by Franz Schubert (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260305011500 +0000" stop="20260305024000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260305024500 +0000" stop="20260305031930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation. Praying in Unity - For Unity</title>
+    <desc lang="en">Meditation. Praying in Unity - For Unity</desc>
+  </programme>
+  <programme start="20260305032530 +0000" stop="20260305034200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Christ in Us, the Physician of the Soul</title>
+    <desc lang="en">Meditation Prayer. Christ in Us, the Physician of the Soul</desc>
+  </programme>
+  <programme start="20260305034900 +0000" stop="20260305050230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Age of the Lily, Sophia, The Wisdom of God, the Spirit of Truth, the Spirit of Fusion: Spirit of His Spirit, Love of His Love, by Gabriele</title>
+    <desc lang="en">The Age of the Lily, Sophia, The Wisdom of God, the Spirit of Truth, the Spirit of Fusion: Spirit of His Spirit, Love of His Love, by Gabriele</desc>
+  </programme>
+  <programme start="20260305051000 +0000" stop="20260305052430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are at Home Here - Animals on the Land of Peace</title>
+    <desc lang="en">We Are at Home Here - Animals on the Land of Peace</desc>
+  </programme>
+  <programme start="20260305052430 +0000" stop="20260305053130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (8)</title>
+    <desc lang="en">You, the Animal, You, the Human Being. Which Has Higher Values?</desc>
+  </programme>
+  <programme start="20260305053330 +0000" stop="20260305054030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (13)</title>
+    <desc lang="en">Live the Moment—And You Will See and Recognize Yourself</desc>
+  </programme>
+  <programme start="20260305054030 +0000" stop="20260305060000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Liebestraum (Dreams of Love) Nr. 3 in A flat major by Franz Liszt, &quot;&quot;Letzte Rose&quot; (The Last Rose) from the opera Martha by Friedrich von Flotow, Prelude from Partita No. 3 BWV 1006 by Johann Sebastian Bach and others (Sep. 2014)</desc>
+  </programme>
+  <programme start="20260305060000 +0000" stop="20260305065100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Meditation: The Christ-Redeemer Light Burns in the Fourth Power of Becoming Awareness</title>
+    <desc lang="en">Original Christian Meditation: The Christ-Redeemer Light Burns in the Fourth Power of Becoming Awareness</desc>
+  </programme>
+  <programme start="20260305065300 +0000" stop="20260305070500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 16 - Thursday</title>
+    <desc lang="en">Thoughts for the Day - Week 16 - Thursday</desc>
+  </programme>
+  <programme start="20260305070630 +0000" stop="20260305073630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Every Breath is the Presence of God</title>
+    <desc lang="en">Meditation - Every Breath is the Presence of God</desc>
+  </programme>
+  <programme start="20260305074730 +0000" stop="20260305080900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">To Feel in the Heart What Unity Signifies</title>
+    <desc lang="en">Highligth Hours with Gabriele: To Feel in the Heart What Unity Signifies</desc>
+  </programme>
+  <programme start="20260305081130 +0000" stop="20260305081900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Prayer For Matters Close to Our Heart by Gabriele</title>
+    <desc lang="en">The Call of Gabriele 04 - A Prayer For Matters Close to Our Heart by Gabriele</desc>
+  </programme>
+  <programme start="20260305081900 +0000" stop="20260305083500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Andantino grazioso und Rondo Allegro aus dem Cellokonzert Nr. 9 von Luigi Boccherini, Nachtigall-Serenade von Enrico Toselli (Mai 2015)</title>
+    <desc lang="en">Andantino grazioso und Rondo Allegro aus dem Cellokonzert Nr. 9 von Luigi Boccherini, Nachtigall-Serenade von Enrico Toselli (Mai 2015)</desc>
+  </programme>
+  <programme start="20260305083530 +0000" stop="20260305085630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</title>
+    <desc lang="en">Liobani: The Incarnations of the Soul.</desc>
+  </programme>
+  <programme start="20260305090000 +0000" stop="20260305092200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Youth and the Prophet. Part 4</title>
+    <desc lang="en">The Youth and the Prophet. Part 4</desc>
+  </programme>
+  <programme start="20260305092300 +0000" stop="20260305094300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: Oral or Written Tests.</title>
+    <desc lang="en">Liobani: Oral or Written Tests. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260305094700 +0000" stop="20260305095800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Children's Stories - The Sad Snowman</title>
+    <desc lang="en">Children's Stories - The Sad Snowman</desc>
+  </programme>
+  <programme start="20260305100330 +0000" stop="20260305101730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro maestoso from the Sinfonia Concertante for violin and viola in E flat major KV 364 by Wolfgang Amadeus Mozart (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260305101730 +0000" stop="20260305111430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Military Treasure Hunt</title>
+    <desc lang="en">What the War in Ukraine Is Really About</desc>
+  </programme>
+  <programme start="20260305111930 +0000" stop="20260305115030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Deep Breathing</title>
+    <desc lang="en">Meditation - Deep Breathing</desc>
+  </programme>
+  <programme start="20260305115700 +0000" stop="20260305121330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Christ in Us, the Physician of the Soul</title>
+    <desc lang="en">Meditation Prayer. Christ in Us, the Physician of the Soul</desc>
+  </programme>
+  <programme start="20260305121330 +0000" stop="20260305123500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Keep the Inner Calm in Every Situation</title>
+    <desc lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom</desc>
+  </programme>
+  <programme start="20260305124200 +0000" stop="20260305132030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Either For Me or Against Me</title>
+    <desc lang="en">The Eternal Kingdom. A reading from the revelation of the Christ of God, given through Gabriele, the prophetess and emissary of the Eternal Kingdom on June 14, 1980 in Augsburg, Germany</desc>
+  </programme>
+  <programme start="20260305132730 +0000" stop="20260305140630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Jesus of Nazareth Came for the Animals, too</title>
+    <desc lang="en">Jesus of Nazareth Came for the Animals, too</desc>
+  </programme>
+  <programme start="20260305141100 +0000" stop="20260305141800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (9)</title>
+    <desc lang="en">The Message from the All</desc>
+  </programme>
+  <programme start="20260305142000 +0000" stop="20260305142700 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (14)</title>
+    <desc lang="en">Reincarnation—Life's Gift of Grace</desc>
+  </programme>
+  <programme start="20260305142900 +0000" stop="20260305144030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Spirit of the Christ of God gives a revelation by way of His prophetess Gabriele on December 22, 1996: &quot;Strive to live more and more with nature. The more often you practice to become still, the closer you come to the Inner Gateway&quot;</title>
+    <desc lang="en">The Spirit of the Christ of God gives a revelation by way of His prophetess Gabriele on December 22, 1996: &quot;Strive to live more and more with nature. The more often you practice to become still, the closer you come to the Inner Gateway&quot;</desc>
+  </programme>
+  <programme start="20260305144030 +0000" stop="20260305150000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Liebestraum (Dreams of Love) Nr. 3 in A flat major by Franz Liszt, &quot;&quot;Letzte Rose&quot; (The Last Rose) from the opera Martha by Friedrich von Flotow, Prelude from Partita No. 3 BWV 1006 by Johann Sebastian Bach and others (Sep. 2014)</desc>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305153200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Meditation: I Afirm the Light in the Center of Order</title>
+    <desc lang="en">Original Christian Meditation: I Afirm the Light in the Center of Order</desc>
+  </programme>
+  <programme start="20260305153900 +0000" stop="20260305155100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 16 - Sunday</title>
+    <desc lang="en">Thoughts for the Day - Week 16 - Sunday</desc>
+  </programme>
+  <programme start="20260305155130 +0000" stop="20260305162100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Happiness and Health Are in Your Hands</title>
+    <desc lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom</desc>
+  </programme>
+  <programme start="20260305162200 +0000" stop="20260305164030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Return of the Seventy-two</title>
+    <desc lang="en">This Is My Word - Reading Chap. 20 B &quot;The Return of the Seventy-two&quot;</desc>
+  </programme>
+  <programme start="20260305164300 +0000" stop="20260305170030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sluices are Opened</title>
+    <desc lang="en">The Call of Gabriele 07 - The Sluices are Opened</desc>
+  </programme>
+  <programme start="20260305170030 +0000" stop="20260305172130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Allegro und Andantino aus Konzert fÃ¼r FlÃ¶te, Harfe und Orchester in C-Dur, KV 299 von W.A. Mozart (Juli 2017)</title>
+  </programme>
+  <programme start="20260305172130 +0000" stop="20260305172730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (12)</title>
+    <desc lang="en">You Are Not Alone</desc>
+  </programme>
+  <programme start="20260305173130 +0000" stop="20260305173930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Free Communities Under the Sign of the Lily 01: Words and patterns of behavior are energies - Where do they go?</title>
+    <desc lang="en">The Free Communities Under the Sign of the Lily 01: Words and patterns of behavior are energies - Where do they go?</desc>
+  </programme>
+  <programme start="20260305174300 +0000" stop="20260305175830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: The Spiritual and the Earthly School.</title>
+    <desc lang="en">Liobani: The Spiritual and the Earthly School. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260305180000 +0000" stop="20260305182430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Eternal Kingdom: &quot;Use the Precious Time!&quot;</title>
+    <desc lang="en">A reading of a revelation of the Christ of God &quot;Use the Precious Time,&quot;</desc>
+  </programme>
+  <programme start="20260305182730 +0000" stop="20260305191230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Prayer Meditation. To Pray Means to Empathize and Bear Responsibility</title>
+    <desc lang="en">Prayer Meditation. To Pray Means to Empathize and Bear Responsibility</desc>
+  </programme>
+  <programme start="20260305191230 +0000" stop="20260305193400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - W.A. Mozart, Symphony No. 36 in C major KV 425 &quot;Linz Symphony&quot; (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260305193430 +0000" stop="20260305200430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Word Has Risen and Has Been Disseminated Worldwide.</title>
+    <desc lang="en">Part 1: Recognize and Heal Yourself through the Power of the Spirit.</desc>
+  </programme>
+  <programme start="20260305201230 +0000" stop="20260305204700 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation. Praying in Unity - For Unity</title>
+    <desc lang="en">Meditation. Praying in Unity - For Unity</desc>
+  </programme>
+  <programme start="20260305205430 +0000" stop="20260305211000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 4</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 4</desc>
+  </programme>
+  <programme start="20260305211200 +0000" stop="20260305213130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 5</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 5</desc>
+  </programme>
+  <programme start="20260305213400 +0000" stop="20260305225100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">I Come Soon! I Am the Christ of God</title>
+    <desc lang="en">The Messianic, sophianic Age. I Come Soon! I Am the Christ of God. Revealed from the Kingdom of God through the Prophetess of God Gabriele in the Spring of 2019</desc>
+  </programme>
+  <programme start="20260305225530 +0000" stop="20260305230300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (20)</title>
+    <desc lang="en">A Fulfilled Life Into Old Age 2</desc>
+  </programme>
+  <programme start="20260305230430 +0000" stop="20260305231300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (22)</title>
+    <desc lang="en">God Heals</desc>
+  </programme>
+  <programme start="20260305231330 +0000" stop="20260305235030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation. The Good Shepherd, the Spirit of the Christ of God, in Every Soul</title>
+    <desc lang="en">Meditation. The Good Shepherd, the Spirit of the Christ of God, in Every Soul</desc>
+  </programme>
+  <programme start="20260306000000 +0000" stop="20260306003830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Either For Me or Against Me</title>
+    <desc lang="en">The Eternal Kingdom. A reading from the revelation of the Christ of God, given through Gabriele, the prophetess and emissary of the Eternal Kingdom on June 14, 1980 in Augsburg, Germany</desc>
+  </programme>
+  <programme start="20260306005030 +0000" stop="20260306012230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation Prayer. Just As You Give, So Will It Be Given To You</title>
+    <desc lang="en">Meditation Prayer. Just As You Give, So Will It Be Given To You</desc>
+  </programme>
+  <programme start="20260306012730 +0000" stop="20260306015800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Freedom, Love and Unity</title>
+    <desc lang="en">Highlight Hour 02: Freedom, Love and Unity</desc>
+  </programme>
+  <programme start="20260306020530 +0000" stop="20260306022530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">In Conversation: Prof. Dr. Mojib Latif Climate Reseracher</title>
+    <desc lang="en">In Conversation: Prof. Dr. Mojib Latif Climate Reseracher</desc>
+  </programme>
+  <programme start="20260306022700 +0000" stop="20260306024400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A New Agriculture for the New Era</title>
+    <desc lang="en">Blossoming Fields Full of Life!</desc>
+  </programme>
+  <programme start="20260306024930 +0000" stop="20260306031630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 3</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 3</desc>
+  </programme>
+  <programme start="20260306031930 +0000" stop="20260306034400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 4</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 4</desc>
+  </programme>
+  <programme start="20260306035000 +0000" stop="20260306041000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (06)</title>
+    <desc lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (06)</desc>
+  </programme>
+  <programme start="20260306041330 +0000" stop="20260306053830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260306060000 +0000" stop="20260306063300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Meditation: I Affirm the Divine Wisdom in Me</title>
+    <desc lang="en">Original Christian Meditation: I Affirm the Divine Wisdom in Me</desc>
+  </programme>
+  <programme start="20260306064100 +0000" stop="20260306065400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 16 - Friday</title>
+    <desc lang="en">Thoughts for the Day - Week 16 - Friday</desc>
+  </programme>
+  <programme start="20260306065430 +0000" stop="20260306072300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Prayer Meditation. Life Is Cosmic All-Love</title>
+    <desc lang="en">Prayer Meditation. Life Is Cosmic All-Love</desc>
+  </programme>
+  <programme start="20260306073400 +0000" stop="20260306080130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation from the divine consciousness. Our True Being</title>
+    <desc lang="en">Meditation from the divine consciousness. Our True Being</desc>
+  </programme>
+  <programme start="20260306080400 +0000" stop="20260306081130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Prayer For Matters Close to Our Heart by Gabriele</title>
+    <desc lang="en">The Call of Gabriele 04 - A Prayer For Matters Close to Our Heart by Gabriele</desc>
+  </programme>
+  <programme start="20260306081130 +0000" stop="20260306083730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Konzert für 2 Trompeten in D-Dur von F. Manfredini, Allegro aus Sinfonia concertante fÃ¼r Oboe, Klarinette, Fagott, Horn und Orchester in Es-Dur KV 297b und Laudate Dominum von W.A. Mozart (Apr. 2017)</title>
+    <desc lang="en">Konzert für 2 Trompeten in D-Dur von F. Manfredini, Allegro aus Sinfonia concertante fÃ¼r Oboe, Klarinette, Fagott, Horn und Orchester in Es-Dur KV 297b und Laudate Dominum von W.A. Mozart (Apr. 2017)</desc>
+  </programme>
+  <programme start="20260306083800 +0000" stop="20260306085430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</title>
+    <desc lang="en">Liobani: Everyone has a different state of consciousness.</desc>
+  </programme>
+  <programme start="20260306090000 +0000" stop="20260306100430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Eternal Kingdom. The Deep Significance of the Sacrifice on Golgotha</title>
+    <desc lang="en">The Eternal Kingdom. The Deep Significance of the Sacrifice on Golgotha</desc>
+  </programme>
+  <programme start="20260306101030 +0000" stop="20260306105200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Picture of Health, of Peace and of Inner Well-Being for the Person</title>
+    <desc lang="en">Highlight Hour 03: A Picture of Health, of Peace and of Inner Well-Being for the Person</desc>
+  </programme>
+  <programme start="20260306105900 +0000" stop="20260306112230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A New Agriculture for the New Era</title>
+    <desc lang="en">Bread Drink - Naturally Fortifying the Soil</desc>
+  </programme>
+  <programme start="20260306112400 +0000" stop="20260306114200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A New Agriculture for the New Era</title>
+    <desc lang="en">Fallow Fields - Healthy Soil, Healthy Harvest</desc>
+  </programme>
+  <programme start="20260306114730 +0000" stop="20260306121200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 4</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 4</desc>
+  </programme>
+  <programme start="20260306121500 +0000" stop="20260306123530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 5</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 5</desc>
+  </programme>
+  <programme start="20260306123900 +0000" stop="20260306140400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260306140700 +0000" stop="20260306143330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Find and Affirm the Positive in your Neighbor</title>
+    <desc lang="en">Find and Affirm the Positive in your Neighbor</desc>
+  </programme>
+  <programme start="20260306143830 +0000" stop="20260306150000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - W.A. Mozart, Symphony No. 36 in C major KV 425 &quot;Linz Symphony&quot; (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260306150000 +0000" stop="20260306152130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Meditation -  &quot;The Power of Love Streams toward the Cells of My Body&quot;</title>
+    <desc lang="en">Original Christian Meditation -  &quot;The Power of Love Streams toward the Cells of My Body&quot;</desc>
+  </programme>
+  <programme start="20260306152730 +0000" stop="20260306154230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 16 - Monday</title>
+    <desc lang="en">Thoughts for the Day - Week 16 - Monday</desc>
+  </programme>
+  <programme start="20260306154630 +0000" stop="20260306155900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Allegro maestoso aus dem Gitarrenkonzert op. 30 A-Dur von Mauro Giuliani (Aug. 2016)</title>
+    <desc lang="en">Allegro maestoso aus dem Gitarrenkonzert op. 30 A-Dur von Mauro Giuliani (Aug. 2016)</desc>
+  </programme>
+  <programme start="20260306155900 +0000" stop="20260306161830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation. Attain the Experience of God</title>
+    <desc lang="en">Meditation. Attain the Experience of God</desc>
+  </programme>
+  <programme start="20260306162330 +0000" stop="20260306165830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Highlight Hours with Gabriele: The First and Fifth Commandment of God in the Light of Christ</title>
+    <desc lang="en">Highlight Hours with Gabriele: The First and Fifth Commandment of God in the Light of Christ</desc>
+  </programme>
+  <programme start="20260306170130 +0000" stop="20260306171730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Gran Vals in A-Dur von Francisco Tarrega, Rondo russo aus dem FlÃ¶tenkonzert e-moll von Saverio Mercadante, Cantabile op. 17 D-Dur ovn Niccolo Paganini (Aug. 2016)</title>
+    <desc lang="en">Gran Vals in A-Dur von Francisco Tarrega, Rondo russo aus dem FlÃ¶tenkonzert e-moll von Saverio Mercadante, Cantabile op. 17 D-Dur ovn Niccolo Paganini (Aug. 2016)</desc>
+  </programme>
+  <programme start="20260306172000 +0000" stop="20260306174200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: The Water Spirits.</title>
+    <desc lang="en">Liobani: The Water Spirits. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260306174330 +0000" stop="20260306175500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Children's Stories - Cuckoo Calls You</title>
+    <desc lang="en">Children's Stories - Cuckoo Calls You</desc>
+  </programme>
+  <programme start="20260306180000 +0000" stop="20260306183800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Where Your Treasure Is, There Will Your Heart Also Be. And There Will Your Soul Be One Day</title>
+    <desc lang="en">Where Your Treasure Is, There Will Your Heart Also Be. And There Will Your Soul Be One Day</desc>
+  </programme>
+  <programme start="20260306184100 +0000" stop="20260306190500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Drops of Life</title>
+    <desc lang="en">Meditation - Drops of Life</desc>
+  </programme>
+  <programme start="20260306190900 +0000" stop="20260306193730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Right Kind of Learning Raises our Existence to a Gain in Life</title>
+    <desc lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom</desc>
+  </programme>
+  <programme start="20260306194100 +0000" stop="20260306200700 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 8</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 8</desc>
+  </programme>
+  <programme start="20260306200800 +0000" stop="20260306203100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro and Adagio from the Sinfonia Concertante for flute, clarinet, horn, bassoon and orchestra in ES major KV 297b by Wolfgang Amadeus Mozart (Sept.2014)</desc>
+  </programme>
+  <programme start="20260306203100 +0000" stop="20260306212600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Preparations for the Dissolution of All Condensed Forms and the Return of the Christ of God. Part 1</title>
+    <desc lang="en">Part 1: Cosmic upheavals of unimaginable proportions that will overcome humankind</desc>
+  </programme>
+  <programme start="20260306213030 +0000" stop="20260306215430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation - Father-Words for You, Too</title>
+    <desc lang="en">Meditation - Father-Words for You, Too</desc>
+  </programme>
+  <programme start="20260306215930 +0000" stop="20260306232430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260306233330 +0000" stop="20260306235130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation Prayer: Feel Into the Life</title>
+    <desc lang="en">Meditation Prayer by Gabriele: Feel Into the Life</desc>
+  </programme>
+  <programme start="20260307000000 +0000" stop="20260307003800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Where Your Treasure Is, There Will Your Heart Also Be. And There Will Your Soul Be One Day</title>
+    <desc lang="en">Where Your Treasure Is, There Will Your Heart Also Be. And There Will Your Soul Be One Day</desc>
+  </programme>
+  <programme start="20260307004300 +0000" stop="20260307011330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Lord's Prayer</title>
+    <desc lang="en">The Lord's Prayer</desc>
+  </programme>
+  <programme start="20260307011330 +0000" stop="20260307013630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro and Adagio from the Sinfonia Concertante for flute, clarinet, horn, bassoon and orchestra in ES major KV 297b by Wolfgang Amadeus Mozart (Sept.2014)</desc>
+  </programme>
+  <programme start="20260307013700 +0000" stop="20260307024630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">For the present or for the time after the time: You Are Somebody? Who Are You?</title>
+    <desc lang="en">For the present or for the time after the time: You Are Somebody? Who Are You?</desc>
+  </programme>
+  <programme start="20260307025030 +0000" stop="20260307031330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Where Does Our Fear Come From? Given by Gabriele, The Prophetess and Emissary of the Eternal Kingdom</title>
+    <desc lang="en">Where Does Our Fear Come From? Given by Gabriele, The Prophetess and Emissary of the Eternal Kingdom</desc>
+  </programme>
+  <programme start="20260307031930 +0000" stop="20260307033230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation Prayer. Heart-Prayers Are Nourishment for the Soul</title>
+    <desc lang="en">Meditation Prayer. Heart-Prayers Are Nourishment for the Soul</desc>
+  </programme>
+  <programme start="20260307033630 +0000" stop="20260307035330 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 3</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 3</desc>
+  </programme>
+  <programme start="20260307035430 +0000" stop="20260307041000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 4</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 4</desc>
+  </programme>
+  <programme start="20260307041630 +0000" stop="20260307054130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260307054400 +0000" stop="20260307055130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (20)</title>
+    <desc lang="en">A Fulfilled Life Into Old Age 2</desc>
+  </programme>
+  <programme start="20260307055230 +0000" stop="20260307060000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (21)</title>
+    <desc lang="en">Words of Life 1</desc>
+  </programme>
+  <programme start="20260307060000 +0000" stop="20260307062600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Meditation: Love, Warmth and Harmony Stream Toward Me From the Consciousness of Will</title>
+    <desc lang="en">Original Christian Meditation: Love, Warmth and Harmony Stream Toward Me From the Consciousness of Will</desc>
+  </programme>
+  <programme start="20260307063130 +0000" stop="20260307064430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 16 - Saturday</title>
+    <desc lang="en">Thoughts for the Day - Week 16 - Saturday</desc>
+  </programme>
+  <programme start="20260307064500 +0000" stop="20260307071730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Security and Safety in Christ . Given by Gabriele, the Prophetess an Emissary of the Eternal Kingdom</title>
+    <desc lang="en">Security and Safety in Christ . Given by Gabriele, the Prophetess an Emissary of the Eternal Kingdom</desc>
+  </programme>
+  <programme start="20260307072800 +0000" stop="20260307075400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Experience Christ</title>
+    <desc lang="en">Meditation - Experience Christ</desc>
+  </programme>
+  <programme start="20260307075630 +0000" stop="20260307081230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Life Knows No Standstill</title>
+    <desc lang="en">The Call of Gabriele 03 - Life Knows No Standstill</desc>
+  </programme>
+  <programme start="20260307081230 +0000" stop="20260307083130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Andante für Flöte und Orchester KV 315 und Allegro aperto aus Violinkonzert Nr. 5 von W.A. Mozart (Febr. 2017)</title>
+  </programme>
+  <programme start="20260307083130 +0000" stop="20260307083830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (11)</title>
+    <desc lang="en">Father Words for You, too</desc>
+  </programme>
+  <programme start="20260307083930 +0000" stop="20260307085430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: The Earth - As the School of Life.</title>
+    <desc lang="en">Liobani: The Earth - As the School of Life. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260307090000 +0000" stop="20260307092430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Eternal Kingdom: &quot;Use the Precious Time!&quot;</title>
+    <desc lang="en">A reading of a revelation of the Christ of God &quot;Use the Precious Time,&quot;</desc>
+  </programme>
+  <programme start="20260307092730 +0000" stop="20260307101230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Prayer Meditation. To Pray Means to Empathize and Bear Responsibility</title>
+    <desc lang="en">Prayer Meditation. To Pray Means to Empathize and Bear Responsibility</desc>
+  </programme>
+  <programme start="20260307101230 +0000" stop="20260307103400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - W.A. Mozart, Symphony No. 36 in C major KV 425 &quot;Linz Symphony&quot; (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260307103430 +0000" stop="20260307110430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Word Has Risen and Has Been Disseminated Worldwide.</title>
+    <desc lang="en">Part 1: Recognize and Heal Yourself through the Power of the Spirit.</desc>
+  </programme>
+  <programme start="20260307111230 +0000" stop="20260307114700 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation. Praying in Unity - For Unity</title>
+    <desc lang="en">Meditation. Praying in Unity - For Unity</desc>
+  </programme>
+  <programme start="20260307115430 +0000" stop="20260307121000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 4</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 4</desc>
+  </programme>
+  <programme start="20260307121200 +0000" stop="20260307123130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 5</title>
+    <desc lang="en">A Lot, a Lot of Life. We are Merly Guests On Earth. Becoming Older or Being Old? Part 5</desc>
+  </programme>
+  <programme start="20260307123400 +0000" stop="20260307135100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">I Come Soon! I Am the Christ of God</title>
+    <desc lang="en">The Messianic, sophianic Age. I Come Soon! I Am the Christ of God. Revealed from the Kingdom of God through the Prophetess of God Gabriele in the Spring of 2019</desc>
+  </programme>
+  <programme start="20260307135530 +0000" stop="20260307140300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (20)</title>
+    <desc lang="en">A Fulfilled Life Into Old Age 2</desc>
+  </programme>
+  <programme start="20260307140430 +0000" stop="20260307141300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (22)</title>
+    <desc lang="en">God Heals</desc>
+  </programme>
+  <programme start="20260307141330 +0000" stop="20260307145030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation. The Good Shepherd, the Spirit of the Christ of God, in Every Soul</title>
+    <desc lang="en">Meditation. The Good Shepherd, the Spirit of the Christ of God, in Every Soul</desc>
+  </programme>
+  <programme start="20260307150000 +0000" stop="20260307153200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Meditation: The Power of the Father Flows toward Me from the Consciousness Center of Patience</title>
+    <desc lang="en">Original Christian Meditation: The Power of the Father Flows toward Me from the Consciousness Center of Patience</desc>
+  </programme>
+  <programme start="20260307153800 +0000" stop="20260307155300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 15 - Tuesday</title>
+    <desc lang="en">Thoughts for the Day - Week 15 - Tuesday</desc>
+  </programme>
+  <programme start="20260307155600 +0000" stop="20260307161230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Larghetto aus Frühlingssinfonie in A-Dur von J. Raff, Allegro vivace aus Sinfonie Nr. 1 in D-Dur von F. Schubert (Apr. 2017)</title>
+    <desc lang="en">Larghetto aus Frühlingssinfonie in A-Dur von J. Raff, Allegro vivace aus Sinfonie Nr. 1 in D-Dur von F. Schubert (Apr. 2017)</desc>
+  </programme>
+  <programme start="20260307161230 +0000" stop="20260307163530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Gift for Self-Help</title>
+    <desc lang="en">Meditation - A Gift for Self-Help</desc>
+  </programme>
+  <programme start="20260307164030 +0000" stop="20260307172000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Highlight Hour 04: A New Man in the Stream of Unending Love</title>
+    <desc lang="en">Highlight Hour 04: A New Man in the Stream of Unending Love</desc>
+  </programme>
+  <programme start="20260307172300 +0000" stop="20260307173730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Allegro aus Sinfonia concertante für Oboe, Klarinette, Fagott, Horn und Orchester in Es-Dur KV 297b von W.A. Mozart (Apr. 2017)</title>
+    <desc lang="en">Allegro aus Sinfonia concertante für Oboe, Klarinette, Fagott, Horn und Orchester in Es-Dur KV 297b von W.A. Mozart (Apr. 2017)</desc>
+  </programme>
+  <programme start="20260307174000 +0000" stop="20260307175700 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</title>
+    <desc lang="en">Liobani: Raise Your Children to Be Free People!</desc>
+  </programme>
+  <programme start="20260307180000 +0000" stop="20260307183300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Where Do We Pray? What Do We pray? How Do We pray?</title>
+    <desc lang="en">Meditation - Prayer: Where Do We Pray? What Do We pray? How Do We pray?</desc>
+  </programme>
+  <programme start="20260307184030 +0000" stop="20260307192500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Inner Light Radiates Through Your Soul Into Your Body (3)</title>
+    <desc lang="en">Meditation -The Inner Physician and Healer - The Inner Light Radiates Through Your Soul Into Your Body (3)</desc>
+  </programme>
+  <programme start="20260307193300 +0000" stop="20260307202530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Part 2. The Preparations for the Dissolution of All Condensed Forms and the Return of the Christ of God.</title>
+    <desc lang="en">Part 2: The Meaning of the Redeemer-Deed of the Christ of God and the end of the Fall</desc>
+  </programme>
+  <programme start="20260307202800 +0000" stop="20260307203930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Adagio and Allegro from the Concerto for Cello and Orchestra No. 2 in D major by Josef Haydn (Sep. 2014)</desc>
+  </programme>
+  <programme start="20260307204100 +0000" stop="20260307211100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Be Still - God Dwells in You. The Renewal of Life that Comes from Within</title>
+    <desc lang="en">Highlight Hour 06: Be Still - God Dwells in You. The Renewal of Life that Comes from Within</desc>
+  </programme>
+  <programme start="20260307211730 +0000" stop="20260307213800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A New Agriculture for the New Era</title>
+    <desc lang="en">Plant Brews - Fortifying Liquid for the Field</desc>
+  </programme>
+  <programme start="20260307214000 +0000" stop="20260307230500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260307231100 +0000" stop="20260307233400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Gift for Self-Help</title>
+    <desc lang="en">Meditation - A Gift for Self-Help</desc>
+  </programme>
+  <programme start="20260307234230 +0000" stop="20260308000000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro from Symphony No. 6 in C major D589 by Franz Schubert (Apr. 2015)</desc>
+  </programme>
+  <programme start="20260308000000 +0000" stop="20260308002630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Eternal Kingdom: &quot;The Law of Sowing and Reaping - and the Grace of God&quot;</title>
+    <desc lang="en">A reading of a revelation of the Christ of God &quot;The Law of Sowing and Reaping — and the Grace of God,&quot; given through Gabriele, the prophetess and emissary of the Eternal Kingdom, on May 6, 1988 in Würzburg, Germany</desc>
+  </programme>
+  <programme start="20260308002930 +0000" stop="20260308005200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation Prayer. Christ Is the Redemption in Us.</title>
+    <desc lang="en">Meditation Prayer. Christ Is the Redemption in Us.</desc>
+  </programme>
+  <programme start="20260308005830 +0000" stop="20260308012630 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">What Is Freedom? How Did We Deprive Ourselves of It? And How Do We Regain It?</title>
+    <desc lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom: &quot;What Is Freedom? How Did We Deprive Ourselves of It? And How Do We Regain It?&quot;</desc>
+  </programme>
+  <programme start="20260308013100 +0000" stop="20260308015730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 7</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 7</desc>
+  </programme>
+  <programme start="20260308015930 +0000" stop="20260308022530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 8</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 8</desc>
+  </programme>
+  <programme start="20260308022630 +0000" stop="20260308031930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Part 3. The Preparations for the Dissolution of All Condensed Forms and the Return of the Christ of God.</title>
+    <desc lang="en">Part 3: The homebringing of the children of God – back to the unity of all life and the eternal love</desc>
+  </programme>
+  <programme start="20260308032730 +0000" stop="20260308035430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Washing the Feet</title>
+    <desc lang="en">This is My Word - Reading Chap. 76 A &quot;Washing the Feet&quot;</desc>
+  </programme>
+  <programme start="20260308035930 +0000" stop="20260308052430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260308054030 +0000" stop="20260308055900 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom: &quot;How Is Our Life - Are we headed heavenward or toward reincarnation?&quot;</title>
+    <desc lang="en">How Is Our Life - Are we headed heavenward or toward reincarnation?</desc>
+  </programme>
+  <programme start="20260308060000 +0000" stop="20260308063200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Meditation: I Afirm the Light in the Center of Order</title>
+    <desc lang="en">Original Christian Meditation: I Afirm the Light in the Center of Order</desc>
+  </programme>
+  <programme start="20260308063900 +0000" stop="20260308065100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 16 - Sunday</title>
+    <desc lang="en">Thoughts for the Day - Week 16 - Sunday</desc>
+  </programme>
+  <programme start="20260308065130 +0000" stop="20260308072100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Happiness and Health Are in Your Hands</title>
+    <desc lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom</desc>
+  </programme>
+  <programme start="20260308072200 +0000" stop="20260308074030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Return of the Seventy-two</title>
+    <desc lang="en">This Is My Word - Reading Chap. 20 B &quot;The Return of the Seventy-two&quot;</desc>
+  </programme>
+  <programme start="20260308074300 +0000" stop="20260308080030 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sluices are Opened</title>
+    <desc lang="en">The Call of Gabriele 07 - The Sluices are Opened</desc>
+  </programme>
+  <programme start="20260308080030 +0000" stop="20260308082130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Allegro und Andantino aus Konzert fÃ¼r FlÃ¶te, Harfe und Orchester in C-Dur, KV 299 von W.A. Mozart (Juli 2017)</title>
+  </programme>
+  <programme start="20260308082130 +0000" stop="20260308082730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Are the Free Communities - Link and Be (12)</title>
+    <desc lang="en">You Are Not Alone</desc>
+  </programme>
+  <programme start="20260308083130 +0000" stop="20260308083930 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Free Communities Under the Sign of the Lily 01: Words and patterns of behavior are energies - Where do they go?</title>
+    <desc lang="en">The Free Communities Under the Sign of the Lily 01: Words and patterns of behavior are energies - Where do they go?</desc>
+  </programme>
+  <programme start="20260308084300 +0000" stop="20260308085830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani: The Spiritual and the Earthly School.</title>
+    <desc lang="en">Liobani: The Spiritual and the Earthly School. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
+  </programme>
+  <programme start="20260308090000 +0000" stop="20260308093800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Where Your Treasure Is, There Will Your Heart Also Be. And There Will Your Soul Be One Day</title>
+    <desc lang="en">Where Your Treasure Is, There Will Your Heart Also Be. And There Will Your Soul Be One Day</desc>
+  </programme>
+  <programme start="20260308094100 +0000" stop="20260308100500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Drops of Life</title>
+    <desc lang="en">Meditation - Drops of Life</desc>
+  </programme>
+  <programme start="20260308100900 +0000" stop="20260308103730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Right Kind of Learning Raises our Existence to a Gain in Life</title>
+    <desc lang="en">The True School Is Life. Teaching Hours from the Divine Wisdom</desc>
+  </programme>
+  <programme start="20260308104100 +0000" stop="20260308110700 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 8</title>
+    <desc lang="en">The Sermon on the Mount of Jesus of Nazareth. Part 8</desc>
+  </programme>
+  <programme start="20260308110800 +0000" stop="20260308113100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Allegro and Adagio from the Sinfonia Concertante for flute, clarinet, horn, bassoon and orchestra in ES major KV 297b by Wolfgang Amadeus Mozart (Sept.2014)</desc>
+  </programme>
+  <programme start="20260308113100 +0000" stop="20260308122600 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Preparations for the Dissolution of All Condensed Forms and the Return of the Christ of God. Part 1</title>
+    <desc lang="en">Part 1: Cosmic upheavals of unimaginable proportions that will overcome humankind</desc>
+  </programme>
+  <programme start="20260308123030 +0000" stop="20260308125430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation - Father-Words for You, Too</title>
+    <desc lang="en">Meditation - Father-Words for You, Too</desc>
+  </programme>
+  <programme start="20260308125930 +0000" stop="20260308142430 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Community Gathering in Altfeld, Germany.</title>
+    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God. On February 2026, Year 3 of the Messianic Sophianic Age</desc>
+  </programme>
+  <programme start="20260308143330 +0000" stop="20260308145130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation Prayer: Feel Into the Life</title>
+    <desc lang="en">Meditation Prayer by Gabriele: Feel Into the Life</desc>
+  </programme>
+  <programme start="20260308150000 +0000" stop="20260308153530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Original Christian Meditation: I Affirm the Powers of the Almighty in His Attribute of Patience</title>
+    <desc lang="en">Original Christian Meditation: I Affirm the Powers of the Almighty in His Attribute of Patience</desc>
+  </programme>
+  <programme start="20260308154200 +0000" stop="20260308155500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Thoughts for the Day - Week 16 - Wednesday</title>
+    <desc lang="en">Thoughts for the Day - Week 16 - Wednesday</desc>
+  </programme>
+  <programme start="20260308155800 +0000" stop="20260308161100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Molto Allegro aus der Sinfonie Nr. 40 von W.A. Mozart, Thema aus Polowetzer TÃ¤nze von A. Borodin  (Jun. 2016)</title>
+    <desc lang="en">Molto Allegro aus der Sinfonie Nr. 40 von W.A. Mozart, Thema aus Polowetzer TÃ¤nze von A. Borodin  (Jun. 2016)</desc>
+  </programme>
+  <programme start="20260308161200 +0000" stop="20260308162500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Meditation Prayer. Heart-Prayers Are Nourishment for the Soul</title>
+    <desc lang="en">Meditation Prayer. Heart-Prayers Are Nourishment for the Soul</desc>
+  </programme>
+  <programme start="20260308163600 +0000" stop="20260308171500 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Light-Filled Soul in the Light of the Christ of God</title>
+    <desc lang="en">Highlight Hour 05: The Light-Filled Soul in the Light of the Christ of God</desc>
+  </programme>
+  <programme start="20260308171800 +0000" stop="20260308173230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Allegro aus Sinfonia concertante für Oboe, Klarinette, Fagott, Horn und Orchester in Es-Dur KV 297b von W.A. Mozart (Apr. 2017)</title>
+    <desc lang="en">Allegro aus Sinfonia concertante für Oboe, Klarinette, Fagott, Horn und Orchester in Es-Dur KV 297b von W.A. Mozart (Apr. 2017)</desc>
+  </programme>
+  <programme start="20260308173230 +0000" stop="20260308174300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Liobani - Report from Africa</title>
+    <desc lang="en">Liobani - The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor: Report from Africa</desc>
+  </programme>
+  <programme start="20260308174430 +0000" stop="20260308175530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Children's Stories - The Sad Snowman</title>
+    <desc lang="en">Children's Stories - The Sad Snowman</desc>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308181800 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Ten Commandments of God - Interpreted with words of the present time. Part 3</title>
+    <desc lang="en">The Ten Commandments of God - Interpreted with words of the present time. Part 3</desc>
+  </programme>
+  <programme start="20260308182730 +0000" stop="20260308185400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Jesus Sends Out the Twelve</title>
+    <desc lang="en">This Is My Word - Reading Chap.17 &quot;Jesus Sends Out the Twelve&quot;</desc>
+  </programme>
+  <programme start="20260308185830 +0000" stop="20260308192200 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Prayer Meditation for Self-Reflection. Every Human Being Is Involved in Contributing to the State of this World</title>
+    <desc lang="en">A Prayer Meditation for Self-Reflection. Every Human Being Is Involved in Contributing to the State of this World</desc>
+  </programme>
+  <programme start="20260308192900 +0000" stop="20260308202530 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Inner Devotional 4 - Each Day Brings the Next Step Toward the Divine</title>
+    <desc lang="en">Inner Devotional 4 - Each Day Brings the Next Step Toward the Divine</desc>
+  </programme>
+  <programme start="20260308203100 +0000" stop="20260308205730 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Reincarnation. Life's Gift of Grace.</title>
+    <desc lang="en">Reincarnation. Life's Gift of Grace. Part 1</desc>
+  </programme>
+  <programme start="20260308210300 +0000" stop="20260308212130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (04)</title>
+    <desc lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (04)</desc>
+  </programme>
+  <programme start="20260308212300 +0000" stop="20260308214300 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (06)</title>
+    <desc lang="en">We Read... Are You Listening? Empathize, Experience... Young People on the Path to Christ (06)</desc>
+  </programme>
+  <programme start="20260308214300 +0000" stop="20260308215130 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
+    <desc lang="en">Classics for the Soul - Concerto for Flute, Bassoon and Orchestra in G minor RV 106 by Antonio Vivaldi (Sep.2014)</desc>
+  </programme>
+  <programme start="20260308215400 +0000" stop="20260308221830 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">A Reading from: &quot;Posthumous Fame&quot; by Manfred Kyber</title>
+    <desc lang="en">A Reading from: &quot;Posthumous Fame&quot; by Manfred Kyber</desc>
+  </programme>
+  <programme start="20260308222200 +0000" stop="20260308232100 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The Gift from the Sanctum of God</title>
+    <desc lang="en">The Gift from the Sanctum of God</desc>
+  </programme>
+  <programme start="20260308232930 +0000" stop="20260308235230 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">The One Who Has a Conscience Feels the Life</title>
+    <desc lang="en">The One Who Has a Conscience Feels the Life</desc>
+  </programme>
+</tv>
