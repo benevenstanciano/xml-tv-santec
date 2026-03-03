@@ -35,3 +35,7 @@ languages:
 retention:
   keep_past_days: 7
   keep_future_days: 28
+
+csv_cleanup:
+  enabled: true
+  keep_past_files_per_language: 2
