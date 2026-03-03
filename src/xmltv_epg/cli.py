@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from dataclasses import dataclass
 
 from .config import load_config
 from .fetcher import fetch_weekly_csvs
@@ -10,6 +11,10 @@ from .parser import parse_csv_file
 from .util import ensure_dir
 from .xmltv import Channel, build_xmltv_single_channel
 
+@dataclass
+class CsvMeta:
+    path: Path
+    max_stop: datetime
 
 def main() -> None:
     ap = argparse.ArgumentParser(description="Generate per-language XMLTV from Radio Santec KW CSV files.")
@@ -48,35 +53,51 @@ def main() -> None:
     for lang in cfg.languages:
         programmes = []
 
+        csv_meta: list[CsvMeta] = []
+
         for csv_path in sorted(cfg.paths.csv_dir.glob(f"{lang.code}_KW*.csv")):
-            programmes.extend(
-                parse_csv_file(
-                    csv_path,
-                    start_datetime_col=cfg.parser.columns.start_datetime,
-                    duration_col=cfg.parser.columns.duration,
-                    title_col=cfg.parser.columns.title,
-                    desc_col=cfg.parser.columns.desc,
-                )
+            progs = parse_csv_file(
+                csv_path,
+                start_datetime_col=cfg.parser.columns.start_datetime,
+                duration_col=cfg.parser.columns.duration,
+                title_col=cfg.parser.columns.title,
+                desc_col=cfg.parser.columns.desc,
             )
+            if not progs:
+                continue
+        
+            programmes.extend(progs)
+            max_stop = max(p.stop for p in progs)
+            csv_meta.append(CsvMeta(path=csv_path, max_stop=max_stop))
 
-        programmes.sort(key=lambda p: p.start)
-
-        # Retention window
-        now = datetime.now(timezone.utc)
-        start_cutoff = now - timedelta(days=cfg.retention.keep_past_days)
-        end_cutoff = now + timedelta(days=cfg.retention.keep_future_days)
-
-        programmes = [
+                programmes = [
             p for p in programmes
             if p.stop > start_cutoff and p.start < end_cutoff
         ]
 
-        channel = Channel(
-            id=lang.channel_id,
-            display_name=lang.display_name,
-            lang=lang.code,
-            icon=lang.icon,
-        )
+        # CSV cleanup
+        if cfg.csv_cleanup.enabled and csv_meta:
+            # Files that are completely in the past
+            past_only = [m for m in csv_meta if m.max_stop < start_cutoff]
+            past_only.sort(key=lambda m: m.max_stop, reverse=True)
+
+            keep_n = max(0, int(cfg.csv_cleanup.keep_past_files_per_language))
+
+            # Keep the N most recent past files
+            to_keep = set(m.path for m in past_only[:keep_n])
+            to_delete = [m for m in past_only[keep_n:] if m.path not in to_keep]
+
+            deleted = 0
+            for m in to_delete:
+                try:
+                    m.path.unlink()
+                    deleted += 1
+                except FileNotFoundError:
+                    pass
+
+            if deleted:
+                print(f"Deleted {deleted} old CSV files for language {lang.code}")
+
         channel = Channel(
             id=lang.channel_id,
             display_name=lang.display_name,
