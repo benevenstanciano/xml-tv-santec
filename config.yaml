@@ -31,3 +31,7 @@ languages:
     channel_id: "radio-santec.webtv.pt"
     display_name: "Radio Santec WebTV PT"
     icon: null
+    
+retention:
+  keep_past_days: 7
+  keep_future_days: 28
