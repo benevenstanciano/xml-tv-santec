@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from .config import load_config
@@ -60,6 +61,22 @@ def main() -> None:
 
         programmes.sort(key=lambda p: p.start)
 
+        # Retention window
+        now = datetime.now(timezone.utc)
+        start_cutoff = now - timedelta(days=cfg.retention.keep_past_days)
+        end_cutoff = now + timedelta(days=cfg.retention.keep_future_days)
+
+        programmes = [
+            p for p in programmes
+            if p.stop > start_cutoff and p.start < end_cutoff
+        ]
+
+        channel = Channel(
+            id=lang.channel_id,
+            display_name=lang.display_name,
+            lang=lang.code,
+            icon=lang.icon,
+        )
         channel = Channel(
             id=lang.channel_id,
             display_name=lang.display_name,
