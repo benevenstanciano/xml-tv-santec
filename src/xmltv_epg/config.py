@@ -52,7 +52,11 @@ class AppConfig:
     fetch: FetchConfig
     parser: ParserConfig
     languages: list[LanguageConfig]
-
+    
+@dataclass(frozen=True)
+class RetentionConfig:
+    keep_past_days: int = 7
+    keep_future_days: int = 28
 
 def load_config(path: str | Path) -> AppConfig:
     p = Path(path)
