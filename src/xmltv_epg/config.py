@@ -52,6 +52,7 @@ class AppConfig:
     fetch: FetchConfig
     parser: ParserConfig
     languages: list[LanguageConfig]
+    retention: RetentionConfig
     
 @dataclass(frozen=True)
 class RetentionConfig:
@@ -79,6 +80,8 @@ def load_config(path: str | Path) -> AppConfig:
 
     languages = [LanguageConfig(**x) for x in raw["languages"]]
 
+    retention = RetentionConfig(**raw.get("retention", {}))
+
     return AppConfig(
         base_url=raw["base_url"],
         timezone=raw.get("timezone", "UTC"),
@@ -86,4 +89,5 @@ def load_config(path: str | Path) -> AppConfig:
         fetch=fetch,
         parser=parser,
         languages=languages,
+        retention=retention,
     )
