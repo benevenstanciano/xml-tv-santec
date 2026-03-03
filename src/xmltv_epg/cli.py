@@ -52,7 +52,6 @@ def main() -> None:
 
     for lang in cfg.languages:
         programmes = []
-
         csv_meta: list[CsvMeta] = []
 
         for csv_path in sorted(cfg.paths.csv_dir.glob(f"{lang.code}_KW*.csv")):
@@ -65,27 +64,30 @@ def main() -> None:
             )
             if not progs:
                 continue
-        
+
             programmes.extend(progs)
             max_stop = max(p.stop for p in progs)
             csv_meta.append(CsvMeta(path=csv_path, max_stop=max_stop))
 
-                programmes = [
+        programmes.sort(key=lambda p: p.start)
+
+        # Retention window
+        now = datetime.now(timezone.utc)
+        start_cutoff = now - timedelta(days=cfg.retention.keep_past_days)
+        end_cutoff = now + timedelta(days=cfg.retention.keep_future_days)
+
+        programmes = [
             p for p in programmes
             if p.stop > start_cutoff and p.start < end_cutoff
         ]
 
         # CSV cleanup
         if cfg.csv_cleanup.enabled and csv_meta:
-            # Files that are completely in the past
             past_only = [m for m in csv_meta if m.max_stop < start_cutoff]
             past_only.sort(key=lambda m: m.max_stop, reverse=True)
 
             keep_n = max(0, int(cfg.csv_cleanup.keep_past_files_per_language))
-
-            # Keep the N most recent past files
-            to_keep = set(m.path for m in past_only[:keep_n])
-            to_delete = [m for m in past_only[keep_n:] if m.path not in to_keep]
+            to_delete = past_only[keep_n:]
 
             deleted = 0
             for m in to_delete:
