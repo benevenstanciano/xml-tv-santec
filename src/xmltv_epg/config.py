@@ -53,11 +53,17 @@ class AppConfig:
     parser: ParserConfig
     languages: list[LanguageConfig]
     retention: RetentionConfig
+    csv_cleanup: CsvCleanupConfig
     
 @dataclass(frozen=True)
 class RetentionConfig:
     keep_past_days: int = 7
     keep_future_days: int = 28
+
+@dataclass(frozen=True)
+class CsvCleanupConfig:
+    enabled: bool = True
+    keep_past_files_per_language: int = 2
 
 def load_config(path: str | Path) -> AppConfig:
     p = Path(path)
@@ -82,6 +88,8 @@ def load_config(path: str | Path) -> AppConfig:
 
     retention = RetentionConfig(**raw.get("retention", {}))
 
+    csv_cleanup = CsvCleanupConfig(**raw.get("csv_cleanup", {}))
+
     return AppConfig(
         base_url=raw["base_url"],
         timezone=raw.get("timezone", "UTC"),
@@ -90,4 +98,5 @@ def load_config(path: str | Path) -> AppConfig:
         parser=parser,
         languages=languages,
         retention=retention,
+        csv_cleanup=csv_cleanup,
     )
