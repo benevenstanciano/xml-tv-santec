@@ -1,0 +1,33 @@
+base_url: "https://radio-santec.com/wp-content/sendeplan/{lang}/WEBTV-{lang_upper}_KW{kw:02d}.csv"
+
+timezone: "UTC"
+
+paths:
+  data_dir: "data"
+  csv_dir: "data/csv"
+  state_file: "data/state.json"
+  output_dir: "output"
+
+fetch:
+  timeout_seconds: 30
+  user_agent: "xmltv-epg-generator/0.3 (+https://github.com/yourname/yourrepo)"
+  kw_min: 1
+  kw_max: 52
+
+parser:
+  columns:
+    start_datetime: "Sendezeit"
+    duration: "Länge"
+    title: "Titel_Sprache"
+    desc: "Beschreibung_Sprache"
+
+languages:
+  - code: "en"
+    channel_id: "radio-santec.webtv.en"
+    display_name: "Radio Santec WebTV EN"
+    icon: null
+
+  - code: "pt"
+    channel_id: "radio-santec.webtv.pt"
+    display_name: "Radio Santec WebTV PT"
+    icon: null
