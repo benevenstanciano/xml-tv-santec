@@ -12,7 +12,7 @@ class PathsConfig:
     data_dir: Path
     csv_dir: Path
     state_file: Path
-    output_xml: Path
+    output_dir: Path
 
 
 @dataclass(frozen=True)
@@ -65,7 +65,7 @@ def load_config(path: str | Path) -> AppConfig:
         data_dir=Path(paths["data_dir"]),
         csv_dir=Path(paths["csv_dir"]),
         state_file=Path(paths["state_file"]),
-        output_xml=Path(paths["output_xml"]),
+        output_dir=Path(paths["output_dir"]),
     )
 
     fetch = FetchConfig(**raw["fetch"])
