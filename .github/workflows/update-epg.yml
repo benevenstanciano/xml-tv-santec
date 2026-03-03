@@ -29,6 +29,11 @@ jobs:
         run: |
           xmltv-epg --config config.yaml
 
+      - name: Copy XML to docs for GitHub Pages
+        run: |
+          mkdir -p docs
+          cp -f output/*.xml docs/
+
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
