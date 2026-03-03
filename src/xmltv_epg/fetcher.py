@@ -71,7 +71,7 @@ def fetch_weekly_csvs(
 
             content_hash = sha256_bytes(r.content)
 
-            if seen.get(key) == content_hash and out.exists():
+            if seen.get(key) == content_hash:
                 skipped_existing.append(out)
                 continue
 
