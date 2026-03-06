@@ -7,7 +7,7 @@ from dataclasses import dataclass
 
 from .config import load_config
 from .fetcher import fetch_weekly_csvs
-from .parser import parse_csv_file
+from .parser import Programme, parse_csv_file
 from .util import ensure_dir
 from .xmltv import Channel, build_xmltv_single_channel
 
@@ -80,6 +80,36 @@ def main() -> None:
             p for p in programmes
             if p.stop > start_cutoff and p.start < end_cutoff
         ]
+        # Add placeholder programmes if the real schedule does not yet
+        # extend to the end of the future retention window
+        placeholder_title = "Sophia TV"
+        placeholder_desc = (
+            "Sophia TV is an independent Christian television station. "
+            "Programs include meditations, spiritual teachings, as well as "
+            "children's programs and classical music."
+        )
+
+        future_limit = now + timedelta(days=cfg.retention.keep_future_days)
+
+        if programmes:
+            cursor = programmes[-1].stop
+        else:
+            cursor = now
+
+        if cursor < future_limit:
+            while cursor < future_limit:
+                next_stop = min(cursor + timedelta(hours=1), future_limit)
+
+                programmes.append(
+                    Programme(
+                        start=cursor,
+                        stop=next_stop,
+                        title=placeholder_title,
+                        desc=placeholder_desc,
+                    )
+                )
+
+                cursor = next_stop
 
         # CSV cleanup
         if cfg.csv_cleanup.enabled and csv_meta:
