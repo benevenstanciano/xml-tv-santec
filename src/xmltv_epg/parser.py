@@ -6,6 +6,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from dateutil import parser as dtparser
+from zoneinfo import ZoneInfo
 
 
 @dataclass(frozen=True)
@@ -80,11 +81,13 @@ def parse_csv_file(
         except Exception:
             continue
 
-        # Treat as UTC (input times are UTC)
+        # Treat CSV times as Europe/Berlin local time, then convert to UTC
+        berlin_tz = ZoneInfo("Europe/Berlin")
+
         if start_dt.tzinfo is None:
-            start_dt = start_dt.replace(tzinfo=timezone.utc)
-        else:
-            start_dt = start_dt.astimezone(timezone.utc)
+            start_dt = start_dt.replace(tzinfo=berlin_tz)
+
+        start_dt = start_dt.astimezone(timezone.utc)
 
         dur = _parse_duration_hms(dur_raw) or timedelta(minutes=60)
         stop_dt = start_dt + dur
