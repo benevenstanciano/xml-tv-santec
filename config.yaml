@@ -1,9 +1,4 @@
-base_url: "https://radio-santec.com/wp-content/sendeplan/{lang}/WEBTV/{prefix}_KW{kw:02d}.csv"
-
-prefix_by_lang:
-  en: "EN"
-  pt: "PT"
-  es: "WEBTV-ES"
+base_url: "https://radio-santec.com/wp-content/sendeplan/{lang}/WEBTV-{lang_upper}_KW{kw:02d}.csv"
 
 timezone: "UTC"
 
@@ -26,6 +21,14 @@ parser:
     title: "Titel_Sprache"
     desc: "Beschreibung_Sprache"
 
+retention:
+  keep_past_days: 7
+  keep_future_days: 28
+
+csv_cleanup:
+  enabled: true
+  keep_past_files_per_language: 2
+
 languages:
   - code: "en"
     channel_id: "radio-santec.webtv.en"
@@ -41,11 +44,4 @@ languages:
     channel_id: "radio-santec.webtv.es"
     display_name: "Radio Santec WebTV ES"
     icon: null
-
-retention:
-  keep_past_days: 7
-  keep_future_days: 28
-
-csv_cleanup:
-  enabled: true
-  keep_past_files_per_language: 2
+    url_template: "https://radio-santec.com/wp-content/sendeplan/es/WEBTV/WEBTV-ES_KW{kw:02d}.csv"
