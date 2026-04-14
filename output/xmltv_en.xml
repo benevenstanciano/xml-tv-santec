@@ -3,38 +3,6 @@
   <channel id="radio-santec.webtv.en">
     <display-name>Radio Santec WebTV EN</display-name>
   </channel>
-  <programme start="20260407044400 +0000" stop="20260407054730 +0000" channel="radio-santec.webtv.en">
-    <title lang="en">Celebration of the Family of God on Earth</title>
-    <desc lang="en">Christ, the Risen One, Came Out of Love for All Creation</desc>
-  </programme>
-  <programme start="20260407055200 +0000" stop="20260407060830 +0000" channel="radio-santec.webtv.en">
-    <title lang="en">Adagio und Rondo aus dem Klarinettenkonzert von W.A. Mozart (Jun. 2016)</title>
-    <desc lang="en">Adagio und Rondo aus dem Klarinettenkonzert von W.A. Mozart (Jun. 2016)</desc>
-  </programme>
-  <programme start="20260407061400 +0000" stop="20260407062800 +0000" channel="radio-santec.webtv.en">
-    <title lang="en">Liobani: Setting a Course.</title>
-    <desc lang="en">Liobani: Setting a Course. The school for New Jerusalem for another time under the sign of the Christ of God, the love for God and neighbor</desc>
-  </programme>
-  <programme start="20260407063100 +0000" stop="20260407065300 +0000" channel="radio-santec.webtv.en">
-    <title lang="en">The Youth and the Prophet. Part 2</title>
-    <desc lang="en">The Youth and the Prophet. Part 2</desc>
-  </programme>
-  <programme start="20260407065900 +0000" stop="20260407074900 +0000" channel="radio-santec.webtv.en">
-    <title lang="en">The All-Encompassing Cosmic Library. The All-Ocean of God. part 1</title>
-    <desc lang="en">The All-Encompassing Cosmic Library. The All-Ocean of God. part 1</desc>
-  </programme>
-  <programme start="20260407075700 +0000" stop="20260407082900 +0000" channel="radio-santec.webtv.en">
-    <title lang="en">Meditation Prayer. Just As You Give, So Will It Be Given To You</title>
-    <desc lang="en">Meditation Prayer. Just As You Give, So Will It Be Given To You</desc>
-  </programme>
-  <programme start="20260407083600 +0000" stop="20260407093930 +0000" channel="radio-santec.webtv.en">
-    <title lang="en">Celebration of the Family of God on Earth</title>
-    <desc lang="en">Christ, the Risen One, Came Out of Love for All Creation</desc>
-  </programme>
-  <programme start="20260407094200 +0000" stop="20260407100500 +0000" channel="radio-santec.webtv.en">
-    <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
-    <desc lang="en">Classics for the Soul - Allegro and Adagio from the Sinfonia Concertante for flute, clarinet, horn, bassoon and orchestra in ES major KV 297b by Wolfgang Amadeus Mozart (Sept.2014)</desc>
-  </programme>
   <programme start="20260407100530 +0000" stop="20260407104330 +0000" channel="radio-santec.webtv.en">
     <title lang="en">Meditation Prayer. Christ, the Light of Resurrection, Is Shining in Our Souls.</title>
     <desc lang="en">Meditation Prayer. Christ, the Light of Resurrection, Is Shining in Our Souls.</desc>
@@ -4390,7 +4358,27 @@
     <title lang="en">Sophia TV</title>
     <desc lang="en">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
   </programme>
-  <programme start="20260512050000 +0000" stop="20260512053335 +0000" channel="radio-santec.webtv.en">
+  <programme start="20260512050000 +0000" stop="20260512060000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Sophia TV</title>
+    <desc lang="en">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
+  </programme>
+  <programme start="20260512060000 +0000" stop="20260512070000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Sophia TV</title>
+    <desc lang="en">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
+  </programme>
+  <programme start="20260512070000 +0000" stop="20260512080000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Sophia TV</title>
+    <desc lang="en">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
+  </programme>
+  <programme start="20260512080000 +0000" stop="20260512090000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Sophia TV</title>
+    <desc lang="en">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
+  </programme>
+  <programme start="20260512090000 +0000" stop="20260512100000 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Sophia TV</title>
+    <desc lang="en">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
+  </programme>
+  <programme start="20260512100000 +0000" stop="20260512101035 +0000" channel="radio-santec.webtv.en">
     <title lang="en">Sophia TV</title>
     <desc lang="en">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
   </programme>

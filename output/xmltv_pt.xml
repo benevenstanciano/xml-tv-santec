@@ -3,42 +3,6 @@
   <channel id="radio-santec.webtv.pt">
     <display-name>Radio Santec WebTV PT</display-name>
   </channel>
-  <programme start="20260407052630 +0000" stop="20260407055230 +0000" channel="radio-santec.webtv.pt">
-    <title lang="pt">As Comunidades Livres Sob o Signo do Lírio. Tema: Quem é vocè? Sim, Quem somos nós?</title>
-    <desc lang="pt">As Comunidades Livres Sob o Signo do Lírio. Tema: Quem é vocè? Sim, Quem somos nós?</desc>
-  </programme>
-  <programme start="20260407055830 +0000" stop="20260407062400 +0000" channel="radio-santec.webtv.pt">
-    <title lang="pt">O Cristo de Deus deu uma revelação na Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus na Páscoa de 2025, o 2. ano da Era Messiânica e Sofiânica</title>
-    <desc lang="pt">O Cristo de Deus deu uma revelação na Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus na Páscoa de 2025, o 2. ano da Era Messiânica e Sofiânica</desc>
-  </programme>
-  <programme start="20260407063000 +0000" stop="20260407073430 +0000" channel="radio-santec.webtv.pt">
-    <title lang="pt">O Reino Eterno. O Profundo Significado do Sacrifício no Calvário</title>
-    <desc lang="pt">O Reino Eterno. O Profundo Significado do Sacrifício no Calvário</desc>
-  </programme>
-  <programme start="20260407074000 +0000" stop="20260407074630 +0000" channel="radio-santec.webtv.pt">
-    <title lang="pt">Nós somos as Comunidades Livres - Una e seja (15)</title>
-    <desc lang="pt">Pérolas da vida para você</desc>
-  </programme>
-  <programme start="20260407074630 +0000" stop="20260407075300 +0000" channel="radio-santec.webtv.pt">
-    <title lang="pt">Nós somos as Comunidades Livres - Una e seja (17)</title>
-    <desc lang="pt">Liobani</desc>
-  </programme>
-  <programme start="20260407075630 +0000" stop="20260407080300 +0000" channel="radio-santec.webtv.pt">
-    <title lang="pt">Nós somos as Comunidades Livres - Una e seja (19)</title>
-    <desc lang="pt">A Verdadeira Escola é a Vida</desc>
-  </programme>
-  <programme start="20260407080430 +0000" stop="20260407082400 +0000" channel="radio-santec.webtv.pt">
-    <title lang="pt">A Verdadeira Escola é a Vida. Horas de Ensino a partir da sabedoria Divina: &quot;Reencarnação e Renascimento no Espírito&quot;</title>
-    <desc lang="pt">A Verdadeira Escola é a Vida. Horas de Ensino a partir da sabedoria Divina: &quot;Reencarnação e Renascimento no Espírito&quot;</desc>
-  </programme>
-  <programme start="20260407083100 +0000" stop="20260407085800 +0000" channel="radio-santec.webtv.pt">
-    <title lang="pt">O Cristianismo Original em todo o mundo. Comunidades Livres Internacionais sob o Signo do Lírio. O Ensinamento dos Cristãos Originais na Idade Messiânica Sofiânica - Deus em nós e nós em Deus (2)</title>
-    <desc lang="pt">O Cristianismo Original em todo o mundo. Comunidades Livres Internacionais sob o Signo do Lírio. O Ensinamento dos Cristãos Originais na Idade Messiânica Sofiânica - Deus em nós e nós em Deus (2)</desc>
-  </programme>
-  <programme start="20260407090200 +0000" stop="20260407100200 +0000" channel="radio-santec.webtv.pt">
-    <title lang="pt">Devocional Interior, 14ª Parte</title>
-    <desc lang="pt">Façamos com que cada palavra desperte para a vida em nós</desc>
-  </programme>
   <programme start="20260407100600 +0000" stop="20260407103300 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">Deus-Pai deu uma revelação na Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus na Páscoa de 2025, o 2. ano da Era Messiânica e Sofiânica</title>
     <desc lang="pt">Deus-Pai deu uma revelação na Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus na Páscoa de 2025, o 2. ano da Era Messiânica e Sofiânica</desc>
@@ -4159,7 +4123,27 @@
     <title lang="pt">Sophia TV</title>
     <desc lang="pt">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
   </programme>
-  <programme start="20260512050000 +0000" stop="20260512053335 +0000" channel="radio-santec.webtv.pt">
+  <programme start="20260512050000 +0000" stop="20260512060000 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
+  </programme>
+  <programme start="20260512060000 +0000" stop="20260512070000 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
+  </programme>
+  <programme start="20260512070000 +0000" stop="20260512080000 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
+  </programme>
+  <programme start="20260512080000 +0000" stop="20260512090000 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
+  </programme>
+  <programme start="20260512090000 +0000" stop="20260512100000 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
+  </programme>
+  <programme start="20260512100000 +0000" stop="20260512101035 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">Sophia TV</title>
     <desc lang="pt">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
   </programme>
