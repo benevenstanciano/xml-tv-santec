@@ -28,8 +28,6 @@ def main() -> None:
     ensure_dir(cfg.paths.csv_dir)
     ensure_dir(cfg.paths.output_dir)
 
-    lang_codes = [l.code for l in cfg.languages]
-
     if not args.no_fetch:
         fr = fetch_weekly_csvs(
             base_url=cfg.base_url,
@@ -37,7 +35,7 @@ def main() -> None:
             state_file=cfg.paths.state_file,
             timeout_seconds=cfg.fetch.timeout_seconds,
             user_agent=cfg.fetch.user_agent,
-            languages=lang_codes,
+            languages=cfg.languages,
             kw_min=cfg.fetch.kw_min,
             kw_max=cfg.fetch.kw_max,
         )
