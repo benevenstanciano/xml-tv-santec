@@ -48,8 +48,6 @@ def fetch_weekly_csvs(
     skipped_existing: list[Path] = []
     not_found: list[str] = []
 
-    prefix_map = config.get("prefix_by_lang", {})
-    
     for lang_cfg in languages:
         lang = lang_cfg.code
         lang_upper = lang.upper()
@@ -86,4 +84,8 @@ def fetch_weekly_csvs(
 
     state["seen"] = seen
     _save_state(state_file, state)
-    return FetchResult(downloaded=downloaded, skipped_existing=skipped_existing, not_found=not_found)
+    return FetchResult(
+        downloaded=downloaded,
+        skipped_existing=skipped_existing,
+        not_found=not_found,
+    )
