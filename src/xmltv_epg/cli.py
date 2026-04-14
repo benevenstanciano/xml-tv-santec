@@ -80,11 +80,13 @@ def main() -> None:
         ]
         # Add placeholder programmes if the real schedule does not yet
         # extend to the end of the future retention window
-        placeholder_title = "Sophia TV"
+        placeholder_title = (
+            lang.placeholder_title
+            or "Sophia TV"
+        )
         placeholder_desc = (
-            "Sophia TV is an independent Christian television station. "
-            "Programs include meditations, spiritual teachings, as well as "
-            "children's programs and classical music."
+            lang.placeholder_desc
+            or "Sophia TV – radio-santec.com"
         )
 
         future_limit = now + timedelta(days=cfg.retention.keep_future_days)
