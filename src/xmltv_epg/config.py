@@ -43,7 +43,8 @@ class LanguageConfig:
     display_name: str
     icon: str | None = None
     url_template: str | None = None
-
+    placeholder_title: str | None = None
+    placeholder_desc: str | None = None
 
 @dataclass(frozen=True)
 class AppConfig:
