@@ -42,6 +42,7 @@ class LanguageConfig:
     channel_id: str
     display_name: str
     icon: str | None = None
+    url_template: str | None = None
 
 
 @dataclass(frozen=True)
