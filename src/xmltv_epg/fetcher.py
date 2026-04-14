@@ -48,10 +48,12 @@ def fetch_weekly_csvs(
     skipped_existing: list[Path] = []
     not_found: list[str] = []
 
+    prefix_map = config.get("prefix_by_lang", {})
+    
     for lang in languages:
-        lang_upper = lang.upper()
+        prefix = prefix_map.get(lang, lang.upper())
         for kw in range(kw_min, kw_max + 1):
-            url = base_url.format(lang=lang, lang_upper=lang_upper, kw=kw)
+            url = base_url.format(lang=lang, prefix=prefix, kw=kw)
             key = f"{lang}:KW{kw:02d}"
             out = csv_dir / f"{lang}_KW{kw:02d}.csv"
 
