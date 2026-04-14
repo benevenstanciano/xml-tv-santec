@@ -1,4 +1,9 @@
-base_url: "https://radio-santec.com/wp-content/sendeplan/{lang}/WEBTV-{lang_upper}_KW{kw:02d}.csv"
+base_url: "https://radio-santec.com/wp-content/sendeplan/{lang}/WEBTV/{prefix}_KW{kw:02d}.csv"
+
+prefix_by_lang:
+  en: "EN"
+  pt: "PT"
+  es: "WEBTV-ES"
 
 timezone: "UTC"
 
@@ -10,7 +15,7 @@ paths:
 
 fetch:
   timeout_seconds: 30
-  user_agent: "xmltv-epg-generator/0.3 (+https://github.com/yourname/yourrepo)"
+  user_agent: "xmltv-epg-generator/0.3 (+https://github.com/benevenstanciano/xml-tv-santec)"
   kw_min: 1
   kw_max: 52
 
@@ -31,7 +36,12 @@ languages:
     channel_id: "radio-santec.webtv.pt"
     display_name: "Radio Santec WebTV PT"
     icon: null
-    
+
+  - code: "es"
+    channel_id: "radio-santec.webtv.es"
+    display_name: "Radio Santec WebTV ES"
+    icon: null
+
 retention:
   keep_past_days: 7
   keep_future_days: 28
