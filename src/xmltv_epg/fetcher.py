@@ -33,7 +33,7 @@ def fetch_weekly_csvs(
     state_file: Path,
     timeout_seconds: int,
     user_agent: str,
-    languages: list[str],
+    languages: list,
     kw_min: int = 1,
     kw_max: int = 52,
 ) -> FetchResult:
@@ -50,10 +50,13 @@ def fetch_weekly_csvs(
 
     prefix_map = config.get("prefix_by_lang", {})
     
-    for lang in languages:
-        prefix = prefix_map.get(lang, lang.upper())
+    for lang_cfg in languages:
+        lang = lang_cfg.code
+        lang_upper = lang.upper()
+        url_template = lang_cfg.url_template or base_url
+
         for kw in range(kw_min, kw_max + 1):
-            url = base_url.format(lang=lang, prefix=prefix, kw=kw)
+            url = url_template.format(lang=lang, lang_upper=lang_upper, kw=kw)
             key = f"{lang}:KW{kw:02d}"
             out = csv_dir / f"{lang}_KW{kw:02d}.csv"
 
