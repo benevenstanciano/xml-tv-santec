@@ -33,15 +33,18 @@ languages:
   - code: "en"
     channel_id: "radio-santec.webtv.en"
     display_name: "Radio Santec WebTV EN"
-    icon: null
+    placeholder_title: "Sophia TV"
+    placeholder_desc: "Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music."
 
   - code: "pt"
     channel_id: "radio-santec.webtv.pt"
     display_name: "Radio Santec WebTV PT"
-    icon: null
+    placeholder_title: "Sophia TV"
+    placeholder_desc: "Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica."
 
   - code: "es"
     channel_id: "radio-santec.webtv.es"
     display_name: "Radio Santec WebTV ES"
-    icon: null
     url_template: "https://radio-santec.com/wp-content/sendeplan/es/WEBTV/WEBTV-ES_KW{kw:02d}.csv"
+    placeholder_title: "Sophia TV"
+    placeholder_desc: "Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica."
