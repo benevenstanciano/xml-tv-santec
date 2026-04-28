@@ -3,182 +3,6 @@
   <channel id="radio-santec.webtv.es">
     <display-name>Radio Santec WebTV ES</display-name>
   </channel>
-  <programme start="20260420060930 +0000" stop="20260420062700 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Liobaní: Comprensión, benevolencia y tolerancia.</title>
-    <desc lang="es">La escuela para la Nueva Jerusalén, para otra época – bajo el signo del Cristo de Dios, del amor a Dios y al prójimo.</desc>
-  </programme>
-  <programme start="20260420062900 +0000" stop="20260420064100 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">LIOBANÍ: La ayuda del ángel protector desde que nace un niño</title>
-    <desc lang="es">La Escuela-LIOBANÍ para jóvenes y adultos: Yo cuento. Y tú, ¿me escuchas? 3</desc>
-  </programme>
-  <programme start="20260420064730 +0000" stop="20260420065930 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Música clásica para el alma. Los conciertos de la Santec Music Orchestra</title>
-    <desc lang="es">Música clásica para el alma: Nocturno de &quot;Sueño de una noche de verano&quot;&quot; de F. Mendelssohn, Scherzo de la Sinfonía N° 1 de&quot;</desc>
-  </programme>
-  <programme start="20260420065930 +0000" stop="20260420080300 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">La Fiesta de la Familia de Dios en la Tierra</title>
-    <desc lang="es">Cristo, el Resucitado, vino por amor a toda la Creación.</desc>
-  </programme>
-  <programme start="20260420080800 +0000" stop="20260420090130 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Descubrir el bosque &quot;Sinfonía de la naturaleza&quot;. Un paseo por el bosque con Bernd Raab</title>
-    <desc lang="es">Descubrir el bosque &quot;Sinfonía de la naturaleza&quot;. Un paseo por el bosque con Bernd Raab</desc>
-  </programme>
-  <programme start="20260420090500 +0000" stop="20260420092200 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Una nueva agricultura para el nuevo tiempo: Campos floridos - ¡llenos de vida!</title>
-    <desc lang="es">Un documental sobre una nueva agricultura en harmonía con la Naturaleza: Campos floridos - ¡llenos de vida!</desc>
-  </programme>
-  <programme start="20260420092630 +0000" stop="20260420094430 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Oración meditativa: Sentid dentro de la vida</title>
-    <desc lang="es">Oración meditativa de Gabriele: Sentid dentro de la vida</desc>
-  </programme>
-  <programme start="20260420094700 +0000" stop="20260420101900 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Una manifestación del Cristo de Dios durante la reunión de la Comunidad base del Señor para la construcción del Reino de Paz del Cristo de Dios.</title>
-    <desc lang="es">El 3 de octubre de 2025, el año 2 de la Era mesiánica, sofiánica</desc>
-  </programme>
-  <programme start="20260420102230 +0000" stop="20260420105300 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Un programa atemporal sobre la llegada de la Palabra eterna en nuestro tiempo</title>
-    <desc lang="es">No existe la muerte - el serafín de la Sabiduría divina</desc>
-  </programme>
-  <programme start="20260420105500 +0000" stop="20260420112600 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Construye un puente hacia Cristo</title>
-    <desc lang="es">Meditación para interiorizarse y lograr una vida consciente dada el 03.07.2013 por Gabriele, la profeta y enviada del Reino eterno</desc>
-  </programme>
-  <programme start="20260420112800 +0000" stop="20260420114630 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Nosotros leemos, y tú, ¿nos escuchas? Sentir, vivir lo que otros dicen. Jóvenes en el camino hacia Cristo (04)</title>
-    <desc lang="es">Nosotros leemos, y tú, ¿nos escuchas? Sentir, vivir lo que otros dicen. Jóvenes en el camino hacia Cristo (04)</desc>
-  </programme>
-  <programme start="20260420115200 +0000" stop="20260420122330 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">El Médico y Sanador interno. Sanar en cuerpo y alma por la fuerza del Cristo de Dios. (2)</title>
-    <desc lang="es">El Médico y Sanador interno. Sanar en cuerpo y alma por la fuerza del Cristo de Dios. (2)</desc>
-  </programme>
-  <programme start="20260420122830 +0000" stop="20260420125100 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">El serafín de la Sabiduría divina se manifestó en la Comunidad base del Señor para la construcción del Reino de Paz del Cristo de Dios en marzo de 2026, el año 3 de la Era mesiánica, sofiánica</title>
-    <desc lang="es">El serafín de la Sabiduría divina se manifestó en la Comunidad base del Señor para la construcción del Reino de Paz del Cristo de Dios en marzo de 2026, el año 3 de la Era mesiánica, sofiánica</desc>
-  </programme>
-  <programme start="20260420125930 +0000" stop="20260420132800 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Libertad, unidad y el amor a Dios</title>
-    <desc lang="es">La verdadera escuela es la vida. Horas de enseñanza dadas desde la Sabiduría divina.</desc>
-  </programme>
-  <programme start="20260420133030 +0000" stop="20260420134430 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Meditación: Encuentre a su amigo interno. Citas del libro «La Pescadora de perlas»</title>
-    <desc lang="es">Meditación: Encuentre a su amigo interno. Citas del libro «La Pescadora de perlas»</desc>
-  </programme>
-  <programme start="20260420135100 +0000" stop="20260420135700 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Somos las colectividades libres - Une y sé (12)</title>
-    <desc lang="es">Usted no está solo</desc>
-  </programme>
-  <programme start="20260420135930 +0000" stop="20260420140630 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Somos las colectividades libres - Une y sé (13)</title>
-    <desc lang="es">Vive el instante -y te verás y te reconocerás a ti mismo</desc>
-  </programme>
-  <programme start="20260420141100 +0000" stop="20260420143200 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Meditaciones cristiano-originarias. (Curso 1º, med. 7)</title>
-    <desc lang="es">Meditaciones cristiano-originarias. (Curso 1º, med. 7): «La luz de Dios me traspasa»</desc>
-  </programme>
-  <programme start="20260420144100 +0000" stop="20260420145430 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Liobaní: El sabelotodo.</title>
-    <desc lang="es">La escuela para la Nueva Jerusalén, para otra época – bajo el signo del Cristo de Dios, del amor a Dios y al prójimo.</desc>
-  </programme>
-  <programme start="20260420145500 +0000" stop="20260420151800 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Escuela Liobaní: Hoy aprendemos a escribir a mano. Hoy: El cordero ama la hierba</title>
-    <desc lang="es">Escuela Liobaní: Hoy aprendemos a escribir a mano. Hoy: El cordero ama la hierba</desc>
-  </programme>
-  <programme start="20260420151830 +0000" stop="20260420154030 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">El joven y el profeta. 3ª parte</title>
-    <desc lang="es">El joven y el profeta. 3ª parte</desc>
-  </programme>
-  <programme start="20260420154300 +0000" stop="20260420155930 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Música clásica para el alma. Konzert für Fagott und Orchester in d-moll BWV 1056 von J.S. Bach, Romanze aus Sinfonia Concertante in D-Dur für Violine, Viola und Orchester von C. Stamitz</title>
-    <desc lang="es">Música clásica para el alma. Konzert für Fagott und Orchester in d-moll BWV 1056 von J.S. Bach, Romanze aus Sinfonia Concertante in D-Dur für Violine, Viola und Orchester von C. Stamitz</desc>
-  </programme>
-  <programme start="20260420155930 +0000" stop="20260420162800 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Esta es Mi Palabra, Alfa y Omega. Capítulo 21: Jesús reprende la crueldad para con un caballo</title>
-    <desc lang="es">Esta es Mi Palabra, Alfa y Omega. Capítulo 21: Jesús reprende la crueldad para con un caballo</desc>
-  </programme>
-  <programme start="20260420163400 +0000" stop="20260420164000 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Somos las colectividades libres - Une y sé (3)</title>
-    <desc lang="es">El cristianismo originario en todo el mundo. Las colectividades libres bajo el signo del Lirio</desc>
-  </programme>
-  <programme start="20260420164330 +0000" stop="20260420174700 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">La Fiesta de la Familia de Dios en la Tierra</title>
-    <desc lang="es">Cristo, el Resucitado, vino por amor a toda la Creación.</desc>
-  </programme>
-  <programme start="20260420175030 +0000" stop="20260420181100 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">El Sermón de la Montaña de Jesús de Nazaret. Parte 10</title>
-    <desc lang="es">El Sermón de la Montaña de Jesús de Nazaret. Parte 10</desc>
-  </programme>
-  <programme start="20260420181530 +0000" stop="20260420190030 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Oración meditativa. Rezar significa sentir compasión y llevar responsabilidad</title>
-    <desc lang="es">Oración meditativa. Rezar significa sentir compasión y llevar responsabilidad</desc>
-  </programme>
-  <programme start="20260420190630 +0000" stop="20260420194230 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Una manifestación de Dios Padre durante la reunión de la Comunidad base del Señor para la construcción del Reino de Paz del Cristo de Dios, en febrero de 2026, del año 3 de la Era mesiánica, sofiánica</title>
-    <desc lang="es">Una manifestación de Dios Padre durante la reunión de la Comunidad base del Señor para la construcción del Reino de Paz del Cristo de Dios, en febrero de 2026, del año 3 de la Era mesiánica, sofiánica</desc>
-  </programme>
-  <programme start="20260420194600 +0000" stop="20260420195600 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Su Palabra - Presencia eterna</title>
-    <desc lang="es">Su Palabra - Presencia eterna</desc>
-  </programme>
-  <programme start="20260420195630 +0000" stop="20260420205400 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Conversando con... Peter Berthold, Catedrático en ornitología, sobre el tema: &quot;Salvar la biodiversidad. ¿Cómo?&quot;</title>
-    <desc lang="es">Conversando con... Peter Berthold, Catedrático en ornitología, sobre el tema: &quot;Salvar la biodiversidad. ¿Cómo?&quot;</desc>
-  </programme>
-  <programme start="20260420205730 +0000" stop="20260420212430 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Dios Padre se manifestó en la Comunidad base del Señor para la construcción del Reino de Paz del Cristo de Dios en Semana Santa de 2025, el año 2 de la Era mesiánica, sofiánica</title>
-    <desc lang="es">Dios Padre se manifestó en la Comunidad base del Señor para la construcción del Reino de Paz del Cristo de Dios en Semana Santa de 2025, el año 2 de la Era mesiánica, sofiánica</desc>
-  </programme>
-  <programme start="20260420213100 +0000" stop="20260420215500 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Meditación: Florece</title>
-    <desc lang="es">Meditación: Florece</desc>
-  </programme>
-  <programme start="20260420215930 +0000" stop="20260420222630 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Esta es Mi Palabra, Alfa y Omega. Capítulos 82 y 84 &quot;La crucifixión de Jesús&quot; y &quot;La resurrección de Jesús&quot;</title>
-    <desc lang="es">Esta es Mi Palabra, Alfa y Omega. Capítulos 82 y 84 &quot;La crucifixión de Jesús&quot; y &quot;La resurrección de Jesús&quot;</desc>
-  </programme>
-  <programme start="20260420223200 +0000" stop="20260420225900 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Esta es Mi Palabra, Alfa y Omega. Capítulo 76 - parte 1 &quot;El lavatorio de los pies&quot; y &quot;La última cena&quot;</title>
-    <desc lang="es">Esta es Mi Palabra, Alfa y Omega. Capítulo 76 - parte 1 &quot;El lavatorio de los pies&quot; y &quot;La última cena&quot;</desc>
-  </programme>
-  <programme start="20260420230200 +0000" stop="20260421000530 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">La Fiesta de la Familia de Dios en la Tierra</title>
-    <desc lang="es">Cristo, el Resucitado, vino por amor a toda la Creación.</desc>
-  </programme>
-  <programme start="20260421000730 +0000" stop="20260421003400 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Encuentra y afirma lo positivo en tu prójimo. Por Gabriele.</title>
-    <desc lang="es">Un ejercicio para ampliar la consciencia para despertar la vida interna</desc>
-  </programme>
-  <programme start="20260421004100 +0000" stop="20260421011830 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Meditación de sanación: La fe activa</title>
-    <desc lang="es">Meditación de sanación: La fe activa</desc>
-  </programme>
-  <programme start="20260421012200 +0000" stop="20260421015030 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Poner los planes en la voluntad de Dios.</title>
-    <desc lang="es">El Camino interno hacia la Consciencia cósmica. Peldaño del Orden. Programa 15</desc>
-  </programme>
-  <programme start="20260421015830 +0000" stop="20260421022100 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">El Sermón de la Montaña de Jesús de Nazaret. Parte 1</title>
-    <desc lang="es">El Sermón de la Montaña de Jesús de Nazaret. Parte 1</desc>
-  </programme>
-  <programme start="20260421022700 +0000" stop="20260421025000 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">El Sermón de la Montaña de Jesús de Nazaret. Parte 2</title>
-    <desc lang="es">El Sermón de la Montaña de Jesús de Nazaret. Parte 2</desc>
-  </programme>
-  <programme start="20260421025430 +0000" stop="20260421035800 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">La Fiesta de la Familia de Dios en la Tierra</title>
-    <desc lang="es">Cristo, el Resucitado, vino por amor a toda la Creación.</desc>
-  </programme>
-  <programme start="20260421040700 +0000" stop="20260421043630 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Salud y felicidad están en tus manos</title>
-    <desc lang="es">La verdadera escuela es la vida. Horas de enseñanza dadas desde la Sabiduría divina.</desc>
-  </programme>
-  <programme start="20260421043900 +0000" stop="20260421050300 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Meditación: Florece</title>
-    <desc lang="es">Meditación: Florece</desc>
-  </programme>
-  <programme start="20260421051200 +0000" stop="20260421053300 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Meditaciones cristiano-originarias. (Curso 1º, med. 7)</title>
-    <desc lang="es">Meditaciones cristiano-originarias. (Curso 1º, med. 7): «La luz de Dios me traspasa»</desc>
-  </programme>
   <programme start="20260421054200 +0000" stop="20260421062100 +0000" channel="radio-santec.webtv.es">
     <title lang="es">Dios-Padre se manifestó durante la reunión de la Comunidad cristiano-originaria en Pentecostés, el 7 de junio de 2025, en la Comunidad del Señor para la construcción del Reino de Paz del Cristo de Dios</title>
     <desc lang="es">Dios-Padre se manifestó durante la reunión de la Comunidad cristiano-originaria en Pentecostés, el 7 de junio de 2025, en la Comunidad del Señor para la construcción del Reino de Paz del Cristo de Dios</desc>
@@ -4511,7 +4335,103 @@
     <title lang="es">Sophia TV</title>
     <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
   </programme>
-  <programme start="20260525055530 +0000" stop="20260525061128 +0000" channel="radio-santec.webtv.es">
+  <programme start="20260525055530 +0000" stop="20260525065530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525065530 +0000" stop="20260525075530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525075530 +0000" stop="20260525085530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525085530 +0000" stop="20260525095530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525095530 +0000" stop="20260525105530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525105530 +0000" stop="20260525115530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525115530 +0000" stop="20260525125530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525125530 +0000" stop="20260525135530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525135530 +0000" stop="20260525145530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525145530 +0000" stop="20260525155530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525155530 +0000" stop="20260525165530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525165530 +0000" stop="20260525175530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525175530 +0000" stop="20260525185530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525185530 +0000" stop="20260525195530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525195530 +0000" stop="20260525205530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525205530 +0000" stop="20260525215530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525215530 +0000" stop="20260525225530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525225530 +0000" stop="20260525235530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260525235530 +0000" stop="20260526005530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260526005530 +0000" stop="20260526015530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260526015530 +0000" stop="20260526025530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260526025530 +0000" stop="20260526035530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260526035530 +0000" stop="20260526045530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260526045530 +0000" stop="20260526055530 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260526055530 +0000" stop="20260526061514 +0000" channel="radio-santec.webtv.es">
     <title lang="es">Sophia TV</title>
     <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
   </programme>
