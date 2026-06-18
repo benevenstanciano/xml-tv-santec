@@ -42,9 +42,28 @@ languages:
     placeholder_title: "Sophia TV"
     placeholder_desc: "Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica."
 
+  - code: "fr"
+    channel_id: "radio-santec.webtv.fr"
+    display_name: "Radio Santec WebTV FR"
+    placeholder_title: "Sophia TV"
+    placeholder_desc: "Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique."
+
+  - code: "it"
+    channel_id: "radio-santec.webtv.it"
+    display_name: "Radio Santec WebTV IT"
+    placeholder_title: "Sophia TV"
+    placeholder_desc: "Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica."
+
   - code: "es"
     channel_id: "radio-santec.webtv.es"
     display_name: "Radio Santec WebTV ES"
     url_template: "https://radio-santec.com/wp-content/sendeplan/es/WEBTV/WEBTV-ES_KW{kw:02d}.csv"
     placeholder_title: "Sophia TV"
     placeholder_desc: "Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica."
+
+  - code: "de"
+    channel_id: "radio-santec.webtv.de"
+    display_name: "Radio Santec WebTV de"
+    url_template: "https://gabriele.tv/wp-content/sendeplan/snj/SNJ_Sendeplan_KW{kw:02d}.csv"
+    placeholder_title: "Sender Neu Jerusalem"
+    placeholder_desc: "Sender Neu Jerusalem ist ein unabhängiger christlicher Fernsehsender. Das Programm umfasst Meditationen, spirituelle Lehren sowie Kinderprogramme und klassische Musik."
