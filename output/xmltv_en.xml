@@ -3,18 +3,6 @@
   <channel id="radio-santec.webtv.en">
     <display-name>Radio Santec WebTV EN</display-name>
   </channel>
-  <programme start="20260611082500 +0000" stop="20260611095500 +0000" channel="radio-santec.webtv.en">
-    <title lang="en">Pentecost, the Speaking God - for the Life in All Being.</title>
-    <desc lang="en">The Core Community of the Lord for the Building of the Kingdom of Peace of the Christ of God welcomes you to an Original Christian Community Meeting</desc>
-  </programme>
-  <programme start="20260611100800 +0000" stop="20260611103530 +0000" channel="radio-santec.webtv.en">
-    <title lang="en">The Love for God and Neighbor Heals</title>
-    <desc lang="en">Meditation - The Love for God and Neighbor Heals</desc>
-  </programme>
-  <programme start="20260611104530 +0000" stop="20260611110600 +0000" channel="radio-santec.webtv.en">
-    <title lang="en">The Ten Commandments of God - Interpreted with words of the present time. Part 2</title>
-    <desc lang="en">The Ten Commandments of God - Interpreted with words of the present time. Part 2</desc>
-  </programme>
   <programme start="20260611111330 +0000" stop="20260611112730 +0000" channel="radio-santec.webtv.en">
     <title lang="en">Classics for the Soul. Santec Music Orchestra</title>
     <desc lang="en">Classics for the Soul - G.F. Händel, from the Water Music Suites 1-3 (Apr. 2015)</desc>
@@ -4143,7 +4131,19 @@
     <title lang="en">Sophia TV</title>
     <desc lang="en">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
   </programme>
-  <programme start="20260716075400 +0000" stop="20260716082023 +0000" channel="radio-santec.webtv.en">
+  <programme start="20260716075400 +0000" stop="20260716085400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Sophia TV</title>
+    <desc lang="en">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
+  </programme>
+  <programme start="20260716085400 +0000" stop="20260716095400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Sophia TV</title>
+    <desc lang="en">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
+  </programme>
+  <programme start="20260716095400 +0000" stop="20260716105400 +0000" channel="radio-santec.webtv.en">
+    <title lang="en">Sophia TV</title>
+    <desc lang="en">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
+  </programme>
+  <programme start="20260716105400 +0000" stop="20260716112004 +0000" channel="radio-santec.webtv.en">
     <title lang="en">Sophia TV</title>
     <desc lang="en">Sophia TV is an independent Christian television station. Programs include meditations, spiritual teachings, as well as children's programs and classical music.</desc>
   </programme>

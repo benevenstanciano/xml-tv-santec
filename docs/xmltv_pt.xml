@@ -3,26 +3,6 @@
   <channel id="radio-santec.webtv.pt">
     <display-name>Radio Santec WebTV PT</display-name>
   </channel>
-  <programme start="20260611081830 +0000" stop="20260611084230 +0000" channel="radio-santec.webtv.pt">
-    <title lang="pt">Cristo deseja ressuscitar em cada um de nós</title>
-    <desc lang="pt">Meditação dada por Gabriele, a profetisa e emissária do Reino Eterno em 25 de março 2005</desc>
-  </programme>
-  <programme start="20260611084730 +0000" stop="20260611090600 +0000" channel="radio-santec.webtv.pt">
-    <title lang="pt">A Verdadeira Escola é a Vida. Horas de Ensino a partir da sabedoria Divina: &quot;O Deus que fala&quot;</title>
-    <desc lang="pt">A Verdadeira Escola é a Vida. Horas de Ensino a partir da sabedoria Divina: &quot;O Deus que fala&quot;</desc>
-  </programme>
-  <programme start="20260611090930 +0000" stop="20260611093630 +0000" channel="radio-santec.webtv.pt">
-    <title lang="pt">Deus-Pai deu uma revelação na Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus na Páscoa de 2025, o 2. ano da Era Messiânica e Sofiânica</title>
-    <desc lang="pt">Deus-Pai deu uma revelação na Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus na Páscoa de 2025, o 2. ano da Era Messiânica e Sofiânica</desc>
-  </programme>
-  <programme start="20260611094030 +0000" stop="20260611104030 +0000" channel="radio-santec.webtv.pt">
-    <title lang="pt">Meditacão: Não Sollte</title>
-    <desc lang="pt">Meditacão: Não Sollte</desc>
-  </programme>
-  <programme start="20260611104400 +0000" stop="20260611105430 +0000" channel="radio-santec.webtv.pt">
-    <title lang="pt">Classics for the Soul. Santec Music Orchestra</title>
-    <desc lang="pt">Classics for the Soul -  Isaac Albéniz, Suite Espagnole op.47 I.Granada</desc>
-  </programme>
   <programme start="20260611105430 +0000" stop="20260611114730 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">A palavra profética na corrente Cristã Original - hoje e em todos os tempos - e a tentativa de erradicar as Comunidades Originais, os seguidores de Jesus de Nazaré. Parte 1</title>
     <desc lang="pt">A palavra profética na corrente Cristã Original - hoje e em todos os tempos - e a tentativa de erradicar as Comunidades Originais, os seguidores de Jesus de Nazaré. Parte 1</desc>
@@ -4271,7 +4251,19 @@
     <title lang="pt">Sophia TV</title>
     <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
   </programme>
-  <programme start="20260716075500 +0000" stop="20260716082023 +0000" channel="radio-santec.webtv.pt">
+  <programme start="20260716075500 +0000" stop="20260716085500 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20260716085500 +0000" stop="20260716095500 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20260716095500 +0000" stop="20260716105500 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20260716105500 +0000" stop="20260716112004 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">Sophia TV</title>
     <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
   </programme>
