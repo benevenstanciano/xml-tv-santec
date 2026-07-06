@@ -3,210 +3,6 @@
   <channel id="radio-santec.webtv.fr">
     <display-name>Radio Santec WebTV FR</display-name>
   </channel>
-  <programme start="20260628063800 +0000" stop="20260628070000 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Le  jeune et le prophète (2ème partie)</title>
-    <desc lang="fr">Une conversation vivante entre un jeune et Gabriele qui répond avec spontanéité et profondeur aux questions qui lui sont posées, transmettant de vraies valeurs pour une vie positive et respectueuse de soi-même comme de toute vie.</desc>
-  </programme>
-  <programme start="20260628070000 +0000" stop="20260628083000 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">„La Pentecôte, le Dieu qui parle et qui est pour la Vie en toute existence.”</title>
-    <desc lang="fr">La Commune fondatrice du Seigneur pour l’édification du Royaume de Paix du Christ de Dieu – Mai 2026</desc>
-  </programme>
-  <programme start="20260628083600 +0000" stop="20260628090130 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« Le Sermon sur la Montagne » (1)</title>
-    <desc lang="fr">Le Sermon sur la Montagne de Jésus de Nazareth : Les béatitudes</desc>
-  </programme>
-  <programme start="20260628090630 +0000" stop="20260628092830 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« Ceci est Ma Parole » Chapitre 76b</title>
-    <desc lang="fr">La dernière Cène</desc>
-  </programme>
-  <programme start="20260628094030 +0000" stop="20260628103400 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Le sol sur lequel nous vivons : un cosmos inconnu</title>
-    <desc lang="fr">Documentaire sur le monde vivant souterrain : Sous l’empreinte d'un seul pied, il y a plus d'êtres vivants qu'il n'y a d'êtres humains sur la Terre entière. Sans cette ingénieuse micro-création dans le sol avec ses minuscules êtres vivants, il n'y aurait pas de vie sur Terre.</desc>
-  </programme>
-  <programme start="20260628104400 +0000" stop="20260628110130 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">La véritable école, c'est la vie (28)</title>
-    <desc lang="fr">« Nous vivons dangereusement dans la loi causale, la loi des semailles et des récoltes. » Enseignements donnés par la Sagesse divine.</desc>
-  </programme>
-  <programme start="20260628110700 +0000" stop="20260628111400 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Unis et sois (09)</title>
-    <desc lang="fr">« Nous sommes les Communautés libres - Unis et sois » Thèmes : Le message des Cieux &amp; Jésus et les animaux</desc>
-  </programme>
-  <programme start="20260628111900 +0000" stop="20260628114330 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« Le message des Cieux » (05)</title>
-    <desc lang="fr">« Mettez à profit le temps, il est si précieux ! »</desc>
-  </programme>
-  <programme start="20260628114830 +0000" stop="20260628122730 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« Je suis le Dieu qui parle et J'aime Mes enfants »</title>
-    <desc lang="fr">Révélation de Dieu-Père durant la rencontre de la Commune selon le christianisme des origines, à la Pentecôte, le 7 juin 2025, dans la Commune du Seigneur pour l'édification du Royaume de Paix du Christ de Dieu : « Je suis le Dieu qui parle et J'aime Mes enfants »</desc>
-  </programme>
-  <programme start="20260628123230 +0000" stop="20260628125600 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Les Communautés libres (10)</title>
-    <desc lang="fr">« Les Communautés libres sous le signe du Lys » Thème : L’appel de l’âme qui aspire à devenir libre.</desc>
-  </programme>
-  <programme start="20260628130330 +0000" stop="20260628133030 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« La prière véritable est une force céleste »</title>
-    <desc lang="fr">Méditation « La prière véritable est une force céleste »</desc>
-  </programme>
-  <programme start="20260628133400 +0000" stop="20260628134400 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Pensées pour la journée, semaine 9</title>
-    <desc lang="fr">Semaine 7 : Mercredi. Des aides pour la journée données par Gabriele.</desc>
-  </programme>
-  <programme start="20260628134430 +0000" stop="20260628140300 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">La véritable école, c'est la vie (10)</title>
-    <desc lang="fr">« Dieu parle ! » Enseignements donnés par la Sagesse divine.</desc>
-  </programme>
-  <programme start="20260628140700 +0000" stop="20260628141300 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Unis et sois (12)</title>
-    <desc lang="fr">« Nous sommes les Communautés libres - Unis et sois » Thèmes : Vous n’êtes pas seul &amp; Le message de l’Infini</desc>
-  </programme>
-  <programme start="20260628141400 +0000" stop="20260628142100 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Unis et sois (23)</title>
-    <desc lang="fr">« Nous sommes les Communautés libres - Unis et sois » Thèmes :  Paroles de réconfort &amp; Le message de l’Infini</desc>
-  </programme>
-  <programme start="20260628142400 +0000" stop="20260628145800 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Foi et confiance</title>
-    <desc lang="fr">Réflexion méditative</desc>
-  </programme>
-  <programme start="20260628150200 +0000" stop="20260628151200 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Pensées pour la journée, semaine 9</title>
-    <desc lang="fr">Semaine 7 : Mercredi. Des aides pour la journée données par Gabriele.</desc>
-  </programme>
-  <programme start="20260628151700 +0000" stop="20260628153200 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Série « LIOBANI pour les petits et les grands »</title>
-    <desc lang="fr">« Le plan divin de la création. » L’école pour la Nouvelle Jérusalem, pour une autre époque – sous le signe du Christ de Dieu, de l’amour pour Dieu et pour le prochain.</desc>
-  </programme>
-  <programme start="20260628153330 +0000" stop="20260628154300 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Série « LIOBANI pour les petits et les grands »</title>
-    <desc lang="fr">Récits d'expériences d’Afrique. L’école pour la Nouvelle Jérusalem, pour une autre époque – sous le signe du Christ de Dieu, de l’amour pour Dieu et pour le prochain.</desc>
-  </programme>
-  <programme start="20260628154430 +0000" stop="20260628160000 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Série « Une nouvelle agriculture... »</title>
-    <desc lang="fr">« Une nouvelle agriculture pour la Nouvelle Ère » Documentaire sur le thème : La poudre de roche primaire, une nourriture pour les champs.</desc>
-  </programme>
-  <programme start="20260628160000 +0000" stop="20260628161630 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« Ceci est Ma Parole » Chapitre 57</title>
-    <desc lang="fr">À propos des petits enfants  – Parabole des poissons</desc>
-  </programme>
-  <programme start="20260628162030 +0000" stop="20260628164800 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« L'amour de Dieu et du prochain guérit »</title>
-    <desc lang="fr">Méditation « L'amour de Dieu et du prochain guérit »</desc>
-  </programme>
-  <programme start="20260628165130 +0000" stop="20260628174530 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Intériorisation et enseignement avec Gabriele (16)</title>
-    <desc lang="fr">Le silence est la vie véritable.</desc>
-  </programme>
-  <programme start="20260628175030 +0000" stop="20260628181900 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Le Chemin Intérieur (17)</title>
-    <desc lang="fr">Niveau de l'Ordre : « Éducation du toucher - jours intérieurs et extérieurs » Le Chemin Intérieur menant à la conscience cosmique est un enseignement spirituel progressif et concret pour développer sa conscience. Au plus profond de nous-mêmes, nous sommes des êtres divins en communication avec la Vie, Dieu en nous et dans toute la création ! Comment retrouver cette origine divine, l’amour pour Dieu – Dieu en nous, l’Esprit libre – et pour nos prochains ? Pour cela il nous faut purifier notre âme...</desc>
-  </programme>
-  <programme start="20260628182130 +0000" stop="20260628184430 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« Le Sermon sur la Montagne » (5)</title>
-    <desc lang="fr">Le Sermon sur la Montagne de Jésus de Nazareth : « Ne te lie ni à des personnes ni à des choses » &amp; « Sois parfait comme ton Père qui est dans les Cieux »</desc>
-  </programme>
-  <programme start="20260628184900 +0000" stop="20260628191130 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« Je prends la défense de mes sœurs »</title>
-    <desc lang="fr">Révélation du Séraphin de la Sagesse divine dans la Commune fondatrice du Seigneur pour l'édification du Royaume de Paix du Christ de Dieu qui a eu lieu en mars 2026, l'an 3 de l'Ère messianique et sophianique : « Je prends la défense de mes sœurs »</desc>
-  </programme>
-  <programme start="20260628191400 +0000" stop="20260628193430 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">L’Apparition</title>
-    <desc lang="fr">L’Apparition, dans l’Ère messianique et sophianique, qui amène de nouvelles générations sous le signe du Christ de Dieu</desc>
-  </programme>
-  <programme start="20260628193730 +0000" stop="20260628200000 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">La véritable école, c'est la vie (21)</title>
-    <desc lang="fr">« Dans la Loi de Dieu, nous vivons libres. Se dépêcher ou se laisser du temps pour retrouver l'Éternité ! » Enseignements donnés par la Sagesse divine.</desc>
-  </programme>
-  <programme start="20260628200900 +0000" stop="20260628204030 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">L'Esprit libre. Dieu en nous (3)</title>
-    <desc lang="fr">Suivre soi-même, en toute liberté, le chemin qui nous fait découvrir la présence de Dieu en nous (3ème partie).</desc>
-  </programme>
-  <programme start="20260628204430 +0000" stop="20260628215630 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« Tout est communication. »</title>
-    <desc lang="fr">Enseignements spirituels-divins donnés par Gabriele, la prophétesse et messagère de Dieu, en mars 2019.</desc>
-  </programme>
-  <programme start="20260628220000 +0000" stop="20260628222400 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Méditation « Floraison »</title>
-    <desc lang="fr">Cette méditation de Gabriele est un vrai cadeau qui nous fait ressentir notre vie véritable, divine et nous apprend à ressentir l’unité avec toutes les formes de vie, à communiquer avec la nature…</desc>
-  </programme>
-  <programme start="20260628222800 +0000" stop="20260628225400 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">La société des cellules</title>
-    <desc lang="fr">Réflexion méditative. Notre corps est composé de cellules. Certains parlent, avec éventuellement un peu de dévalorisation, d’un tas de cellules. D’autres nomment les cellules de notre corps la « société des cellules », ce qui est certainement plus juste….</desc>
-  </programme>
-  <programme start="20260628230230 +0000" stop="20260628231230 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« Suppliques muettes »</title>
-    <desc lang="fr">Une lecture de Manfred Kyber</desc>
-  </programme>
-  <programme start="20260628231500 +0000" stop="20260628233030 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Série « Une nouvelle agriculture... »</title>
-    <desc lang="fr">« Une nouvelle agriculture pour la Nouvelle Ère » Documentaire sur le thème : La poudre de roche primaire, une nourriture pour les champs.</desc>
-  </programme>
-  <programme start="20260628233500 +0000" stop="20260629002100 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Les Communautés libres (1)</title>
-    <desc lang="fr">« Les Communautés libres sous le signe du Lys » Le christianisme des origines dans le monde entier (1ère partie). L'enseignement des chrétiens des origines dans l'Ère messianique et sophianique : Dieu en nous et nous en Dieu (1ère partie)</desc>
-  </programme>
-  <programme start="20260629002930 +0000" stop="20260629015130 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« Mes brebis connaissent Ma voix »</title>
-    <desc lang="fr">Rencontre de tous les chercheurs de Dieu dans le Bassin collecteur en Slovénie, relié par la technique à la Commune fondatrice du Seigneur pour l'édification du Royaume de paix de Jésus Christ, en mai 2026, l'an 3 de l'Ère messianique et sophianique.</desc>
-  </programme>
-  <programme start="20260629015500 +0000" stop="20260629021230 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Nous lisons... tu veux écouter ? (5)</title>
-    <desc lang="fr">Ressentir dans ce que les autres disent... Des jeunes sur le chemin qui mène au Christ</desc>
-  </programme>
-  <programme start="20260629021430 +0000" stop="20260629025800 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Sur les traces des Cathares</title>
-    <desc lang="fr">Leur foi et leur vie. Les Cathares, victimes des persécutions de l'Église</desc>
-  </programme>
-  <programme start="20260629025900 +0000" stop="20260629031400 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Musique classique pour l'âme</title>
-    <desc lang="fr">Valse tirée de la Sérénade pour cordes op. 48 de P.I. Tchaïkovski, Après un rêve de G. Fauré, Allegretto tiré du Quintette à vent op. 56/2 de F. Danzi (févr. 2017)</desc>
-  </programme>
-  <programme start="20260629031400 +0000" stop="20260629034400 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« Moments lumineux avec Gabriele » (06)</title>
-    <desc lang="fr">Sois silencieux, Dieu habite en toi. Le renouvellement de la vie qui vient de l'intérieur</desc>
-  </programme>
-  <programme start="20260629034930 +0000" stop="20260629035630 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Unis et sois (23)</title>
-    <desc lang="fr">« Nous sommes les Communautés libres - Unis et sois » Thèmes :  Paroles de réconfort &amp; Le message de l’Infini</desc>
-  </programme>
-  <programme start="20260629040000 +0000" stop="20260629043930 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« Moments lumineux avec Gabriele » (04)</title>
-    <desc lang="fr">Une personne nouvelle dans le courant de l'amour infini</desc>
-  </programme>
-  <programme start="20260629044230 +0000" stop="20260629045330 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Pensées pour la journée, semaine 8</title>
-    <desc lang="fr">Semaine 8 : Lundi. Des aides pour la journée données par Gabriele.</desc>
-  </programme>
-  <programme start="20260629045600 +0000" stop="20260629052800 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Méditation d’éveil de la conscience (4)</title>
-    <desc lang="fr">« La force du Père afflue vers moi à partir du centre de conscience de la patience » Cette méditation fait partie d'un cycle de 12 méditations qui nous permettent d’accompagner toujours plus consciemment le flux des forces spirituelles dans tout le corps. Elles constituent une aide précieuse pour orienter toujours plus ses sensations, pensées et actes sur Dieu.</desc>
-  </programme>
-  <programme start="20260629053330 +0000" stop="20260629054100 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Unis et sois (20)</title>
-    <desc lang="fr">« Nous sommes les Communautés libres - Unis et sois » Thème : Une vie riche jusqu'à un âge avancé</desc>
-  </programme>
-  <programme start="20260629054430 +0000" stop="20260629061000 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« Cheminez vers l'intérieur… »</title>
-    <desc lang="fr">Révélation du Christ de Dieu dans la Commune fondatrice du Seigneur pour l'édification du Royaume de Paix du Christ de Dieu à Pâques 2025, l'an 2 de l'Ère messianique et sophianique : « Cheminez vers l'intérieur. C’est là que Je vous attends, et Je sais comment vous guider »</desc>
-  </programme>
-  <programme start="20260629061400 +0000" stop="20260629062500 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Pensées pour la journée, semaine 8</title>
-    <desc lang="fr">Semaine 8 : Lundi. Des aides pour la journée données par Gabriele.</desc>
-  </programme>
-  <programme start="20260629062600 +0000" stop="20260629063700 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Série « LIOBANI pour les petits et les grands »</title>
-    <desc lang="fr">« Le “Je sais tout mieux que les autres” » L’école pour la Nouvelle Jérusalem, pour une autre époque – sous le signe du Christ de Dieu, de l’amour pour Dieu et pour le prochain.</desc>
-  </programme>
-  <programme start="20260629064200 +0000" stop="20260629065230 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Série « LIOBANI pour les petits et les grands »</title>
-    <desc lang="fr">« Aux parents : Reconnais les capacités de ton enfant. » L’école pour la Nouvelle Jérusalem, pour une autre époque – sous le signe du Christ de Dieu, de l’amour pour Dieu et pour le prochain.</desc>
-  </programme>
-  <programme start="20260629070000 +0000" stop="20260629072630 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">« Trouve et affirme le positif en ton prochain »</title>
-    <desc lang="fr">Méditation « Trouve et affirme le positif en ton prochain » Un exercice pour éveiller la conscience à la Vie intérieure.</desc>
-  </programme>
-  <programme start="20260629073030 +0000" stop="20260629074130 +0000" channel="radio-santec.webtv.fr">
-    <title lang="fr">Méditation sur la confiance (01)</title>
-    <desc lang="fr">« Grâce à la  confiance profonde, notre vie intérieure devient riche. »</desc>
-  </programme>
   <programme start="20260629075000 +0000" stop="20260629082900 +0000" channel="radio-santec.webtv.fr">
     <title lang="fr">Jésus de Nazareth est aussi venu pour les animaux</title>
     <desc lang="fr">Extraits de « Ceci est Ma Parole » sur l’amour de Jésus pour les animaux : « Jésus de Nazareth est aussi venu pour les animaux »</desc>
@@ -4711,7 +4507,111 @@
     <title lang="fr">Sophia TV</title>
     <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
   </programme>
-  <programme start="20260802055600 +0000" stop="20260802065152 +0000" channel="radio-santec.webtv.fr">
+  <programme start="20260802055600 +0000" stop="20260802065600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802065600 +0000" stop="20260802075600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802075600 +0000" stop="20260802085600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802085600 +0000" stop="20260802095600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802095600 +0000" stop="20260802105600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802105600 +0000" stop="20260802115600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802115600 +0000" stop="20260802125600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802125600 +0000" stop="20260802135600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802135600 +0000" stop="20260802145600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802145600 +0000" stop="20260802155600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802155600 +0000" stop="20260802165600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802165600 +0000" stop="20260802175600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802175600 +0000" stop="20260802185600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802185600 +0000" stop="20260802195600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802195600 +0000" stop="20260802205600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802205600 +0000" stop="20260802215600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802215600 +0000" stop="20260802225600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802225600 +0000" stop="20260802235600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260802235600 +0000" stop="20260803005600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260803005600 +0000" stop="20260803015600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260803015600 +0000" stop="20260803025600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260803025600 +0000" stop="20260803035600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260803035600 +0000" stop="20260803045600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260803045600 +0000" stop="20260803055600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260803055600 +0000" stop="20260803065600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260803065600 +0000" stop="20260803075600 +0000" channel="radio-santec.webtv.fr">
+    <title lang="fr">Sophia TV</title>
+    <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
+  </programme>
+  <programme start="20260803075600 +0000" stop="20260803075705 +0000" channel="radio-santec.webtv.fr">
     <title lang="fr">Sophia TV</title>
     <desc lang="fr">Sophia TV est une chaîne de télévision chrétienne indépendante. Sa programmation comprend des méditations, des enseignements spirituels, ainsi que des émissions pour enfants et de la musique classique.</desc>
   </programme>
