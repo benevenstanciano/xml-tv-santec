@@ -3,42 +3,6 @@
   <channel id="radio-santec.webtv.es">
     <display-name>Radio Santec WebTV ES</display-name>
   </channel>
-  <programme start="20260816220000 +0000" stop="20260816222530 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Conversando con... Sven Johannsen</title>
-    <desc lang="es">Conversando con... Sven Johannsen - Experto de sonidos</desc>
-  </programme>
-  <programme start="20260816222900 +0000" stop="20260816225000 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Aquí estamos en casa - animales en la tierra de la paz 2ª parte</title>
-    <desc lang="es">Aquí estamos en casa - animales en la tierra de la paz 2ª parte</desc>
-  </programme>
-  <programme start="20260816225400 +0000" stop="20260816234000 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Meditación: Las perlas en nosotros. El Reino de Dios, nuestro Hogar eterno</title>
-    <desc lang="es">Meditación: Las perlas en nosotros. El Reino de Dios, nuestro Hogar eterno</desc>
-  </programme>
-  <programme start="20260816234400 +0000" stop="20260817004130 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Superar las apariencias, encontrar la verdad</title>
-    <desc lang="es">Recogimiento Interno. Parte 22: Superar las apariencias, encontrar la verdad</desc>
-  </programme>
-  <programme start="20260817004730 +0000" stop="20260817010930 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Esta es Mi Palabra, Alfa y Omega. Capítulo 28: Jesús libera a los animales</title>
-    <desc lang="es">Esta es Mi Palabra, Alfa y Omega. Capítulo 28: Jesús libera a los animales</desc>
-  </programme>
-  <programme start="20260817011230 +0000" stop="20260817014300 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">Meditación: Horas estelares con Gabriele (2): Libertad, amor, unidad</title>
-    <desc lang="es">Meditación: Horas estelares con Gabriele (2): Libertad, amor, unidad</desc>
-  </programme>
-  <programme start="20260817014900 +0000" stop="20260817025000 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">El regreso de Sophia, la Sabiduría divina, a la casa eterna del Padre. 1ª parte</title>
-    <desc lang="es">El regreso de Sophia, la Sabiduría divina, a la casa eterna del Padre. 1ª parte</desc>
-  </programme>
-  <programme start="20260817025430 +0000" stop="20260817032400 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">El subconsciente que nos hace enfermar y la vida</title>
-    <desc lang="es">La verdadera escuela es la vida. Horas de enseñanza dadas desde la Sabiduría divina.</desc>
-  </programme>
-  <programme start="20260817032830 +0000" stop="20260817035330 +0000" channel="radio-santec.webtv.es">
-    <title lang="es">La Palabra Eterna se difunde a través de radio y televisión por toda la Tierra</title>
-    <desc lang="es">La Palabra Eterna se difunde a través de radio y televisión por toda la Tierra</desc>
-  </programme>
   <programme start="20260817040000 +0000" stop="20260817043200 +0000" channel="radio-santec.webtv.es">
     <title lang="es">Aprender a amar, ganar libertad, ser feliz</title>
     <desc lang="es">La verdadera escuela es la vida. Horas de enseñanza dadas desde la Sabiduría divina.La verdadera escuela es la vida. Horas de enseñanza dadas desde la Sabiduría divina.La verdadera escuela es la vida. Horas de enseñanza dadas desde la Sabiduría divina.</desc>
@@ -4235,7 +4199,103 @@
     <title lang="es">Sophia TV</title>
     <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
   </programme>
-  <programme start="20260920034230 +0000" stop="20260920040142 +0000" channel="radio-santec.webtv.es">
+  <programme start="20260920034230 +0000" stop="20260920044230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920044230 +0000" stop="20260920054230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920054230 +0000" stop="20260920064230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920064230 +0000" stop="20260920074230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920074230 +0000" stop="20260920084230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920084230 +0000" stop="20260920094230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920094230 +0000" stop="20260920104230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920104230 +0000" stop="20260920114230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920114230 +0000" stop="20260920124230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920124230 +0000" stop="20260920134230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920134230 +0000" stop="20260920144230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920144230 +0000" stop="20260920154230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920154230 +0000" stop="20260920164230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920164230 +0000" stop="20260920174230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920174230 +0000" stop="20260920184230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920184230 +0000" stop="20260920194230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920194230 +0000" stop="20260920204230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920204230 +0000" stop="20260920214230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920214230 +0000" stop="20260920224230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920224230 +0000" stop="20260920234230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260920234230 +0000" stop="20260921004230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260921004230 +0000" stop="20260921014230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260921014230 +0000" stop="20260921024230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260921024230 +0000" stop="20260921034230 +0000" channel="radio-santec.webtv.es">
+    <title lang="es">Sophia TV</title>
+    <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
+  </programme>
+  <programme start="20260921034230 +0000" stop="20260921040637 +0000" channel="radio-santec.webtv.es">
     <title lang="es">Sophia TV</title>
     <desc lang="es">Sophia TV es un canal de televisión cristiano independiente. Los programas incluyen meditaciones, enseñanzas espirituales, así como programas infantiles y música clásica.</desc>
   </programme>
