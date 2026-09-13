@@ -985,7 +985,7 @@
   </programme>
   <programme start="20260912170000 +0000" stop="20260912185000 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">Encontro da Comunidade Cristã Original em Altfeld, Alemanha</title>
-    <desc lang="pt">A Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus em setembro de 2026, o ano 3 da Era Messiânica e Sofiânica</desc>
+    <desc lang="pt">A Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus, em setembro de 2026, o ano 3 da Era Messiânica e Sofiânica</desc>
   </programme>
   <programme start="20260912185730 +0000" stop="20260912191130 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">As Comunidades Livres Sob o Signo do Lírio. Tema: A vida é evolução</title>
@@ -1005,7 +1005,7 @@
   </programme>
   <programme start="20260912214100 +0000" stop="20260912233100 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">Encontro da Comunidade Cristã Original em Altfeld, Alemanha</title>
-    <desc lang="pt">A Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus em setembro de 2026, o ano 3 da Era Messiânica e Sofiânica</desc>
+    <desc lang="pt">A Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus, em setembro de 2026, o ano 3 da Era Messiânica e Sofiânica</desc>
   </programme>
   <programme start="20260912233830 +0000" stop="20260912235930 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">Orar corretamente. Significa ter uma postura correta</title>
@@ -1033,7 +1033,7 @@
   </programme>
   <programme start="20260913033100 +0000" stop="20260913052100 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">Encontro da Comunidade Cristã Original em Altfeld, Alemanha</title>
-    <desc lang="pt">A Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus em setembro de 2026, o ano 3 da Era Messiânica e Sofiânica</desc>
+    <desc lang="pt">A Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus, em setembro de 2026, o ano 3 da Era Messiânica e Sofiânica</desc>
   </programme>
   <programme start="20260913052830 +0000" stop="20260913054930 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">Orar corretamente. Significa ter uma postura correta</title>
@@ -1061,7 +1061,7 @@
   </programme>
   <programme start="20260913080300 +0000" stop="20260913095300 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">Encontro da Comunidade Cristã Original em Altfeld, Alemanha</title>
-    <desc lang="pt">A Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus em setembro de 2026, o ano 3 da Era Messiânica e Sofiânica</desc>
+    <desc lang="pt">A Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus, em setembro de 2026, o ano 3 da Era Messiânica e Sofiânica</desc>
   </programme>
   <programme start="20260913100230 +0000" stop="20260913104000 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">Meditação de Oração. Nós nos voltamos para Cristo em nós</title>
@@ -1089,7 +1089,7 @@
   </programme>
   <programme start="20260913140230 +0000" stop="20260913155230 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">Encontro da Comunidade Cristã Original em Altfeld, Alemanha</title>
-    <desc lang="pt">A Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus em setembro de 2026, o ano 3 da Era Messiânica e Sofiânica</desc>
+    <desc lang="pt">A Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus, em setembro de 2026, o ano 3 da Era Messiânica e Sofiânica</desc>
   </programme>
   <programme start="20260913160000 +0000" stop="20260913161800 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">Vamos nos sintonizar com o Pai Nosso</title>
@@ -1109,7 +1109,7 @@
   </programme>
   <programme start="20260913180230 +0000" stop="20260913195230 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">Encontro da Comunidade Cristã Original em Altfeld, Alemanha</title>
-    <desc lang="pt">A Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus em setembro de 2026, o ano 3 da Era Messiânica e Sofiânica</desc>
+    <desc lang="pt">A Comunidade Central do Senhor para a edificação do Reino da Paz do Cristo de Deus, em setembro de 2026, o ano 3 da Era Messiânica e Sofiânica</desc>
   </programme>
   <programme start="20260913200300 +0000" stop="20260913204000 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">Meditação de Cura. O Bom Pastor, o Espírito do Cristo de Deus em cada alma</title>
@@ -3659,7 +3659,103 @@
     <title lang="pt">Sophia TV</title>
     <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
   </programme>
-  <programme start="20261010075200 +0000" stop="20261010075803 +0000" channel="radio-santec.webtv.pt">
+  <programme start="20261010075200 +0000" stop="20261010085200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010085200 +0000" stop="20261010095200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010095200 +0000" stop="20261010105200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010105200 +0000" stop="20261010115200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010115200 +0000" stop="20261010125200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010125200 +0000" stop="20261010135200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010135200 +0000" stop="20261010145200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010145200 +0000" stop="20261010155200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010155200 +0000" stop="20261010165200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010165200 +0000" stop="20261010175200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010175200 +0000" stop="20261010185200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010185200 +0000" stop="20261010195200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010195200 +0000" stop="20261010205200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010205200 +0000" stop="20261010215200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010215200 +0000" stop="20261010225200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010225200 +0000" stop="20261010235200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261010235200 +0000" stop="20261011005200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261011005200 +0000" stop="20261011015200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261011015200 +0000" stop="20261011025200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261011025200 +0000" stop="20261011035200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261011035200 +0000" stop="20261011045200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261011045200 +0000" stop="20261011055200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261011055200 +0000" stop="20261011065200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261011065200 +0000" stop="20261011075200 +0000" channel="radio-santec.webtv.pt">
+    <title lang="pt">Sophia TV</title>
+    <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
+  </programme>
+  <programme start="20261011075200 +0000" stop="20261011081957 +0000" channel="radio-santec.webtv.pt">
     <title lang="pt">Sophia TV</title>
     <desc lang="pt">Sophia TV é um canal de televisão cristão independente. Os programas incluem meditações, ensinamentos espirituais, bem como programas infantis e música clássica.</desc>
   </programme>
