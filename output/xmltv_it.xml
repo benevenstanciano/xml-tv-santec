@@ -3,166 +3,6 @@
   <channel id="radio-santec.webtv.it">
     <display-name>Radio Santec WebTV IT</display-name>
   </channel>
-  <programme start="20261017065100 +0000" stop="20261017082730 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Festa del Ringraziamento per il Raccolto secondo il Cristianesimo Originario</title>
-    <desc lang="it">La Comunità Capostipite del Signore per edificare il Regno della Pace del Cristo-Dio invita alla Festa del Ringraziamento per il Raccolto secondo il Cristianesimo Originario</desc>
-  </programme>
-  <programme start="20261017083130 +0000" stop="20261017083830 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Siamo le Comunità Libere - collega e sii (11)</title>
-    <desc lang="it">Parole del Padre rivolte anche a te</desc>
-  </programme>
-  <programme start="20261017083830 +0000" stop="20261017090700 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Le comunità libere sotto il segno del Giglio - L'amore di Dio per gli uomini e per ogni creatura</title>
-    <desc lang="it">Le comunità libere sotto il segno del Giglio - L'amore di Dio per gli uomini e per ogni creatura</desc>
-  </programme>
-  <programme start="20261017091130 +0000" stop="20261017100430 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">La parola profetica nella corrente del Cristianesimo Originario  - oggi e in tutti i tempi - e il tentativo di eliminare le Comunità Originarie, i seguaci di Gesù di Narareth. Prima parte</title>
-    <desc lang="it">La parola profetica nella corrente del Cristianesimo Originario  - oggi e in tutti i tempi - e il tentativo di eliminare le Comunità Originarie, i seguaci di Gesù di Narareth. Prima parte</desc>
-  </programme>
-  <programme start="20261017101000 +0000" stop="20261017103730 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">La forza redentrice del Cristo-Dio in noi</title>
-    <desc lang="it">La vera scuola è la vita. Insegnamenti dati dalla Sapienza divina</desc>
-  </programme>
-  <programme start="20261017104330 +0000" stop="20261017110230 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Pregare con Cristo</title>
-    <desc lang="it">Data da Gabriele, la profetessa e messaggera del Regno Eterno</desc>
-  </programme>
-  <programme start="20261017110500 +0000" stop="20261017124130 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Festa del Ringraziamento per il Raccolto secondo il Cristianesimo Originario</title>
-    <desc lang="it">La Comunità Capostipite del Signore per edificare il Regno della Pace del Cristo-Dio invita alla Festa del Ringraziamento per il Raccolto secondo il Cristianesimo Originario</desc>
-  </programme>
-  <programme start="20261017124630 +0000" stop="20261017131000 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">La vita dell'estate - la maturità - la vita in noi</title>
-    <desc lang="it">Meditazione data da Gabriele, la profetessa e messaggera del Regno Eterno il 24 giugno 1988</desc>
-  </programme>
-  <programme start="20261017131300 +0000" stop="20261017132600 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">La chiamata di Gabriele: Il richiamo del Cristo-Dio (6)</title>
-    <desc lang="it">La chiamata di Gabriele: Il richiamo del Cristo-Dio (6)</desc>
-  </programme>
-  <programme start="20261017133300 +0000" stop="20261017142900 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Il ritorno di Sophia, la Sapienza divina, nell'eterna Casa del Padre. Seconda puntata</title>
-    <desc lang="it">Il ritorno di Sophia, la Sapienza divina, nell'eterna Casa del Padre. Seconda puntata</desc>
-  </programme>
-  <programme start="20261017143230 +0000" stop="20261017160900 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Festa del Ringraziamento per il Raccolto secondo il Cristianesimo Originario</title>
-    <desc lang="it">La Comunità Capostipite del Signore per edificare il Regno della Pace del Cristo-Dio invita alla Festa del Ringraziamento per il Raccolto secondo il Cristianesimo Originario</desc>
-  </programme>
-  <programme start="20261017161330 +0000" stop="20261017163130 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Meditazione con preghiera. Percepite nel profondo della vita</title>
-    <desc lang="it">Percepite nel profondo della vita, data da Gabriele</desc>
-  </programme>
-  <programme start="20261017163530 +0000" stop="20261017165700 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Lettura dal libro: Il Discorso della Montagna di Gesù di Nazareth. Parte 5</title>
-    <desc lang="it">Parte 5: non legarti a persone o cose</desc>
-  </programme>
-  <programme start="20261017170200 +0000" stop="20261017172600 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Meditazione - Parole del Padre per tutti</title>
-    <desc lang="it">Meditazione - Parole del Padre anche per te</desc>
-  </programme>
-  <programme start="20261017172930 +0000" stop="20261017174930 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">La vera scuola è la vita. Insegnamenti dati dalla Sapienza divina</title>
-    <desc lang="it">Essere persone che imitano e seguono gli altri o raggiungere la libertà</desc>
-  </programme>
-  <programme start="20261017175100 +0000" stop="20261017181930 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">La Nuova Epoca - una coscienza più elevata?</title>
-    <desc lang="it">Non fare alcun male e non ti accadrà niente di male! Lasciati guidare! Terza parte</desc>
-  </programme>
-  <programme start="20261017182130 +0000" stop="20261017184730 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">La via interiore verso la coscienza cosmica, grado dell'Ordine - 04</title>
-    <desc lang="it">Parte 4 : La preghiera dell'anima</desc>
-  </programme>
-  <programme start="20261017184930 +0000" stop="20261017190600 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Cristo in noi, il medico dell'anima</title>
-    <desc lang="it">Meditazione contemplativa. Cristo in noi, il medico dell'anima</desc>
-  </programme>
-  <programme start="20261017191000 +0000" stop="20261017204630 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Festa del Ringraziamento per il Raccolto secondo il Cristianesimo Originario</title>
-    <desc lang="it">La Comunità Capostipite del Signore per edificare il Regno della Pace del Cristo-Dio invita alla Festa del Ringraziamento per il Raccolto secondo il Cristianesimo Originario</desc>
-  </programme>
-  <programme start="20261017205500 +0000" stop="20261017211130 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">La vera scuola è la vita. Insegnamenti dati dalla Sapienza divina</title>
-    <desc lang="it">Vivere nello Spirito di Dio</desc>
-  </programme>
-  <programme start="20261017211500 +0000" stop="20261017213900 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Il cherubino della Sapienza divina si è rivelato in occasione dell'incontro secondo il Cristianesimo Originario alla vigna sulla Terra di Cristo e Isaia, nell'agosto 2026, nell'anno 3 dell'epoca messianica e sophianica</title>
-    <desc lang="it">Il cherubino della Sapienza divina si è rivelato in occasione dell'incontro secondo il Cristianesimo Originario alla vigna sulla Terra di Cristo e Isaia, nell'agosto 2026, nell'anno 3 dell'epoca messianica e sophianica</desc>
-  </programme>
-  <programme start="20261017214500 +0000" stop="20261017220000 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Musica classica per l'anima. Santec Music Orchestra</title>
-    <desc lang="it">Valse da String Serenade op.48 di P.I. Tchaikovsky, Apres un reve di G. Faure, Allegretto dal Quintetto di fiati op.56/2 di F. Danzi (febbraio 2017)</desc>
-  </programme>
-  <programme start="20261017220000 +0000" stop="20261017223000 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Meditazione - In ogni respiro c'è la presenza di Dio</title>
-    <desc lang="it">Meditazione - In ogni respiro c'è la presenza di Dio</desc>
-  </programme>
-  <programme start="20261017223430 +0000" stop="20261018001100 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Festa del Ringraziamento per il Raccolto secondo il Cristianesimo Originario</title>
-    <desc lang="it">La Comunità Capostipite del Signore per edificare il Regno della Pace del Cristo-Dio invita alla Festa del Ringraziamento per il Raccolto secondo il Cristianesimo Originario</desc>
-  </programme>
-  <programme start="20261018001500 +0000" stop="20261018003600 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Qui siamo a casa - gli animali sulla terra della pace. Parte 2</title>
-    <desc lang="it">Qui siamo a casa - gli animali sulla terra della pace. Parte 2</desc>
-  </programme>
-  <programme start="20261018003600 +0000" stop="20261018005130 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Le comunità libere sotto il segno del Giglio -  Là dove due o tre pregano</title>
-    <desc lang="it">Le comunità libere sotto il segno del Giglio -  Là dove due o tre pregano</desc>
-  </programme>
-  <programme start="20261018010000 +0000" stop="20261018010730 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">La chiamata di Gabriele: Preghiera di Gabriele con una richiesta di cuore (4)</title>
-    <desc lang="it">La chiamata di Gabriele: Preghiera di Gabriele con una richiesta di cuore (4)</desc>
-  </programme>
-  <programme start="20261018010730 +0000" stop="20261018013800 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Meditazione - Padre Nostro</title>
-    <desc lang="it">Per una comprensione più profonda del Padre Nostro</desc>
-  </programme>
-  <programme start="20261018014100 +0000" stop="20261018021000 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">I Dieci Comandamenti di Dio - spiegati con le parole dell'epoca odierna. Prima parte</title>
-    <desc lang="it">I Dieci Comandamenti di Dio - spiegati con le parole dell'epoca odierna. Prima parte</desc>
-  </programme>
-  <programme start="20261018021530 +0000" stop="20261018023600 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">I Dieci Comandamenti di Dio - spiegati con le parole dell'epoca odierna. Seconda parte</title>
-    <desc lang="it">I Dieci Comandamenti di Dio - spiegati con le parole dell'epoca odierna. Seconda parte</desc>
-  </programme>
-  <programme start="20261018023830 +0000" stop="20261018025630 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">I Dieci Comandamenti di Dio - spiegati con le parole dell'epoca odierna. Terza parte</title>
-    <desc lang="it">I Dieci Comandamenti di Dio - spiegati con le parole dell'epoca odierna. Terza parte</desc>
-  </programme>
-  <programme start="20261018030200 +0000" stop="20261018034100 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Gesù di Nazareth è venuto anche per gli animali</title>
-    <desc lang="it">Gesù di Nazareth è venuto anche per gli animali</desc>
-  </programme>
-  <programme start="20261018034730 +0000" stop="20261018040630 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Pregare con Cristo</title>
-    <desc lang="it">Data da Gabriele, la profetessa e messaggera del Regno Eterno</desc>
-  </programme>
-  <programme start="20261018041130 +0000" stop="20261018043230 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Impara a pregare. Nella vera preghiera sperimenti Dio. La vera preghiera rende felici. Parte terza</title>
-    <desc lang="it">Impara a pregare. Nella vera preghiera sperimenti Dio. La vera preghiera rende felici. Parte terza</desc>
-  </programme>
-  <programme start="20261018043700 +0000" stop="20261018052400 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Reincarnazione - un dono di grazia della vita</title>
-    <desc lang="it">Reincarnazione - un dono di grazia della vita</desc>
-  </programme>
-  <programme start="20261018052500 +0000" stop="20261018054600 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Pregare in modo giusto significa assumere un atteggiamento corretto</title>
-    <desc lang="it">Meditazione data da Gabriele, la profetessa e messaggera del Regno Eterno il 4 Marzo 2005</desc>
-  </programme>
-  <programme start="20261018054700 +0000" stop="20261018060000 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">La chiamata di Gabriele: Il richiamo del Cristo-Dio (6)</title>
-    <desc lang="it">La chiamata di Gabriele: Il richiamo del Cristo-Dio (6)</desc>
-  </programme>
-  <programme start="20261018060000 +0000" stop="20261018073630 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Festa del Ringraziamento per il Raccolto secondo il Cristianesimo Originario</title>
-    <desc lang="it">La Comunità Capostipite del Signore per edificare il Regno della Pace del Cristo-Dio invita alla Festa del Ringraziamento per il Raccolto secondo il Cristianesimo Originario</desc>
-  </programme>
-  <programme start="20261018073630 +0000" stop="20261018074530 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Musica classica per l'anima. Santec Music Orchestra</title>
-    <desc lang="it">Adagio religioso dalla Sinfonia n. 2 &quot;Lobgesang&quot; di F. Mendelssohn-Bartholdy (aprile 2017)</desc>
-  </programme>
-  <programme start="20261018074630 +0000" stop="20261018081430 +0000" channel="radio-santec.webtv.it">
-    <title lang="it">Comunità libere internazionali  di giovani in tutto il mondo!</title>
-    <desc lang="it">Comunità libere internazionali  di giovani in tutto il mondo!</desc>
-  </programme>
   <programme start="20261018082330 +0000" stop="20261018083430 +0000" channel="radio-santec.webtv.it">
     <title lang="it">Il pupazzo di neve</title>
     <desc lang="it">Storia a cartoni animati per bambini</desc>
@@ -4375,7 +4215,103 @@
     <title lang="it">Sophia TV</title>
     <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
   </programme>
-  <programme start="20261121075730 +0000" stop="20261121080827 +0000" channel="radio-santec.webtv.it">
+  <programme start="20261121075730 +0000" stop="20261121085730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121085730 +0000" stop="20261121095730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121095730 +0000" stop="20261121105730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121105730 +0000" stop="20261121115730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121115730 +0000" stop="20261121125730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121125730 +0000" stop="20261121135730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121135730 +0000" stop="20261121145730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121145730 +0000" stop="20261121155730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121155730 +0000" stop="20261121165730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121165730 +0000" stop="20261121175730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121175730 +0000" stop="20261121185730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121185730 +0000" stop="20261121195730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121195730 +0000" stop="20261121205730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121205730 +0000" stop="20261121215730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121215730 +0000" stop="20261121225730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121225730 +0000" stop="20261121235730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261121235730 +0000" stop="20261122005730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261122005730 +0000" stop="20261122015730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261122015730 +0000" stop="20261122025730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261122025730 +0000" stop="20261122035730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261122035730 +0000" stop="20261122045730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261122045730 +0000" stop="20261122055730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261122055730 +0000" stop="20261122065730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261122065730 +0000" stop="20261122075730 +0000" channel="radio-santec.webtv.it">
+    <title lang="it">Sophia TV</title>
+    <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
+  </programme>
+  <programme start="20261122075730 +0000" stop="20261122082827 +0000" channel="radio-santec.webtv.it">
     <title lang="it">Sophia TV</title>
     <desc lang="it">Sophia TV è un canale televisivo cristiano indipendente. La programmazione comprende meditazioni, insegnamenti spirituali, programmi per bambini e musica classica.</desc>
   </programme>
